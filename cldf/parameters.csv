@@ -1,0 +1,591 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,Number,MSA
+1_one,one,1493,ONE,1,one
+2_two,two,1498,TWO,2,two
+3_three,three,492,THREE,3,three
+4_four,four,1500,FOUR,4,four
+5_five,five,493,FIVE,5,five
+6_six,six,1703,SIX,6,six
+7_seven,seven,1704,SEVEN,7,seven
+8_eight,eight,1705,EIGHT,8,eight
+9_nine,nine,1483,NINE,9,nine
+10_ten,ten,1515,TEN,10,ten
+11_year,year,1226,YEAR,11,year
+12_we,we,1212,WE,12,we
+13_you,you,1213,YOU,13,you
+14_heshe,he/she,2642,HE OR SHE,14,he/she
+15_they,they,817,THEY,15,they
+16_not,not,1240,NOT,16,not
+17_who,who,1235,WHO,17,who
+18_this,this,1214,THIS,18,this
+19_that,that,78,THAT,19,that
+20_here,here,136,HERE,20,here
+21_hair,hair,1040,HAIR,21,hair
+22_eye,eye,1248,EYE,22,eye
+23_nose,nose,1221,NOSE,23,nose
+24_ear,ear,1247,EAR,24,ear
+25_mouth,mouth,674,MOUTH,25,mouth
+26_tongue,tongue,1205,TONGUE,26,tongue
+27_tooth,tooth,1380,TOOTH,27,tooth
+28_hand,hand,1277,HAND,28,hand
+29_neck,neck,1333,NECK,29,neck
+30_foot,foot,1301,FOOT,30,foot
+31_blood,blood,946,BLOOD,31,blood
+32_bone,bone,1394,BONE,32,bone
+33_skin,skin,763,SKIN,33,skin
+34_fingernail,fingernail,1258,FINGERNAIL,34,fingernail
+35_belly,belly,1251,BELLY,35,belly
+36_heart,heart,1223,HEART,36,heart
+37_dog,dog,2009,DOG,37,dog
+38_horn,horn,1393,HORN (ANATOMY),38,horn
+39_tail,tail,1220,TAIL,39,tail
+40_person,person,683,PERSON,40,person
+41_woman,woman,962,WOMAN,41,woman
+42_name,name,1405,NAME,42,name
+43_day,day,1225,DAY (NOT NIGHT),43,day
+44_night,night,1233,NIGHT,44,night
+45_sun,sun,1343,SUN,45,sun
+46_moon,moon,1313,MOON,46,moon
+47_world,world,965,WORLD,47,world
+48_water,water,948,WATER,48,water
+49_lake,lake,624,LAKE,49,lake
+50_fire,fire,221,FIRE,50,fire
+51_bee,bee,665,BEE,51,bee
+52_intestinegut,"intestine, gut",1991,INTESTINES,52,"intestine, gut"
+53_toitch,to itch,148,ITCH,53,to itch
+54_behind,behind,1686,BEHIND,54,behind
+55_big,big,1202,BIG,55,big
+56_bird,bird,937,BIRD,56,bird
+57_bitter,bitter,887,BITTER,57,bitter
+58_black,black,163,BLACK,58,black
+59_toblow,to blow,175,BLOW (OF WIND),59,to blow
+60_toboil,to boil,2493,BOIL,60,to boil
+61_ant,ant,587,ANT,61,ant
+62_breast,breast,1402,BREAST,62,breast
+63_bridge,bridge,1011,BRIDGE,63,bridge
+64_buckwheat,buckwheat,2040,BUCKWHEAT,64,buckwheat
+65_tobuy,to buy,1869,BUY,65,to buy
+66_chicken,chicken,1318,CHICKEN,66,chicken
+67_tochirp,to chirp,,,67,to chirp
+68_toask,to ask,1309,ASK (INQUIRE),68,to ask
+69_chopsticks,chopsticks,1987,CHOPSTICKS,69,chopsticks
+70_classifierchicken,classifier (chicken),,,70,classifier (chicken)
+71_classifiergrainofrice,classifier (grain of rice),,,71,classifier (grain of rice)
+72_classifierclothes,classifier (clothes),,,72,classifier (clothes)
+73_toclose,to close,1046,SHUT,73,to close
+74_cloth,cloth,1616,CLOTH,74,cloth
+75_cold,cold,1287,COLD,75,cold
+76_comb,comb,1475,COMB,76,comb
+77_tocomb,to comb,2070,COMB (VERB),77,to comb
+78_tocry,to cry,1839,CRY,78,to cry
+79_tocut,to cut,1432,CUT,79,to cut
+80_tocutup,to cut up,,,80,to cut up
+81_daughter,daughter,1357,DAUGHTER,81,daughter
+82_todie,to die,1494,DIE,82,to die
+83_door,door,1567,DOOR,83,door
+84_dragon,dragon,2038,DRAGON,84,dragon
+85_bamboo,bamboo,1927,BAMBOO,85,bamboo
+86_todrink,to drink,1401,DRINK,86,to drink
+87_dry,dry,1398,DRY,87,dry
+88_early,early,672,EARLY,88,early
+89_earring,earring,770,EARRING,89,earring
+90_earth,earth,1228,EARTH (SOIL),90,earth
+91_earthwormworm,"earthworm, worm",1219,WORM,91,"earthworm, worm"
+92_toeat,to eat,1336,EAT,92,to eat
+93_egg,egg,744,EGG,93,egg
+94_bark,bark,1204,BARK,94,bark
+95_tofalldowntodrop,"to fall down, to drop",750,DROP,95,"to fall down, to drop"
+96_far,far,1406,FAR,96,far
+97_finger,finger,1303,FINGER,97,finger
+98_firewood,firewood,10,FIREWOOD,98,firewood
+99_fish,fish,227,FISH,99,fish
+100_tobark,to bark,1206,BARKING,100,to bark
+101_fly,fly,1441,FLY (MOVE THROUGH AIR),101,fly
+102_fragrant,fragrant,376,FRAGRANT,102,fragrant
+103_frog,frog,503,FROG,103,frog
+104_frost,frost,2034,FROST,104,frost
+105_ghost,ghost,1175,GHOST,105,ghost
+106_give,give,1447,GIVE,106,give
+107_glutinousrice,glutinous rice,2750,GLUTINOUS RICE,107,glutinous rice
+108_good,good,1035,GOOD,108,good
+109_barley,barley,932,BARLEY,109,barley
+110_fat,fat,323,FAT (ORGANIC SUBSTANCE),110,fat
+111_togrind,to grind,1033,GRIND,111,to grind
+112_head,head,1256,HEAD,112,head
+113_heavy,heavy,1210,HEAVY,113,heavy
+114_hemp,hemp,2041,HEMP,114,hemp
+115_tohide,to hide,2486,HIDE,115,to hide
+116_bed,bed,1663,BED,116,bed
+117_hightall,"high, tall",711,TALL,117,"high, tall"
+118_hoe,hoe,284,HOE,118,hoe
+119_horse,horse,615,HORSE,119,horse
+120_hot,hot,1286,HOT,120,hot
+121_house,house,1252,HOUSE,121,house
+122_hundred,hundred,1634,HUNDRED,122,hundred
+123_i,I,1209,I,123,I
+124_illsick,"ill, sick",1847,SICK,124,"ill, sick"
+125_interest,interest,2062,INTEREST,125,interest
+126_lamb,lamb,820,LAMB,126,"Bulgarian агне (""lamb"")"
+127_i,I,1209,I,127,"Bulgarian аз (""I"")"
+128_eyebrow,eyebrow,1173,EYEBROW,128,"Bulgarian вежда (""eyebrow"")"
+129_walnut,walnut,2042,WALNUT,129,"Bulgarian орех (""walnut"")"
+130_bake,bake,183,BAKE,130,"Bulgarian пека (""bake"" — 1st singular)"
+131_ash,ash,646,ASH,131,"Bulgarian пепел (""ash"")"
+132_rooster,rooster,1511,ROOSTER,132,"Bulgarian петел (""rooster"")"
+133_friday,Friday,1692,FRIDAY,133,"Bulgarian петък (""Friday"")"
+134_pay,pay,718,PAY,134,"Bulgarian плащам (""pay"" — 1st singular)"
+135_monday,Monday,1697,MONDAY,135,"Bulgarian понеделник (""Monday"")"
+136_hegoat,he-goat,2475,MALE GOAT,136,"Bulgarian пръч (""he-goat"")"
+137_first,first,728,FIRST,137,"Bulgarian първият (""first"" — he)"
+138_road,road,667,ROAD,138,"Bulgarian път (""road"")"
+139_already,already,2576,ALREADY,139,"Bulgarian вече (""already"")"
+140_sand,sand,671,SAND,140,"Bulgarian пясък (""sand"")"
+141_river,river,666,RIVER,141,"Bulgarian река (""river"")"
+142_hand,hand,1277,HAND,142,"Bulgarian ръка (""hand"")"
+143_hands,hands,,,143,"Bulgarian ръце (""hands"")"
+144_onesself,"one's, self",1993,SELF,144,"Bulgarian се (""one's, self"")"
+145_now,now,1376,NOW,145,"Bulgarian сега (""now"")"
+146_sit,sit,1416,SIT,146,"Bulgarian седя (""sit"" — 1st singular)"
+147_sister,sister,1263,SISTER,147,"Bulgarian сестра (""sister"")"
+148_cheese,cheese,1569,CHEESE,148,"Bulgarian сирене (""cheese"")"
+149_salt,salt,1274,SALT,149,"Bulgarian сол (""salt"")"
+150_evening,evening,1629,EVENING,150,"Bulgarian вечер (""evening"")"
+151_themiddle,the middle,1093,MIDDLE,151,"Bulgarian средата (""the middle"")"
+152_wednesday,Wednesday,1694,WEDNESDAY,152,"Bulgarian сряда (""Wednesday"")"
+153_oldman,old man,406,OLD MAN,153,"Bulgarian старец (""old man"")"
+154_fear,fear,1419,FEAR (BE AFRAID),154,"Bulgarian страх (""fear"")"
+155_dry,dry,1398,DRY,155,"Bulgarian сух (""dry"")"
+156_saturday,Saturday,1700,SATURDAY,156,"Bulgarian събота (""Saturday"")"
+157_sickle,sickle,341,SICKLE,157,"Bulgarian сърп (""sickle"")"
+158_with,with,1340,WITH,158,"Bulgarian със (""with"")"
+159_such,such,,,159,"Bulgarian такъв (""such"")"
+160_yours,yours,732,YOUR (SINGULAR),160,"Bulgarian твой (""yours"")"
+161_saw,saw,1948,SAW,161,"Bulgarian видях (""saw"" — 1st singular)"
+162_this,this,1214,THIS,162,"Bulgarian това (""this"" — neut)"
+163_then,then,2921,THEN,163,"Bulgarian тогава (""then"")"
+164_grass,grass,606,GRASS,164,"Bulgarian трева (""grass"")"
+165_dark,dark,706,DARK,165,"Bulgarian тъмно (""dark"" — neut)"
+166_thin,thin,2308,THIN,166,"Bulgarian тънко (""thin"" — neut;thinly)"
+167_tomorrow,tomorrow,1329,TOMORROW,167,"Bulgarian утре (""tomorrow"")"
+168_ear,ear,1247,EAR,168,"Bulgarian ухо (""ear"")"
+169_oven,oven,1143,OVEN,169,"Bulgarian фурна (""oven"")"
+170_bread,bread,1368,BREAD,170,"Bulgarian хляб (""bread"")"
+171_chaindance,chain dance,,,171,"Bulgarian хоро (""chain dance"")"
+172_you,you,1213,YOU,172,"Bulgarian вие (""you"" — plural)"
+173_pretty,pretty,2410,GOOD-LOOKING,173,"Bulgarian хубав (""pretty"" — masc)"
+174_pretty,pretty,2410,GOOD-LOOKING,174,"Bulgarian хубаво (""pretty"" — neut;good-neut)"
+175_whole,whole,2277,WHOLE,175,"Bulgarian цял (""whole"")"
+176_wait,wait,1590,WAIT (FOR),176,"Bulgarian чакат (""wait"" — 3rd plural)"
+177_red,red,156,RED,177,"Bulgarian червен (""red"" — masc)"
+178_black,black,163,BLACK,178,"Bulgarian черен (""black"" — masc)"
+179_cherry,cherry,2765,CHERRY,179,"Bulgarian череша (""cherry"")"
+180_read,read,724,READ,180,"Bulgarian чета (""read"" — 1st singular)"
+181_fountain,fountain,849,SPRING (OF WATER),181,"Bulgarian чешма (""fountain"")"
+182_person,person,683,PERSON,182,"Bulgarian човек (""person"")"
+183_wine,wine,1524,WINE,183,"Bulgarian вино (""wine"")"
+184_willshall,"will, shall",1579,BE,184,"Bulgarian ще (""will, shall"")"
+185_her,her,2474,HER (GENITIVE OF SHE),185,"Bulgarian я (""her"" — accusative, short form)"
+186_apple,apple,1320,APPLE,186,"Bulgarian ябълка (""apple"")"
+187_apples,apples,,,187,"Bulgarian ябълки (""apples"")"
+188_eat,eat,1336,EAT,188,"Bulgarian ядеш (""eat"" — 2nd singular)"
+189_eggs,eggs,,,189,"Bulgarian яйца (""eggs"")"
+190_egg,egg,744,EGG,190,"Bulgarian яйце (""egg"")"
+191_eat,eat,1336,EAT,191,"Bulgarian ям (""eat"" — 1st singular)"
+192_enter,enter,749,ENTER,192,"Bulgarian влизам (""enter"" — 1st singular)"
+193_water,water,948,WATER,193,"Bulgarian вода (""water"")"
+194_ox,ox,1169,OX,194,"Bulgarian вол (""ox"")"
+195_time,time,892,TIME,195,"Bulgarian време (""time"")"
+196_white,white,1335,WHITE,196,"Bulgarian бели (""white"" — plural)"
+197_peak,peak,2205,PEAK,197,"Bulgarian връх (""peak"")"
+198_giveback,give back,85,GIVE BACK,198,"Bulgarian връщам (""give back"" — 1st singular)"
+199_wolf,wolf,522,WOLF,199,"Bulgarian вълк (""wolf"")"
+200_wool,wool,964,WOOL,200,"Bulgarian вълна (""wool"")"
+201_outside,outside,762,OUTSIDE,201,"Bulgarian вънка (""outside"")"
+202_inside,inside,1606,INSIDE,202,"Bulgarian вътре (""inside"")"
+203_wind,wind,960,WIND,203,"Bulgarian вятър (""wind"")"
+204_head,head,1256,HEAD,204,"Bulgarian глава (""head"")"
+205_pickup,pick up,371,PICK UP,205,"Bulgarian берат (""pick up"" — 3rd plural)"
+206_hungry,hungry,1533,BE HUNGRY,206,"Bulgarian гладен (""hungry"")"
+207_bovineanimalbeef,"bovine animal, beef",2570,BEEF,207,"Bulgarian говедо (""bovine animal, beef"")"
+208_up,up,1591,UP,208,"Bulgarian горе (""up"")"
+209_guests,guests,,,209,"Bulgarian гости (""guests"")"
+210_thetown,the town,1391,TOWN,210,"Bulgarian градът (""the town"")"
+211_grapes,grapes,920,GRAPE,211,"Bulgarian грозде (""grapes"")"
+212_gave,gave,1447,GIVE,212,"Bulgarian дадоха (""gave"" — 3rd plural)"
+213_two,two,1498,TWO,213,"Bulgarian две (""two"")"
+214_yard,yard,736,YARD,214,"Bulgarian двор (""yard"")"
+215_day,day,1225,DAY (NOT NIGHT),215,"Bulgarian ден (""day"")"
+216_was,was,1579,BE,216,"Bulgarian беше (""was"" — 3rd person)"
+217_flay,flay,,,217,"Bulgarian дера (""flay"" — 1st singular)"
+218_ten,ten,1515,TEN,218,"Bulgarian десет (""ten"")"
+219_child,child,2099,CHILD,219,"Bulgarian дете (""child"")"
+220_pocket,pocket,1851,POCKET,220,"Bulgarian джоб (""pocket"")"
+221_today,today,1283,TODAY,221,"Bulgarian днес (""today"")"
+222_well,well,954,WELL,222,"Bulgarian добре (""well"" — adv)"
+223_down,down,1326,DOWN,223,"Bulgarian долу (""down"")"
+224_hascome,has come,,,224,"Bulgarian дошъл (""has come"" — 3rd singular)"
+225_rain,rain,658,RAIN (PRECIPITATION),225,"Bulgarian дъжд (""rain"")"
+226_deep,deep,1593,DEEP,226,"Bulgarian дълбок (""deep"")"
+227_picking,picking,,,227,"Bulgarian бране (""picking"" — up;gathering-verbal noun)"
+228_bottom,bottom,690,BOTTOM,228,"Bulgarian дъно (""bottom"")"
+229_tree,tree,906,TREE,229,"Bulgarian дърво (""tree"")"
+230_one,one,1493,ONE,230,"Bulgarian един (""one"" — masc)"
+231_one,one,1493,ONE,231,"Bulgarian едно (""one"" — neut)"
+232_tongue,tongue,1205,TONGUE,232,"Bulgarian език (""tongue"")"
+233_barley,barley,932,BARLEY,233,"Bulgarian ечемик (""barley"")"
+234_iron,iron,621,IRON,234,"Bulgarian желязо (""iron"")"
+235_woman,woman,962,WOMAN,235,"Bulgarian жена (""woman"")"
+236_alive,alive,1422,BE ALIVE,236,"Bulgarian жив (""alive"")"
+237_flour,flour,1594,FLOUR,237,"Bulgarian брашно (""flour"")"
+238_yellow,yellow,1424,YELLOW,238,"Bulgarian жълт (""yellow"")"
+239_harvest,harvest,3327,AUTUMN OR HARVEST SEASON,239,"Bulgarian жътва (""harvest"")"
+240_star,star,1430,STAR,240,"Bulgarian звезда (""star"")"
+241_healthy,healthy,1364,HEALTHY,241,"Bulgarian здрав (""healthy"")"
+242_earth,earth,1228,EARTH (SOIL),242,"Bulgarian земя (""earth"")"
+243_soninlawbrotherinlaw,son-in-law; brother-in-law,1056,SON-IN-LAW,243,"Bulgarian зет (""son-in-law; brother-in-law"")"
+244_them,them,,,244,"Bulgarian им (""them"" — dative, short form;their)"
+245_her,her,2474,HER (GENITIVE OF SHE),245,"Bulgarian й (""her"" — dative, short form)"
+246_stone,stone,857,STONE,246,"Bulgarian камък (""stone"")"
+247_quickly,quickly,1631,FAST,247,"Bulgarian бързо (""quickly"")"
+248_key,key,1472,KEY,248,"Bulgarian ключ (""key"")"
+249_which,which,727,WHICH,249,"Bulgarian кое (""which"" — neut)"
+250_horse,horse,615,HORSE,250,"Bulgarian кон (""horse"")"
+251_blood,blood,946,BLOOD,251,"Bulgarian кръв (""blood"")"
+252_where,where,1237,WHERE,252,"Bulgarian къде (""where"")"
+253_easy,easy,686,EASY,253,"Bulgarian лесно (""easy"")"
+254_lentils,lentils,3330,LENTILS,254,"Bulgarian леща (""lentils"")"
+255_mother,mother,1216,MOTHER,255,"Bulgarian майка (""mother"")"
+256_month,month,1370,MONTH,256,"Bulgarian месец (""month"")"
+257_meat,meat,634,MEAT,257,"Bulgarian месо (""meat"")"
+258_were,were,1579,BE,258,"Bulgarian бяхме (""were"" — 1st plural)"
+259_themilk,the milk,635,MILK,259,"Bulgarian млякото (""the milk"")"
+260_muchmany,much;many,1198,MANY,260,"Bulgarian много (""much;many"")"
+261_man,man,1554,MAN,261,"Bulgarian мъж (""man"")"
+262_theman,the man,1554,MAN,262,"Bulgarian мъжът (""the man"")"
+263_men,men,1554,MAN,263,"Bulgarian мъже (""men"")"
+264_ours,ours,780,OUR,264,"Bulgarian наше (""ours"")"
+265_sunday,Sunday,1699,SUNDAY,265,"Bulgarian неделя (""Sunday"")"
+266_doesnotwant,does not want,,,266,"Bulgarian неще (""does not want"" — 3rd singular)"
+267_something,something,,,267,"Bulgarian нещо (""something"")"
+268_her,her,2474,HER (GENITIVE OF SHE),268,"Bulgarian нея (""her"")"
+269_carry,carry,700,CARRY,269,"Bulgarian носят (""carry"" — 3rd plural)"
+270_night,night,1233,NIGHT,270,"Bulgarian нощ (""night"")"
+271_thereisnowillnot,"there is no, will not",,,271,"Bulgarian няма (""there is no, will not"")"
+272_sheep,sheep,1331,SHEEP,272,"Bulgarian овца (""sheep"" — sg)"
+273_sheep,sheep,1331,SHEEP,273,"Bulgarian овце (""sheep"" — pl)"
+274_shepherd,shepherd,2544,SHEPHERD,274,"Bulgarian овчар (""shepherd"")"
+275_shepherds,shepherds,,,275,"Bulgarian овчари (""shepherds"")"
+276_fire,fire,221,FIRE,276,"Bulgarian огън (""fire"")"
+277_those,those,78,THAT,277,"Bulgarian онези (""those"")"
+288_drink,drink,1401,DRINK,288,drink
+289_brother,brother,1262,BROTHER,289,brother
+317_is,is,1579,BE,317,is
+318_green,green,1425,GREEN,318,green
+321_milk,milk,635,MILK,321,milk
+323_cow,cow,1007,COW,323,cow
+332_snow,snow,784,SNOW,332,snow
+346_knee,knee,1371,KNEE,346,knee
+374_swim,swim,1439,SWIM,374,swim
+380_father,father,1217,FATHER,380,father
+405_new,new,1231,NEW,405,new
+413_long,long,1203,LONG,413,long
+414_word,word,1599,WORD,414,word
+420_dutchnaap,Dutch *'n aap*,,,420,Dutch *'n aap*
+421_dutchndak,Dutch *'n dak*,,,421,Dutch *'n dak*
+422_dutchndief,Dutch *'n dief*,,,422,Dutch *'n dief*
+423_dutchndochter,Dutch *'n dochter*,,,423,Dutch *'n dochter*
+424_dutchkopen,Dutch *kopen*,,,424,Dutch *kopen*
+425_dutchnbaard,Dutch *'n baard*,,,425,Dutch *'n baard*
+426_dutchspelen,Dutch *spelen*,,,426,Dutch *spelen*
+427_dutchngans,Dutch *'n gans*,,,427,Dutch *'n gans*
+428_dutchngast,Dutch *'n gast*,,,428,Dutch *'n gast*
+429_dutchbuiten,Dutch *buiten*,,,429,Dutch *buiten*
+430_dutchtwaalf,Dutch *twaalf*,,,430,Dutch *twaalf*
+431_dutchzeven,Dutch *zeven*,,,431,Dutch *zeven*
+432_dutchnglas,Dutch *'n glas*,,,432,Dutch *'n glas*
+433_dutchgraven,Dutch *graven*,,,433,Dutch *graven*
+434_dutchgras,Dutch *gras*,,,434,Dutch *gras*
+435_dutchhandje,Dutch *handje*,,,435,Dutch *handje*
+436_dutchkaas,Dutch *kaas*,,,436,Dutch *kaas*
+437_dutchnkalf,Dutch *'n kalf*,,,437,Dutch *'n kalf*
+438_dutchnkat,Dutch *'n kat*,,,438,Dutch *'n kat*
+439_dutchnbeen,Dutch *'n been*,,,439,Dutch *'n been*
+440_dutchaarde,Dutch *aarde*,,,440,Dutch *aarde*
+441_dutchnbeest,Dutch *'n beest*,,,441,Dutch *'n beest*
+442_dutchmelk,Dutch *melk*,,,442,Dutch *melk*
+443_dutchnbeitel,Dutch *'n beitel*,,,443,Dutch *'n beitel*
+444_dutchadem,Dutch *adem*,,,444,Dutch *adem*
+445_dutchnberg,Dutch *'n berg*,,,445,Dutch *'n berg*
+446_dutchregen,Dutch *regen*,,,446,Dutch *regen*
+447_dutchnappel,Dutch *'n appel*,,,447,Dutch *'n appel*
+448_dutchnroos,Dutch *'n roos*,,,448,Dutch *'n roos*
+449_dutchnblad,Dutch *'n blad*,,,449,Dutch *'n blad*
+450_dutchblaadje,Dutch *blaadje*,,,450,Dutch *blaadje*
+451_dutchnstapel,Dutch *'n stapel*,,,451,Dutch *'n stapel*
+452_dutchnbloem,Dutch *'n bloem*,,,452,Dutch *'n bloem*
+453_dutchbloempje,Dutch *bloempje*,,,453,Dutch *bloempje*
+454_dutchtwijfel,Dutch *twijfel*,,,454,Dutch *twijfel*
+455_dutchvader,Dutch *vader*,,,455,Dutch *vader*
+456_dutchnwijf,Dutch *'n wijf*,,,456,Dutch *'n wijf*
+457_dutchzand,Dutch *zand*,,,457,Dutch *zand*
+458_dutchnarm,Dutch *'n arm*,,,458,Dutch *'n arm*
+459_dutchgoed,Dutch *goed*,,,459,Dutch *goed*
+460_dutchgrijs,Dutch *grijs*,,,460,Dutch *grijs*
+461_dutchgroot,Dutch *groot*,,,461,Dutch *groot*
+462_dutchnbrief,Dutch *'n brief*,,,462,Dutch *'n brief*
+463_dutchkort,Dutch *kort*,,,463,Dutch *kort*
+464_dutchlang,Dutch *lang*,,,464,Dutch *lang*
+465_dutchnbroer,Dutch *'n broer*,,,465,Dutch *'n broer*
+466_dutchtam,Dutch *tam*,,,466,Dutch *tam*
+467_dutchzeker,Dutch *zeker*,,,467,Dutch *zeker*
+468_dutchnburgemeester,Dutch *'n burgemeester*,,,468,Dutch *'n burgemeester*
+469_dutchndag,Dutch *'n dag*,,,469,Dutch *'n dag*
+470_all,all,98,ALL,470,all
+471_yard,yard,736,YARD,471,yard
+472_fast,fast,1631,FAST,472,fast
+473_hunger,hunger,1864,HUNGER,473,hunger
+474_stool,stool,2058,STOOL,474,stool
+475_north,north,1598,NORTH,475,north
+476_storm,storm,858,STORM,476,storm
+477_tear,tear,1735,TEAR (SHRED),477,tear
+478_bath,bath,138,BATHE,478,bath
+479_young,young,1207,YOUNG,479,young
+480_open,open,1156,OPEN,480,open
+481_better,better,,,481,better
+482_out,out,1107,GO OUT,482,out
+483_tofight,to fight,1423,FIGHT,483,to fight
+484_thing,thing,738,THING,484,thing
+485_tobite,to bite,1403,BITE,485,to bite
+486_lamb,lamb,820,LAMB,486,lamb
+487_oven,oven,1143,OVEN,487,oven
+488_thorn,thorn,124,THORN,488,thorn
+489_full,full,1429,FULL,489,full
+490_leaf,leaf,628,LEAF,490,leaf
+491_over,over,1741,ABOVE,491,over
+492_ice,ice,617,ICE,492,ice
+493_liver,liver,1224,LIVER,493,liver
+494_quick,quick,1631,FAST,494,quick
+495_thunder,thunder,1150,THUNDER,495,thunder
+496_goose,goose,1187,GOOSE,496,goose
+497_rain,rain,658,RAIN (PRECIPITATION),497,rain
+498_oak,oak,644,OAK,498,oak
+499_toe,toe,1389,TOE,499,toe
+500_calf,calf,1989,CALF,500,calf
+501_mid,mid,1093,MIDDLE,501,mid
+502_red,red,156,RED,502,red
+503_right,right,1019,RIGHT,503,right
+504_toswear,to swear,1939,SWEAR,504,to swear
+505_corn,corn,506,MAIZE,505,corn
+506_ring,ring,1374,RING,506,ring
+507_top,top,1753,TOP,507,top
+508_tohear,to hear,1408,HEAR,508,to hear
+509_mother,mother,1216,MOTHER,509,mother
+510_salt,salt,1274,SALT,510,salt
+511_ash,ash,646,ASH,511,ash
+512_mouse,mouse,1491,MOUSE,512,mouse
+513_tosee,to see,1409,SEE,513,to see
+514_warm,warm,1232,WARM,514,warm
+515_holy,holy,1702,HOLY,515,holy
+516_towash,to wash,1453,WASH,516,to wash
+517_home,home,2406,HOME,517,home
+518_nail,nail,1896,FINGERNAIL OR TOENAIL,518,nail
+519_sharp,sharp,1396,SHARP,519,sharp
+520_what,what,1236,WHAT,520,what
+521_honey,honey,942,HONEY,521,honey
+522_naked,naked,590,NAKED,522,naked
+523_tosit,to sit,1416,SIT,523,to sit
+524_in,in,1460,IN,524,in
+525_white,white,1335,WHITE,525,white
+526_wind,wind,960,WIND,526,wind
+527_hound,hound,3380,HUNTING DOG,527,hound
+528_needle,needle,1382,NEEDLE (FOR SEWING),528,needle
+529_wool,wool,964,WOOL,529,wool
+530_sore,sore,51,SORE,530,sore
+531_stone,stone,857,STONE,531,stone
+532_claw,claw,72,CLAW,532,claw
+533_bite,bite,1403,BITE,533,bite
+534_hear,hear,1408,HEAR,534,hear
+535_know,know,3626,KNOW,535,know
+536_kill,kill,1417,KILL,536,kill
+537_small,small,1246,SMALL,537,small
+538_louse,louse,1392,LOUSE,538,louse
+539_greasefat,grease (fat),323,FAT (ORGANIC SUBSTANCE),539,grease (fat)
+540_norwegiannordavinden,Norwegian *nordavinden*,,,540,Norwegian *nordavinden*
+541_norwegianvar,Norwegian *var*,,,541,Norwegian *var*
+542_norwegiansterkaste,Norwegian *sterkaste*,,,542,Norwegian *sterkaste*
+543_norwegiankom,Norwegian *kom*,,,543,Norwegian *kom*
+544_norwegianmann,Norwegian *mann*,,,544,Norwegian *mann*
+545_norwegiangaande,Norwegian *gåande*,,,545,Norwegian *gåande*
+546_norwegianmed,Norwegian *med*,,,546,Norwegian *med*
+547_norwegianvarm,Norwegian *varm*,,,547,Norwegian *varm*
+548_norwegianfrakk,Norwegian *frakk*,,,548,Norwegian *frakk*
+549_norwegianpa,Norwegian *på*,,,549,Norwegian *på*
+550_norwegianseg,Norwegian *seg*,,,550,Norwegian *seg*
+551_norwegianvart,Norwegian *vart*,,,551,Norwegian *vart*
+552_norwegianenige,Norwegian *enige*,,,552,Norwegian *enige*
+553_norwegiansola,Norwegian *sola*,,,553,Norwegian *sola*
+554_norwegiansom,Norwegian *som*,,,554,Norwegian *som*
+555_norwegianfrst,Norwegian *først*,,,555,Norwegian *først*
+556_norwegiank,Norwegian *kʉɲ*,,,556,Norwegian *kʉɲ*
+557_norwegianfa,Norwegian *få*,,,557,Norwegian *få*
+558_norwegianmannen,Norwegian *mannen*,,,558,Norwegian *mannen*
+559_norwegiankjekla,Norwegian *kjekla*,,,559,Norwegian *kjekla*
+560_norwegianfrakken,Norwegian *frakken*,,,560,Norwegian *frakken*
+561_norwegianskulle,Norwegian *skulle*,,,561,Norwegian *skulle*
+562_norwegiangjelderegne,Norwegian *gjelde/regne*,,,562,Norwegian *gjelde/regne*
+563_norwegianandre,Norwegian *andre*,,,563,Norwegian *andre*
+564_norwegiansterkare,Norwegian *sterkare*,,,564,Norwegian *sterkare*
+565_norwegianblaste,Norwegian *blåste*,,,565,Norwegian *blåste*
+566_norwegianall,Norwegian *all*,,,566,Norwegian *all*
+567_norwegianmakt,Norwegian *makt*,,,567,Norwegian *makt*
+568_norwegianmeir,Norwegian *meir*,,,568,Norwegian *meir*
+569_norwegiankven,Norwegian *kven*,,,569,Norwegian *kven*
+570_norwegiantettare,Norwegian *tettare*,,,570,Norwegian *tettare*
+571_norwegiantrakk,Norwegian *trakk*,,,571,Norwegian *trakk*
+572_norwegianrund,Norwegian *rund*,,,572,Norwegian *rund*
+573_norwegiansist,Norwegian *sist*,,,573,Norwegian *sist*
+574_norwegiangav,Norwegian *gav*,,,574,Norwegian *gav*
+575_norwegianopp,Norwegian *opp*,,,575,Norwegian *opp*
+576_norwegianskeinskinte,Norwegian *skein/skinte*,,,576,Norwegian *skein/skinte*
+577_norwegianfram,Norwegian *fram*,,,577,Norwegian *fram*
+578_norwegianodt,Norwegian *ɡodt*,,,578,Norwegian *ɡodt*
+579_norwegianvarmt,Norwegian *varmt*,,,579,Norwegian *varmt*
+580_norwegianstraks,Norwegian *straks*,,,580,Norwegian *straks*
+581_norwegianmatte,Norwegian *måtte*,,,581,Norwegian *måtte*
+582_norwegianinrmme,Norwegian *inrømme*,,,582,Norwegian *inrømme*
+583_ashes,ashes,646,ASH,583,ashes
+584_meat,meat,634,MEAT,584,meat
+585_road,road,667,ROAD,585,road
+586_root,root,670,ROOT,586,root
+587_say,say,1458,SAY,587,say
+588_sleep,sleep,1585,SLEEP,588,sleep
+589_smoke,smoke,778,SMOKE (EXHAUST),589,smoke
+590_stand,stand,1442,STAND,590,stand
+591_star,star,1430,STAR,591,star
+592_walk,walk,1443,WALK,592,walk
+593_cloud,cloud,1489,CLOUD,593,cloud
+594_egg,egg,744,EGG,594,"Latin *ōvum* ""egg"""
+595_tear,tear,1735,TEAR (SHRED),595,"Latin *lacrimam* ""tear"""
+596_eight,eight,1705,EIGHT,596,"Latin *octō* ""eight"""
+597_tooth,tooth,1380,TOOTH,597,"Latin *dentem* ""tooth"""
+598_sky,sky,1732,SKY,598,"Latin *caelum* ""sky"""
+599_sea,sea,1474,SEA,599,"Latin *mare* ""sea"""
+600_goat,goat,1502,GOAT,600,"Latin *capram* ""goat"""
+601_three,three,492,THREE,601,"Latin *trēs* ""three"""
+602_hand,hand,1277,HAND,602,"Latin *manum* ""hand"""
+603_horn,horn,1393,HORN (ANATOMY),603,"Latin *cornū* ""horn"""
+604_earth,earth,1228,EARTH (SOIL),604,"Latin *terram* ""earth"""
+605_nail,nail,1896,FINGERNAIL OR TOENAIL,605,"Latin *ungulam* ""nail"""
+606_arm,arm,1673,ARM,606,"Latin *brācchium* ""arm"""
+607_wool,wool,964,WOOL,607,"Latin *lānam* ""wool"""
+608_two,two,1498,TWO,608,"Latin *duo* ""two"""
+609_eye,eye,1248,EYE,609,"Latin *oculum* ""eye"""
+610_four,four,1500,FOUR,610,"Latin *quattuor* ""four"""
+611_one,one,1493,ONE,611,"Latin *ūnum* ""one"""
+612_tongue,tongue,1205,TONGUE,612,"Latin *linguam* ""tongue"""
+613_ten,ten,1515,TEN,613,"Latin *decem* ""ten"""
+614_water,water,948,WATER,614,"Latin *aquam* ""water"""
+615_ear,ear,1247,EAR,615,"Latin *auriculam* ""ear"""
+616_finger,finger,1303,FINGER,616,"Latin *digitum* ""finger"""
+617_seven,seven,1704,SEVEN,617,"Latin *septem* ""seven"""
+618_five,five,493,FIVE,618,"Latin *quīnque* ""five"""
+619_nine,nine,1483,NINE,619,"Latin *novem* ""nine"""
+620_six,six,1703,SIX,620,"Latin *sex* ""six"""
+621_beast,beast,958,WILD ANIMAL,621,"Latin *bēstiam* ""beast"""
+622_foot,foot,1301,FOOT,622,"Latin *pedem* ""foot"""
+623_moon,moon,1313,MOON,623,"Latin *lūnam* ""moon"""
+624_tomorrow,tomorrow,1329,TOMORROW,624,tomorrow
+625_yesterday,yesterday,1174,YESTERDAY,625,yesterday
+626_today,today,1283,TODAY,626,today
+627_tomato,tomato,986,TOMATO,627,tomato
+628_tocatchacold,to catch a cold,2184,CATCH A COLD,628,to catch a cold
+629_protoslavicpepel,Proto-Slavic **pepelə*,,,629,Proto-Slavic **pepelə*
+630_protoslavickost,Proto-Slavic **kostɪ*,,,630,Proto-Slavic **kostɪ*
+631_protoslavicpiti,Proto-Slavic **piti*,,,631,Proto-Slavic **piti*
+632_protoslavicogn,Proto-Slavic **ognɪ*,,,632,Proto-Slavic **ognɪ*
+633_protoslavicaz,Proto-Slavic **azə*,,,633,Proto-Slavic **azə*
+634_protoslavicnov,Proto-Slavic **novə*,,,634,Proto-Slavic **novə*
+635_protoslavicedin,Proto-Slavic **edinə*,,,635,Proto-Slavic **edinə*
+636_protoslaviczelen,Proto-Slavic **zelenə*,,,636,Proto-Slavic **zelenə*
+637_protoslavicajce,Proto-Slavic **ajɪce*,,,637,Proto-Slavic **ajɪce*
+638_protoslavickortk,Proto-Slavic **kortəkə*,,,638,Proto-Slavic **kortəkə*
+639_protoslavicsdti,Proto-Slavic **sɐdɐti*,,,639,Proto-Slavic **sɐdɐti*
+640_protoslaviczemlja,Proto-Slavic **zemlja*,,,640,Proto-Slavic **zemlja*
+641_protoslavicslnce,Proto-Slavic **səlnɪce*,,,641,Proto-Slavic **səlnɪce*
+642_protoslavicjme,Proto-Slavic **jɪmẽ*,,,642,Proto-Slavic **jɪmẽ*
+643_protoslavickoren,Proto-Slavic **korenɪ*,,,643,Proto-Slavic **korenɪ*
+644_protoslavicleati,Proto-Slavic **leʒati*,,,644,Proto-Slavic **leʒati*
+645_protoslavicmeso,Proto-Slavic **mẽso*,,,645,Proto-Slavic **mẽso*
+646_protoslavicezyk,Proto-Slavic **ẽzykə*,,,646,Proto-Slavic **ẽzykə*
+647_protoslaviclt,Proto-Slavic **ʒɪltə*,,,647,Proto-Slavic **ʒɪltə*
+648_protoslavicsrdce,Proto-Slavic **sɪrdɪce*,,,648,Proto-Slavic **sɪrdɪce*
+649_frenchperdulatinperdutuchart102,"French *perdu* (< Latin *perdutu*), Chart 102",,,649,"French *perdu* (< Latin *perdutu*), Chart 102"
+650_frenchlacleflatinclavechart103,"French *la clef* (< Latin *clave*), Chart 103",,,650,"French *la clef* (< Latin *clave*), Chart 103"
+651_frenchunfleaulatinflagelluchart115,"French *(un) fléau* (< Latin *flagellu*), Chart 115",,,651,"French *(un) fléau* (< Latin *flagellu*), Chart 115"
+652_frenchunecuvelatincupachart119,"French *(une) cuve* (< Latin *cupa*), Chart 119",,,652,"French *(une) cuve* (< Latin *cupa*), Chart 119"
+653_frenchunjouglatinjuguchart121,"French *(un) joug* (< Latin *jugu*), Chart 121",,,653,"French *(un) joug* (< Latin *jugu*), Chart 121"
+654_frenchunlitlatinlectuchart124,"French *(un) lit* (< Latin *lectu*), Chart 124",,,654,"French *(un) lit* (< Latin *lectu*), Chart 124"
+655_frenchlargeurlatinlarguorechart143,"French *largeur* (< Latin *largu + ore*), Chart 143",,,655,"French *largeur* (< Latin *largu + ore*), Chart 143"
+656_frenchlecerclelatincirculuchart154,"French *le cercle* (< Latin *circulu*), Chart 154",,,656,"French *le cercle* (< Latin *circulu*), Chart 154"
+657_frenchilfaudralatinfallerehabetchart158,"French *il faudra* (< Latin *fallere + habet*), Chart 158",,,657,"French *il faudra* (< Latin *fallere + habet*), Chart 158"
+658_frenchtondrelatintonderechart160,"French *tondre* (< Latin *tondere*), Chart 160",,,658,"French *tondre* (< Latin *tondere*), Chart 160"
+659_frenchracererlatinreaciariarechart162,"French *racérer* (< Latin *reaciariare*), Chart 162",,,659,"French *racérer* (< Latin *reaciariare*), Chart 162"
+660_frenchlahachelatinhappiaittachart163,"French *la hache* (< Latin *happia (+ itta)*), Chart 163",,,660,"French *la hache* (< Latin *happia (+ itta)*), Chart 163"
+661_frenchmoudrelatinmolerechart165,"French *moudre* (< Latin *molere*), Chart 165",,,661,"French *moudre* (< Latin *molere*), Chart 165"
+662_frenchdupoivrelatinpiperchart194,"French *du poivre* (< Latin *piper*), Chart 194",,,662,"French *du poivre* (< Latin *piper*), Chart 194"
+663_frenchdechoulatincaulechart196,"French *de chou* (< Latin *caule*), Chart 196",,,663,"French *de chou* (< Latin *caule*), Chart 196"
+664_frenchetaitlatineratestebatchart20,"French *était* (< Latin *erat (est + ebat)*), Chart 20",,,664,"French *était* (< Latin *erat (est + ebat)*), Chart 20"
+665_frenchdecendreslatincinereschart210,"French *de cendres* (< Latin *cineres*), Chart 210",,,665,"French *de cendres* (< Latin *cineres*), Chart 210"
+666_frenchfaimlatinfamechart212,"French *faim* (< Latin *fame*), Chart 212",,,666,"French *faim* (< Latin *fame*), Chart 212"
+667_frenchdupainlatinpanechart215,"French *du pain* (< Latin *pane*), Chart 215",,,667,"French *du pain* (< Latin *pane*), Chart 215"
+668_frenchcrulatincruduchart218,"French *cru* (< Latin *crudu*), Chart 218",,,668,"French *cru* (< Latin *crudu*), Chart 218"
+669_frenchdelaviandelatincarnechart219,"French *(de la) viande* (< Latin *carne*), Chart 219",,,669,"French *(de la) viande* (< Latin *carne*), Chart 219"
+670_frenchdufromagelatinformaticuchart221,"French *(du) fromage* (< Latin *formaticu*), Chart 221",,,670,"French *(du) fromage* (< Latin *formaticu*), Chart 221"
+671_frenchlesdeuxmoitieslatinduasmedietateschart227,"French *les deux moitiés* (< Latin *duas medietates*), Chart 227",,,671,"French *les deux moitiés* (< Latin *duas medietates*), Chart 227"
+672_frenchleaulatinaquachart236,"French *l’eau* (< Latin *aqua*), Chart 236",,,672,"French *l’eau* (< Latin *aqua*), Chart 236"
+673_frenchlacuillerlatincochlearechart241,"French *la cuiller* (< Latin *cochleare*), Chart 241",,,673,"French *la cuiller* (< Latin *cochleare*), Chart 241"
+674_frenchunecuillereedescuillereeslatincochlearataataschart244,"French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244",,,674,"French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244"
+675_frenchmurlatinmaturuchart249,"French *mûr* (< Latin *maturu*), Chart 249",,,675,"French *mûr* (< Latin *maturu*), Chart 249"
+676_frenchnotrelatinnostruchart254,"French *notre* (< Latin *nostru*), Chart 254",,,676,"French *notre* (< Latin *nostru*), Chart 254"
+677_frenchcroitrelatincrescerechart260,"French *croître* (< Latin *crescere*), Chart 260",,,677,"French *croître* (< Latin *crescere*), Chart 260"
+678_frenchlesaulelatinsalicechart265,"French *le saule* (< Latin *salice*), Chart 265",,,678,"French *le saule* (< Latin *salice*), Chart 265"
+679_frenchdenudslatinnodoschart267,"French *de nœuds* (< Latin *nodos*), Chart 267",,,679,"French *de nœuds* (< Latin *nodos*), Chart 267"
+680_frenchsanslatinsinechart271,"French *sans* (< Latin *sine*), Chart 271",,,680,"French *sans* (< Latin *sine*), Chart 271"
+681_frenchmappelerlatinappellarequiritarechart274,"French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274",,,681,"French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274"
+682_frenchunepertelatinperditachart287,"French *une perte* (< Latin *perdita*), Chart 287",,,682,"French *une perte* (< Latin *perdita*), Chart 287"
+683_frenchilspeuventlatinpotuntchart295,"French *ils peuvent* (< Latin *potunt*), Chart 295",,,683,"French *ils peuvent* (< Latin *potunt*), Chart 295"
+684_frenchdemasurlatinsororchart298,"French *de ma sœur* (< Latin *soror*), Chart 298",,,684,"French *de ma sœur* (< Latin *soror*), Chart 298"
+685_frenchmieuxquellelatinmeliusillichart302,"French *mieux qu‘elle* (< Latin *melius, illæi*), Chart 302",,,685,"French *mieux qu‘elle* (< Latin *melius, illæi*), Chart 302"
+686_frenchnesaventpaslatinsapuntchart314,"French *ne savent pas* (< Latin *sapunt*), Chart 314",,,686,"French *ne savent pas* (< Latin *sapunt*), Chart 314"
+687_frenchdoucementlatinmentechart341,"French *doucement* (< Latin *-mente*), Chart 341",,,687,"French *doucement* (< Latin *-mente*), Chart 341"
+688_frenchjesaislatinsapiochart343,"French *(je) sais* (< Latin *sa(p)io*), Chart 343",,,688,"French *(je) sais* (< Latin *sa(p)io*), Chart 343"
+689_frenchlirelatinlegerechart345,"French *lire* (< Latin *legere*), Chart 345",,,689,"French *lire* (< Latin *legere*), Chart 345"
+690_frenchastulatinhabestuchart368,"French *as-tu* (< Latin *ha(be)s tu*), Chart 368",,,690,"French *as-tu* (< Latin *ha(be)s tu*), Chart 368"
+691_frenchpauvretelatinpaupertatechart378,"French *pauvreté* (< Latin *paupertate*), Chart 378",,,691,"French *pauvreté* (< Latin *paupertate*), Chart 378"
+692_frenchlafievrelatinfebrechart387,"French *la fièvre* (< Latin *febre*), Chart 387",,,692,"French *la fièvre* (< Latin *febre*), Chart 387"
+693_frenchlemedecinlatinmedicuchart388,"French *le médecin* (< Latin *medicu*), Chart 388",,,693,"French *le médecin* (< Latin *medicu*), Chart 388"
+694_frenchaujourdhuilatinhodiechart3,"French *aujourd‘hui* (< Latin *hodie*), Chart 3",,,694,"French *aujourd‘hui* (< Latin *hodie*), Chart 3"
+695_frenchcestlatinestchart4,"French *c’est* (< Latin *est*), Chart 4",,,695,"French *c’est* (< Latin *est*), Chart 4"
+696_frenchcelamaaidelatinadjutatuchart400,"French *(cela m’a) aidé* (< Latin *adjutatu*), Chart 400",,,696,"French *(cela m’a) aidé* (< Latin *adjutatu*), Chart 400"
+697_frenchaugenoulatingenucluchart408,"French *(au) genou* (< Latin *genuclu*), Chart 408",,,697,"French *(au) genou* (< Latin *genuclu*), Chart 408"
+698_frenchaupoucelatinpollicechart411,"French *(au) pouce* (< Latin *pollice*), Chart 411",,,698,"French *(au) pouce* (< Latin *pollice*), Chart 411"
+699_frenchaucurlatincorchart415,"French *(au) cœur* (< Latin *cor*), Chart 415",,,699,"French *(au) cœur* (< Latin *cor*), Chart 415"
+700_frenchalacuisselatincoxachart416,"French *(à la) cuisse* (< Latin *coxa*), Chart 416",,,700,"French *(à la) cuisse* (< Latin *coxa*), Chart 416"
+701_frenchilfaitlatinfacitchart42,"French *il fait* (< Latin *facit*), Chart 42",,,701,"French *il fait* (< Latin *facit*), Chart 42"
+702_frenchlamainlatinmanuchart431,"French *la main* (< Latin *manu*), Chart 431",,,702,"French *la main* (< Latin *manu*), Chart 431"
+703_frenchestmaigrelatinmacruchart434,"French *est maigre* (< Latin *macru*), Chart 434",,,703,"French *est maigre* (< Latin *macru*), Chart 434"
+704_frenchunefourmilatinformicuachart443,"French *une fourmi* (< Latin *formicu, -a*), Chart 443",,,704,"French *une fourmi* (< Latin *formicu, -a*), Chart 443"
+705_frenchlechasseurlatincaptiatorechart447,"French *le chasseur* (< Latin *captiatore*), Chart 447",,,705,"French *le chasseur* (< Latin *captiatore*), Chart 447"
+706_frenchunlievrelatinleporechart449,"French *un lièvre* (< Latin *lepore*), Chart 449",,,706,"French *un lièvre* (< Latin *lepore*), Chart 449"
+707_frenchoiseauvertlatinaucelluviridechart454,"French *oiseau vert* (< Latin *aucellu viride*), Chart 454",,,707,"French *oiseau vert* (< Latin *aucellu viride*), Chart 454"
+708_frenchloiseaulatinaucelluchart455,"French *l‘oiseau* (< Latin *aucellu*), Chart 455",,,708,"French *l‘oiseau* (< Latin *aucellu*), Chart 455"
+709_frenchquatrelatinquattuorchart470,"French *quatre* (< Latin *quatt(u)or*), Chart 470",,,709,"French *quatre* (< Latin *quatt(u)or*), Chart 470"
+710_frenchsixlatinsexchart472,"French *six* (< Latin *sex*), Chart 472",,,710,"French *six* (< Latin *sex*), Chart 472"
+711_frenchdescendrelatindescenderechart48,"French *descendre* (< Latin *descendere*), Chart 48",,,711,"French *descendre* (< Latin *descendere*), Chart 48"
+712_frenchilfautlatinfallitchart50,"French *il faut* (< Latin *fallit*), Chart 50",,,712,"French *il faut* (< Latin *fallit*), Chart 50"
+713_frenchsuivrelatinsequerechart51,"French *suivre* (< Latin *sequere*), Chart 51",,,713,"French *suivre* (< Latin *sequere*), Chart 51"
+714_frenchlesentierlatinsemitariuchart52,"French *le sentier* (< Latin *semitariu*), Chart 52",,,714,"French *le sentier* (< Latin *semitariu*), Chart 52"
+715_frenchlechablelatincataboluchart61,"French *le „chable“* (< Latin *catabolu*), Chart 61",,,715,"French *le „chable“* (< Latin *catabolu*), Chart 61"
+716_frenchlegrenierlatingranariuchart67,"French *le grenier* (< Latin *granariu*), Chart 67",,,716,"French *le grenier* (< Latin *granariu*), Chart 67"
+717_frenchcontrelatincontrachart91,"French *contre* (< Latin *contra*), Chart 91",,,717,"French *contre* (< Latin *contra*), Chart 91"
+718_frenchilfermelatinclauditchart94,"French *il ferme* (< Latin *claudit*), Chart 94",,,718,"French *il ferme* (< Latin *claudit*), Chart 94"
+719_frenchlafenetrelatinfenestrachart95,"French *la fenêtre* (< Latin *fenestra*), Chart 95",,,719,"French *la fenêtre* (< Latin *fenestra*), Chart 95"

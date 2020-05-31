@@ -1,0 +1,720 @@
+NUMBER	GLOSS	MSA_NAME	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	one	"one"	1493	ONE
+2	two	"two"	1498	TWO
+3	three	"three"	492	THREE
+4	four	"four"	1500	FOUR
+5	five	"five"	493	FIVE
+6	six	"six"	1703	SIX
+7	seven	"seven"	1704	SEVEN
+8	eight	"eight"	1705	EIGHT
+9	nine	"nine"	1483	NINE
+10	ten	"ten"	1515	TEN
+11	year	"year"	1226	YEAR
+12	we	"we"	1212	WE
+13	you	"you"	1213	YOU
+14	he/she	"he/she"	2642	HE OR SHE
+15	they	"they"	817	THEY
+16	not	"not"	1240	NOT
+17	who	"who"	1235	WHO
+18	this	"this"	1214	THIS
+19	that	"that"	78	THAT
+20	here	"here"	136	HERE
+21	hair	"hair"	1040	HAIR
+22	eye	"eye"	1248	EYE
+23	nose	"nose"	1221	NOSE
+24	ear	"ear"	1247	EAR
+25	mouth	"mouth"	674	MOUTH
+26	tongue	"tongue"	1205	TONGUE
+27	tooth	"tooth"	1380	TOOTH
+28	hand	"hand"	1277	HAND
+29	neck	"neck"	1333	NECK
+30	foot	"foot"	1301	FOOT
+31	blood	"blood"	946	BLOOD
+32	bone	"bone"	1394	BONE
+33	skin	"skin"	763	SKIN
+34	fingernail	"fingernail"	1258	FINGERNAIL
+35	belly	"belly"	1251	BELLY
+36	heart	"heart"	1223	HEART
+37	dog	"dog"	2009	DOG
+38	horn	"horn"	1393	HORN (ANATOMY)
+39	tail	"tail"	1220	TAIL
+40	person	"person"	683	PERSON
+41	woman	"woman"	962	WOMAN
+42	name	"name"	1405	NAME
+43	day	"day"	1225	DAY (NOT NIGHT)
+44	night	"night"	1233	NIGHT
+45	sun	"sun"	1343	SUN
+46	moon	"moon"	1313	MOON
+47	world	"world"	965	WORLD
+48	water	"water"	948	WATER
+49	lake	"lake"	624	LAKE
+50	fire	"fire"	221	FIRE
+51	bee	"bee"	665	BEE
+52	intestine, gut	"intestine, gut"	1991	INTESTINES
+53	to itch	"to itch"	148	ITCH
+54	behind	"behind"	1686	BEHIND
+55	big	"big"	1202	BIG
+56	bird	"bird"	937	BIRD
+57	bitter	"bitter"	887	BITTER
+58	black	"black"	163	BLACK
+59	to blow	"to blow"	175	BLOW (OF WIND)
+60	to boil	"to boil"	2493	BOIL
+61	ant	"ant"	587	ANT
+62	breast	"breast"	1402	BREAST
+63	bridge	"bridge"	1011	BRIDGE
+64	buckwheat	"buckwheat"	2040	BUCKWHEAT
+65	to buy	"to buy"	1869	BUY
+66	chicken	"chicken"	1318	CHICKEN
+67	to chirp	"to chirp"		
+68	to ask	"to ask"	1309	ASK (INQUIRE)
+69	chopsticks	"chopsticks"	1987	CHOPSTICKS
+70	classifier (chicken)	"classifier (chicken)"		
+71	classifier (grain of rice)	"classifier (grain of rice)"		
+72	classifier (clothes)	"classifier (clothes)"		
+73	to close	"to close"	1046	SHUT
+74	cloth	"cloth"	1616	CLOTH
+75	cold	"cold"	1287	COLD
+76	comb	"comb"	1475	COMB
+77	to comb	"to comb"	2070	COMB (VERB)
+78	to cry	"to cry"	1839	CRY
+79	to cut	"to cut"	1432	CUT
+80	to cut up	"to cut up"		
+81	daughter	"daughter"	1357	DAUGHTER
+82	to die	"to die"	1494	DIE
+83	door	"door"	1567	DOOR
+84	dragon	"dragon"	2038	DRAGON
+85	bamboo	"bamboo"	1927	BAMBOO
+86	to drink	"to drink"	1401	DRINK
+87	dry	"dry"	1398	DRY
+88	early	"early"	672	EARLY
+89	earring	"earring"	770	EARRING
+90	earth	"earth"	1228	EARTH (SOIL)
+91	earthworm, worm	"earthworm, worm"	1219	WORM
+92	to eat	"to eat"	1336	EAT
+93	egg	"egg"	744	EGG
+94	bark	"bark"	1204	BARK
+95	to fall down, to drop	"to fall down, to drop"	750	DROP
+96	far	"far"	1406	FAR
+97	finger	"finger"	1303	FINGER
+98	firewood	"firewood"	10	FIREWOOD
+99	fish	"fish"	227	FISH
+100	to bark	"to bark"	1206	BARKING
+101	fly	"fly"	1441	FLY (MOVE THROUGH AIR)
+102	fragrant	"fragrant"	376	FRAGRANT
+103	frog	"frog"	503	FROG
+104	frost	"frost"	2034	FROST
+105	ghost	"ghost"	1175	GHOST
+106	give	"give"	1447	GIVE
+107	glutinous rice	"glutinous rice"	2750	GLUTINOUS RICE
+108	good	"good"	1035	GOOD
+109	barley	"barley"	932	BARLEY
+110	fat	"fat"	323	FAT (ORGANIC SUBSTANCE)
+111	to grind	"to grind"	1033	GRIND
+112	head	"head"	1256	HEAD
+113	heavy	"heavy"	1210	HEAVY
+114	hemp	"hemp"	2041	HEMP
+115	to hide	"to hide"	2486	HIDE
+116	bed	"bed"	1663	BED
+117	high, tall	"high, tall"	711	TALL
+118	hoe	"hoe"	284	HOE
+119	horse	"horse"	615	HORSE
+120	hot	"hot"	1286	HOT
+121	house	"house"	1252	HOUSE
+122	hundred	"hundred"	1634	HUNDRED
+123	I	"I"	1209	I
+124	ill, sick	"ill, sick"	1847	SICK
+125	interest	"interest"	2062	INTEREST
+126	lamb	Bulgarian агне ("lamb")	820	LAMB
+127	I	Bulgarian аз ("I")	1209	I
+128	eyebrow	Bulgarian вежда ("eyebrow")	1173	EYEBROW
+129	walnut	Bulgarian орех ("walnut")	2042	WALNUT
+130	bake	Bulgarian пека ("bake" — 1st singular)	183	BAKE
+131	ash	Bulgarian пепел ("ash")	646	ASH
+132	rooster	Bulgarian петел ("rooster")	1511	ROOSTER
+133	Friday	Bulgarian петък ("Friday")	1692	FRIDAY
+134	pay	Bulgarian плащам ("pay" — 1st singular)	718	PAY
+135	Monday	Bulgarian понеделник ("Monday")	1697	MONDAY
+136	he-goat	Bulgarian пръч ("he-goat")	2475	MALE GOAT
+137	first	Bulgarian първият ("first" — he)	728	FIRST
+138	road	Bulgarian път ("road")	667	ROAD
+139	already	Bulgarian вече ("already")	2576	ALREADY
+140	sand	Bulgarian пясък ("sand")	671	SAND
+141	river	Bulgarian река ("river")	666	RIVER
+142	hand	Bulgarian ръка ("hand")	1277	HAND
+143	hands	Bulgarian ръце ("hands")		
+144	one's, self	Bulgarian се ("one's, self")	1993	SELF
+145	now	Bulgarian сега ("now")	1376	NOW
+146	sit	Bulgarian седя ("sit" — 1st singular)	1416	SIT
+147	sister	Bulgarian сестра ("sister")	1263	SISTER
+148	cheese	Bulgarian сирене ("cheese")	1569	CHEESE
+149	salt	Bulgarian сол ("salt")	1274	SALT
+150	evening	Bulgarian вечер ("evening")	1629	EVENING
+151	the middle	Bulgarian средата ("the middle")	1093	MIDDLE
+152	Wednesday	Bulgarian сряда ("Wednesday")	1694	WEDNESDAY
+153	old man	Bulgarian старец ("old man")	406	OLD MAN
+154	fear	Bulgarian страх ("fear")	1419	FEAR (BE AFRAID)
+155	dry	Bulgarian сух ("dry")	1398	DRY
+156	Saturday	Bulgarian събота ("Saturday")	1700	SATURDAY
+157	sickle	Bulgarian сърп ("sickle")	341	SICKLE
+158	with	Bulgarian със ("with")	1340	WITH
+159	such	Bulgarian такъв ("such")		
+160	yours	Bulgarian твой ("yours")	732	YOUR (SINGULAR)
+161	saw	Bulgarian видях ("saw" — 1st singular)	1948	SAW
+162	this	Bulgarian това ("this" — neut)	1214	THIS
+163	then	Bulgarian тогава ("then")	2921	THEN
+164	grass	Bulgarian трева ("grass")	606	GRASS
+165	dark	Bulgarian тъмно ("dark" — neut)	706	DARK
+166	thin	Bulgarian тънко ("thin" — neut;thinly)	2308	THIN
+167	tomorrow	Bulgarian утре ("tomorrow")	1329	TOMORROW
+168	ear	Bulgarian ухо ("ear")	1247	EAR
+169	oven	Bulgarian фурна ("oven")	1143	OVEN
+170	bread	Bulgarian хляб ("bread")	1368	BREAD
+171	chain dance	Bulgarian хоро ("chain dance")		
+172	you	Bulgarian вие ("you" — plural)	1213	YOU
+173	pretty	Bulgarian хубав ("pretty" — masc)	2410	GOOD-LOOKING
+174	pretty	Bulgarian хубаво ("pretty" — neut;good-neut)	2410	GOOD-LOOKING
+175	whole	Bulgarian цял ("whole")	2277	WHOLE
+176	wait	Bulgarian чакат ("wait" — 3rd plural)	1590	WAIT (FOR)
+177	red	Bulgarian червен ("red" — masc)	156	RED
+178	black	Bulgarian черен ("black" — masc)	163	BLACK
+179	cherry	Bulgarian череша ("cherry")	2765	CHERRY
+180	read	Bulgarian чета ("read" — 1st singular)	724	READ
+181	fountain	Bulgarian чешма ("fountain")	849	SPRING (OF WATER)
+182	person	Bulgarian човек ("person")	683	PERSON
+183	wine	Bulgarian вино ("wine")	1524	WINE
+184	will, shall	Bulgarian ще ("will, shall")	1579	BE
+185	her	Bulgarian я ("her" — accusative, short form)	2474	HER (GENITIVE OF SHE)
+186	apple	Bulgarian ябълка ("apple")	1320	APPLE
+187	apples	Bulgarian ябълки ("apples")		
+188	eat	Bulgarian ядеш ("eat" — 2nd singular)	1336	EAT
+189	eggs	Bulgarian яйца ("eggs")		
+190	egg	Bulgarian яйце ("egg")	744	EGG
+191	eat	Bulgarian ям ("eat" — 1st singular)	1336	EAT
+192	enter	Bulgarian влизам ("enter" — 1st singular)	749	ENTER
+193	water	Bulgarian вода ("water")	948	WATER
+194	ox	Bulgarian вол ("ox")	1169	OX
+195	time	Bulgarian време ("time")	892	TIME
+196	white	Bulgarian бели ("white" — plural)	1335	WHITE
+197	peak	Bulgarian връх ("peak")	2205	PEAK
+198	give back	Bulgarian връщам ("give back" — 1st singular)	85	GIVE BACK
+199	wolf	Bulgarian вълк ("wolf")	522	WOLF
+200	wool	Bulgarian вълна ("wool")	964	WOOL
+201	outside	Bulgarian вънка ("outside")	762	OUTSIDE
+202	inside	Bulgarian вътре ("inside")	1606	INSIDE
+203	wind	Bulgarian вятър ("wind")	960	WIND
+204	head	Bulgarian глава ("head")	1256	HEAD
+205	pick up	Bulgarian берат ("pick up" — 3rd plural)	371	PICK UP
+206	hungry	Bulgarian гладен ("hungry")	1533	BE HUNGRY
+207	bovine animal, beef	Bulgarian говедо ("bovine animal, beef")	2570	BEEF
+208	up	Bulgarian горе ("up")	1591	UP
+209	guests	Bulgarian гости ("guests")		
+210	the town	Bulgarian градът ("the town")	1391	TOWN
+211	grapes	Bulgarian грозде ("grapes")	920	GRAPE
+212	gave	Bulgarian дадоха ("gave" — 3rd plural)	1447	GIVE
+213	two	Bulgarian две ("two")	1498	TWO
+214	yard	Bulgarian двор ("yard")	736	YARD
+215	day	Bulgarian ден ("day")	1225	DAY (NOT NIGHT)
+216	was	Bulgarian беше ("was" — 3rd person)	1579	BE
+217	flay	Bulgarian дера ("flay" — 1st singular)		
+218	ten	Bulgarian десет ("ten")	1515	TEN
+219	child	Bulgarian дете ("child")	2099	CHILD
+220	pocket	Bulgarian джоб ("pocket")	1851	POCKET
+221	today	Bulgarian днес ("today")	1283	TODAY
+222	well	Bulgarian добре ("well" — adv)	954	WELL
+223	down	Bulgarian долу ("down")	1326	DOWN
+224	has come	Bulgarian дошъл ("has come" — 3rd singular)		
+225	rain	Bulgarian дъжд ("rain")	658	RAIN (PRECIPITATION)
+226	deep	Bulgarian дълбок ("deep")	1593	DEEP
+227	picking	Bulgarian бране ("picking" — up;gathering-verbal noun)		
+228	bottom	Bulgarian дъно ("bottom")	690	BOTTOM
+229	tree	Bulgarian дърво ("tree")	906	TREE
+230	one	Bulgarian един ("one" — masc)	1493	ONE
+231	one	Bulgarian едно ("one" — neut)	1493	ONE
+232	tongue	Bulgarian език ("tongue")	1205	TONGUE
+233	barley	Bulgarian ечемик ("barley")	932	BARLEY
+234	iron	Bulgarian желязо ("iron")	621	IRON
+235	woman	Bulgarian жена ("woman")	962	WOMAN
+236	alive	Bulgarian жив ("alive")	1422	BE ALIVE
+237	flour	Bulgarian брашно ("flour")	1594	FLOUR
+238	yellow	Bulgarian жълт ("yellow")	1424	YELLOW
+239	harvest	Bulgarian жътва ("harvest")	3327	AUTUMN OR HARVEST SEASON
+240	star	Bulgarian звезда ("star")	1430	STAR
+241	healthy	Bulgarian здрав ("healthy")	1364	HEALTHY
+242	earth	Bulgarian земя ("earth")	1228	EARTH (SOIL)
+243	son-in-law; brother-in-law	Bulgarian зет ("son-in-law; brother-in-law")	1056	SON-IN-LAW
+244	them	Bulgarian им ("them" — dative, short form;their)		
+245	her	Bulgarian й ("her" — dative, short form)	2474	HER (GENITIVE OF SHE)
+246	stone	Bulgarian камък ("stone")	857	STONE
+247	quickly	Bulgarian бързо ("quickly")	1631	FAST
+248	key	Bulgarian ключ ("key")	1472	KEY
+249	which	Bulgarian кое ("which" — neut)	727	WHICH
+250	horse	Bulgarian кон ("horse")	615	HORSE
+251	blood	Bulgarian кръв ("blood")	946	BLOOD
+252	where	Bulgarian къде ("where")	1237	WHERE
+253	easy	Bulgarian лесно ("easy")	686	EASY
+254	lentils	Bulgarian леща ("lentils")	3330	LENTILS
+255	mother	Bulgarian майка ("mother")	1216	MOTHER
+256	month	Bulgarian месец ("month")	1370	MONTH
+257	meat	Bulgarian месо ("meat")	634	MEAT
+258	were	Bulgarian бяхме ("were" — 1st plural)	1579	BE
+259	the milk	Bulgarian млякото ("the milk")	635	MILK
+260	much;many	Bulgarian много ("much;many")	1198	MANY
+261	man	Bulgarian мъж ("man")	1554	MAN
+262	the man	Bulgarian мъжът ("the man")	1554	MAN
+263	men	Bulgarian мъже ("men")	1554	MAN
+264	ours	Bulgarian наше ("ours")	780	OUR
+265	Sunday	Bulgarian неделя ("Sunday")	1699	SUNDAY
+266	does not want	Bulgarian неще ("does not want" — 3rd singular)		
+267	something	Bulgarian нещо ("something")		
+268	her	Bulgarian нея ("her")	2474	HER (GENITIVE OF SHE)
+269	carry	Bulgarian носят ("carry" — 3rd plural)	700	CARRY
+270	night	Bulgarian нощ ("night")	1233	NIGHT
+271	there is no, will not	Bulgarian няма ("there is no, will not")		
+272	sheep	Bulgarian овца ("sheep" — sg)	1331	SHEEP
+273	sheep	Bulgarian овце ("sheep" — pl)	1331	SHEEP
+274	shepherd	Bulgarian овчар ("shepherd")	2544	SHEPHERD
+275	shepherds	Bulgarian овчари ("shepherds")		
+276	fire	Bulgarian огън ("fire")	221	FIRE
+277	those	Bulgarian онези ("those")	78	THAT
+278	got	got	684	OWN
+279	thirst	thirst	848	THIRST
+280	way	way	667	ROAD
+281	curved	curved	1698	CURVED
+282	ditty	ditty		
+283	cellar	cellar		
+284	for	for		
+285	must	must	971	MUST
+286	mouldy	mouldy		
+287	ox-blood	ox-blood		
+288	drink	"drink"	1401	DRINK
+289	brother	"brother"	1262	BROTHER
+290	tired	tired	1757	TIRED
+291	buttermilk	buttermilk		
+292	thin	thin	2308	THIN
+293	sour	sour	1906	SOUR
+294	well	well	954	WELL
+295	houre	houre		
+296	Italy	Italy		
+297	bread	bread	1368	BREAD
+298	mountains	mountains		
+299	spit	spit	1440	SPIT
+300	push	push	1452	PUSH
+301	have	have	773	HAVE
+302	piece	piece	594	PIECE
+303	foal	foal	1647	FOAL
+304	come	come	1446	COME
+305	carpenter	carpenter	1042	CARPENTER
+306	sew	sew	1457	SEW
+307	grass	grass	606	GRASS
+308	brewer	brewer		
+309	bake	bake	183	BAKE
+310	eggs	eggs		
+311	get	get	694	GET
+312	market	market	633	MARKET
+313	were	were	1579	BE
+314	splinter	splinter		
+315	acorns	acorns		
+316	hay	hay	342	HAY
+317	is	"is"	1579	BE
+318	green	"green"	1425	GREEN
+319	little tree	little tree		
+320	wine	wine	1524	WINE
+321	milk	"milk"	635	MILK
+322	spouts	spouts		
+323	cow	"cow"	1007	COW
+324	sexton	sexton		
+325	wheelbarrow	wheelbarrow		
+326	bend	bend	2224	BEND (SOMETHING)
+327	Germans	Germans		
+328	blue	blue	837	BLUE
+329	struck	struck		
+330	sauce	sauce	132	SAUCE
+331	flat	flat	1633	FLAT
+332	snow	"snow"	784	SNOW
+333	town	town	1391	TOWN
+334	factory	factory		
+335	do	do	813	DO
+336	baptize	baptize		
+337	font	font		
+338	soldiers	soldiers		
+339	thresh	thresh	285	THRESH
+340	bind	bind	1917	TIE
+341	bound	bound		
+342	beer	beer	1639	BEER
+343	my	my	2090	MY
+344	he	he	1211	HE
+345	cudgel	cudgel		
+346	knee	"knee"	1371	KNEE
+347	seen	seen		
+348	ceiling-mop	ceiling-mop		
+349	cap	cap	1288	CAP
+350	toadstool	toadstool		
+351	fellow	fellow		
+352	friend	friend	1325	FRIEND
+353	broad	broad	2531	BROAD
+354	stones	stones		
+355	broader	broader		
+356	broadest	broadest		
+357	statue	statue	1002	STATUE
+358	devil	devil	1973	DEMON
+359	stayed	stayed		
+360	master	master	383	MASTER
+361	sea	sea	1474	SEA
+362	gladly	gladly		
+363	flowers	flowers	239	FLOWER
+364	a sore throat	a sore throat		
+365	handle	handle	1254	HANDLE
+366	broom	broom	245	BROOM
+367	no	no	1269	NO
+368	called	called		
+369	pear	pear	922	PEAR
+370	ripe	ripe	178	RIPE
+371	money	money	1559	MONEY
+372	bring	bring	692	BRING
+373	spin	spin	121	SPIN
+374	swim	"swim"	1439	SWIM
+375	strong	strong	785	STRONG
+376	lift up	lift up		
+377	bricklayer	bricklayer		
+378	spring	spring	1537	SPRINGTIME
+379	slice of bread	slice of bread		
+380	father	"father"	1217	FATHER
+381	machines	machines		
+382	school	school	673	SCHOOL
+383	let	let	2896	CAUSE TO (LET)
+384	go	go	695	GO
+385	jars	jars		
+386	are	are	1579	BE
+387	much	much	3452	MUCH
+388	March	March	2846	MARCH
+389	yet	yet	2577	YET
+390	work	work	1086	WORK (ACTIVITY)
+391	candle	candle	1273	CANDLE
+392	gives	gives		
+393	light	light	1052	LIGHT (WEIGHT)
+394	against	against	2469	AGAINST
+395	swallows	swallows		
+396	cheese	cheese	1569	CHEESE
+397	motor-cycle	motor-cycle	638	MOTORCYCLE
+398	on	on		
+399	evening	evening	1629	EVENING
+400	little boy	little boy		
+401	crack	crack	3080	SPLIT OPEN
+402	letter	letter	1612	LETTER
+403	hart	hart		
+404	put	put	998	PUT
+405	new	"new"	1231	NEW
+406	cart	cart	122	CART
+407	son	son	1620	SON
+408	king	king	1508	KING
+409	ship	ship	740	SHIP
+410	also	also		
+411	been	been	1579	BE
+412	roses	roses		
+413	long	"long"	1203	LONG
+414	word	"word"	1599	WORD
+415	baby	baby	1289	BABY
+416	was	was	1579	BE
+417	little daughter	little daughter		
+418	wood	wood	1803	WOOD
+419	ladder	ladder	1464	LADDER
+420	Dutch *'n aap*	Dutch *'n aap*		
+421	Dutch *'n dak*	Dutch *'n dak*		
+422	Dutch *'n dief*	Dutch *'n dief*		
+423	Dutch *'n dochter*	Dutch *'n dochter*		
+424	Dutch *kopen*	Dutch *kopen*		
+425	Dutch *'n baard*	Dutch *'n baard*		
+426	Dutch *spelen*	Dutch *spelen*		
+427	Dutch *'n gans*	Dutch *'n gans*		
+428	Dutch *'n gast*	Dutch *'n gast*		
+429	Dutch *buiten*	Dutch *buiten*		
+430	Dutch *twaalf*	Dutch *twaalf*		
+431	Dutch *zeven*	Dutch *zeven*		
+432	Dutch *'n glas*	Dutch *'n glas*		
+433	Dutch *graven*	Dutch *graven*		
+434	Dutch *gras*	Dutch *gras*		
+435	Dutch *handje*	Dutch *handje*		
+436	Dutch *kaas*	Dutch *kaas*		
+437	Dutch *'n kalf*	Dutch *'n kalf*		
+438	Dutch *'n kat*	Dutch *'n kat*		
+439	Dutch *'n been*	Dutch *'n been*		
+440	Dutch *aarde*	Dutch *aarde*		
+441	Dutch *'n beest*	Dutch *'n beest*		
+442	Dutch *melk*	Dutch *melk*		
+443	Dutch *'n beitel*	Dutch *'n beitel*		
+444	Dutch *adem*	Dutch *adem*		
+445	Dutch *'n berg*	Dutch *'n berg*		
+446	Dutch *regen*	Dutch *regen*		
+447	Dutch *'n appel*	Dutch *'n appel*		
+448	Dutch *'n roos*	Dutch *'n roos*		
+449	Dutch *'n blad*	Dutch *'n blad*		
+450	Dutch *blaadje*	Dutch *blaadje*		
+451	Dutch *'n stapel*	Dutch *'n stapel*		
+452	Dutch *'n bloem*	Dutch *'n bloem*		
+453	Dutch *bloempje*	Dutch *bloempje*		
+454	Dutch *twijfel*	Dutch *twijfel*		
+455	Dutch *vader*	Dutch *vader*		
+456	Dutch *'n wijf*	Dutch *'n wijf*		
+457	Dutch *zand*	Dutch *zand*		
+458	Dutch *'n arm*	Dutch *'n arm*		
+459	Dutch *goed*	Dutch *goed*		
+460	Dutch *grijs*	Dutch *grijs*		
+461	Dutch *groot*	Dutch *groot*		
+462	Dutch *'n brief*	Dutch *'n brief*		
+463	Dutch *kort*	Dutch *kort*		
+464	Dutch *lang*	Dutch *lang*		
+465	Dutch *'n broer*	Dutch *'n broer*		
+466	Dutch *tam*	Dutch *tam*		
+467	Dutch *zeker*	Dutch *zeker*		
+468	Dutch *'n burgemeester*	Dutch *'n burgemeester*		
+469	Dutch *'n dag*	Dutch *'n dag*		
+470	all	"all"	98	ALL
+471	yard	"yard"	736	YARD
+472	fast	"fast"	1631	FAST
+473	hunger	"hunger"	1864	HUNGER
+474	stool	"stool"	2058	STOOL
+475	north	"north"	1598	NORTH
+476	storm	"storm"	858	STORM
+477	tear	"tear"	1735	TEAR (SHRED)
+478	bath	"bath"	138	BATHE
+479	young	"young"	1207	YOUNG
+480	open	"open"	1156	OPEN
+481	better	"better"		
+482	out	"out"	1107	GO OUT
+483	to fight	"to fight"	1423	FIGHT
+484	thing	"thing"	738	THING
+485	to bite	"to bite"	1403	BITE
+486	lamb	"lamb"	820	LAMB
+487	oven	"oven"	1143	OVEN
+488	thorn	"thorn"	124	THORN
+489	full	"full"	1429	FULL
+490	leaf	"leaf"	628	LEAF
+491	over	"over"	1741	ABOVE
+492	ice	"ice"	617	ICE
+493	liver	"liver"	1224	LIVER
+494	quick	"quick"	1631	FAST
+495	thunder	"thunder"	1150	THUNDER
+496	goose	"goose"	1187	GOOSE
+497	rain	"rain"	658	RAIN (PRECIPITATION)
+498	oak	"oak"	644	OAK
+499	toe	"toe"	1389	TOE
+500	calf	"calf"	1989	CALF
+501	mid	"mid"	1093	MIDDLE
+502	red	"red"	156	RED
+503	right	"right"	1019	RIGHT
+504	to swear	"to swear"	1939	SWEAR
+505	corn	"corn"	506	MAIZE
+506	ring	"ring"	1374	RING
+507	top	"top"	1753	TOP
+508	to hear	"to hear"	1408	HEAR
+509	mother	"mother"	1216	MOTHER
+510	salt	"salt"	1274	SALT
+511	ash	"ash"	646	ASH
+512	mouse	"mouse"	1491	MOUSE
+513	to see	"to see"	1409	SEE
+514	warm	"warm"	1232	WARM
+515	holy	"holy"	1702	HOLY
+516	to wash	"to wash"	1453	WASH
+517	home	"home"	2406	HOME
+518	nail	"nail"	1896	FINGERNAIL OR TOENAIL
+519	sharp	"sharp"	1396	SHARP
+520	what	"what"	1236	WHAT
+521	honey	"honey"	942	HONEY
+522	naked	"naked"	590	NAKED
+523	to sit	"to sit"	1416	SIT
+524	in	"in"	1460	IN
+525	white	"white"	1335	WHITE
+526	wind	"wind"	960	WIND
+527	hound	"hound"	3380	HUNTING DOG
+528	needle	"needle"	1382	NEEDLE (FOR SEWING)
+529	wool	"wool"	964	WOOL
+530	sore	"sore"	51	SORE
+531	stone	"stone"	857	STONE
+532	claw	"claw"	72	CLAW
+533	bite	"bite"	1403	BITE
+534	hear	"hear"	1408	HEAR
+535	know	"know"	3626	KNOW
+536	kill	"kill"	1417	KILL
+537	small	"small"	1246	SMALL
+538	louse	"louse"	1392	LOUSE
+539	grease (fat)	"grease (fat)"	323	FAT (ORGANIC SUBSTANCE)
+540	Norwegian *nordavinden*	Norwegian *nordavinden*		
+541	Norwegian *var*	Norwegian *var*		
+542	Norwegian *sterkaste*	Norwegian *sterkaste*		
+543	Norwegian *kom*	Norwegian *kom*		
+544	Norwegian *mann*	Norwegian *mann*		
+545	Norwegian *gåande*	Norwegian *gåande*		
+546	Norwegian *med*	Norwegian *med*		
+547	Norwegian *varm*	Norwegian *varm*		
+548	Norwegian *frakk*	Norwegian *frakk*		
+549	Norwegian *på*	Norwegian *på*		
+550	Norwegian *seg*	Norwegian *seg*		
+551	Norwegian *vart*	Norwegian *vart*		
+552	Norwegian *enige*	Norwegian *enige*		
+553	Norwegian *sola*	Norwegian *sola*		
+554	Norwegian *som*	Norwegian *som*		
+555	Norwegian *først*	Norwegian *først*		
+556	Norwegian *kʉɲ*	Norwegian *kʉɲ*		
+557	Norwegian *få*	Norwegian *få*		
+558	Norwegian *mannen*	Norwegian *mannen*		
+559	Norwegian *kjekla*	Norwegian *kjekla*		
+560	Norwegian *frakken*	Norwegian *frakken*		
+561	Norwegian *skulle*	Norwegian *skulle*		
+562	Norwegian *gjelde/regne*	Norwegian *gjelde/regne*		
+563	Norwegian *andre*	Norwegian *andre*		
+564	Norwegian *sterkare*	Norwegian *sterkare*		
+565	Norwegian *blåste*	Norwegian *blåste*		
+566	Norwegian *all*	Norwegian *all*		
+567	Norwegian *makt*	Norwegian *makt*		
+568	Norwegian *meir*	Norwegian *meir*		
+569	Norwegian *kven*	Norwegian *kven*		
+570	Norwegian *tettare*	Norwegian *tettare*		
+571	Norwegian *trakk*	Norwegian *trakk*		
+572	Norwegian *rund*	Norwegian *rund*		
+573	Norwegian *sist*	Norwegian *sist*		
+574	Norwegian *gav*	Norwegian *gav*		
+575	Norwegian *opp*	Norwegian *opp*		
+576	Norwegian *skein/skinte*	Norwegian *skein/skinte*		
+577	Norwegian *fram*	Norwegian *fram*		
+578	Norwegian *ɡodt*	Norwegian *ɡodt*		
+579	Norwegian *varmt*	Norwegian *varmt*		
+580	Norwegian *straks*	Norwegian *straks*		
+581	Norwegian *måtte*	Norwegian *måtte*		
+582	Norwegian *inrømme*	Norwegian *inrømme*		
+583	ashes	"ashes"	646	ASH
+584	meat	"meat"	634	MEAT
+585	road	"road"	667	ROAD
+586	root	"root"	670	ROOT
+587	say	"say"	1458	SAY
+588	sleep	"sleep"	1585	SLEEP
+589	smoke	"smoke"	778	SMOKE (EXHAUST)
+590	stand	"stand"	1442	STAND
+591	star	"star"	1430	STAR
+592	walk	"walk"	1443	WALK
+593	cloud	"cloud"	1489	CLOUD
+594	egg	Latin *ōvum* "egg"	744	EGG
+595	tear	Latin *lacrimam* "tear"	1735	TEAR (SHRED)
+596	eight	Latin *octō* "eight"	1705	EIGHT
+597	tooth	Latin *dentem* "tooth"	1380	TOOTH
+598	sky	Latin *caelum* "sky"	1732	SKY
+599	sea	Latin *mare* "sea"	1474	SEA
+600	goat	Latin *capram* "goat"	1502	GOAT
+601	three	Latin *trēs* "three"	492	THREE
+602	hand	Latin *manum* "hand"	1277	HAND
+603	horn	Latin *cornū* "horn"	1393	HORN (ANATOMY)
+604	earth	Latin *terram* "earth"	1228	EARTH (SOIL)
+605	nail	Latin *ungulam* "nail"	1896	FINGERNAIL OR TOENAIL
+606	arm	Latin *brācchium* "arm"	1673	ARM
+607	wool	Latin *lānam* "wool"	964	WOOL
+608	two	Latin *duo* "two"	1498	TWO
+609	eye	Latin *oculum* "eye"	1248	EYE
+610	four	Latin *quattuor* "four"	1500	FOUR
+611	one	Latin *ūnum* "one"	1493	ONE
+612	tongue	Latin *linguam* "tongue"	1205	TONGUE
+613	ten	Latin *decem* "ten"	1515	TEN
+614	water	Latin *aquam* "water"	948	WATER
+615	ear	Latin *auriculam* "ear"	1247	EAR
+616	finger	Latin *digitum* "finger"	1303	FINGER
+617	seven	Latin *septem* "seven"	1704	SEVEN
+618	five	Latin *quīnque* "five"	493	FIVE
+619	nine	Latin *novem* "nine"	1483	NINE
+620	six	Latin *sex* "six"	1703	SIX
+621	beast	Latin *bēstiam* "beast"	958	WILD ANIMAL
+622	foot	Latin *pedem* "foot"	1301	FOOT
+623	moon	Latin *lūnam* "moon"	1313	MOON
+624	tomorrow	"tomorrow"	1329	TOMORROW
+625	yesterday	"yesterday"	1174	YESTERDAY
+626	today	"today"	1283	TODAY
+627	tomato	"tomato"	986	TOMATO
+628	to catch a cold	"to catch a cold"	2184	CATCH A COLD
+629	Proto-Slavic **pepelə*	Proto-Slavic **pepelə*		
+630	Proto-Slavic **kostɪ*	Proto-Slavic **kostɪ*		
+631	Proto-Slavic **piti*	Proto-Slavic **piti*		
+632	Proto-Slavic **ognɪ*	Proto-Slavic **ognɪ*		
+633	Proto-Slavic **azə*	Proto-Slavic **azə*		
+634	Proto-Slavic **novə*	Proto-Slavic **novə*		
+635	Proto-Slavic **edinə*	Proto-Slavic **edinə*		
+636	Proto-Slavic **zelenə*	Proto-Slavic **zelenə*		
+637	Proto-Slavic **ajɪce*	Proto-Slavic **ajɪce*		
+638	Proto-Slavic **kortəkə*	Proto-Slavic **kortəkə*		
+639	Proto-Slavic **sɐdɐti*	Proto-Slavic **sɐdɐti*		
+640	Proto-Slavic **zemlja*	Proto-Slavic **zemlja*		
+641	Proto-Slavic **səlnɪce*	Proto-Slavic **səlnɪce*		
+642	Proto-Slavic **jɪmẽ*	Proto-Slavic **jɪmẽ*		
+643	Proto-Slavic **korenɪ*	Proto-Slavic **korenɪ*		
+644	Proto-Slavic **leʒati*	Proto-Slavic **leʒati*		
+645	Proto-Slavic **mẽso*	Proto-Slavic **mẽso*		
+646	Proto-Slavic **ẽzykə*	Proto-Slavic **ẽzykə*		
+647	Proto-Slavic **ʒɪltə*	Proto-Slavic **ʒɪltə*		
+648	Proto-Slavic **sɪrdɪce*	Proto-Slavic **sɪrdɪce*		
+649	French *perdu* (< Latin *perdutu*), Chart 102	French *perdu* (< Latin *perdutu*), Chart 102		
+650	French *la clef* (< Latin *clave*), Chart 103	French *la clef* (< Latin *clave*), Chart 103		
+651	French *(un) fléau* (< Latin *flagellu*), Chart 115	French *(un) fléau* (< Latin *flagellu*), Chart 115		
+652	French *(une) cuve* (< Latin *cupa*), Chart 119	French *(une) cuve* (< Latin *cupa*), Chart 119		
+653	French *(un) joug* (< Latin *jugu*), Chart 121	French *(un) joug* (< Latin *jugu*), Chart 121		
+654	French *(un) lit* (< Latin *lectu*), Chart 124	French *(un) lit* (< Latin *lectu*), Chart 124		
+655	French *largeur* (< Latin *largu + ore*), Chart 143	French *largeur* (< Latin *largu + ore*), Chart 143		
+656	French *le cercle* (< Latin *circulu*), Chart 154	French *le cercle* (< Latin *circulu*), Chart 154		
+657	French *il faudra* (< Latin *fallere + habet*), Chart 158	French *il faudra* (< Latin *fallere + habet*), Chart 158		
+658	French *tondre* (< Latin *tondere*), Chart 160	French *tondre* (< Latin *tondere*), Chart 160		
+659	French *racérer* (< Latin *reaciariare*), Chart 162	French *racérer* (< Latin *reaciariare*), Chart 162		
+660	French *la hache* (< Latin *happia (+ itta)*), Chart 163	French *la hache* (< Latin *happia (+ itta)*), Chart 163		
+661	French *moudre* (< Latin *molere*), Chart 165	French *moudre* (< Latin *molere*), Chart 165		
+662	French *du poivre* (< Latin *piper*), Chart 194	French *du poivre* (< Latin *piper*), Chart 194		
+663	French *de chou* (< Latin *caule*), Chart 196	French *de chou* (< Latin *caule*), Chart 196		
+664	French *était* (< Latin *erat (est + ebat)*), Chart 20	French *était* (< Latin *erat (est + ebat)*), Chart 20		
+665	French *de cendres* (< Latin *cineres*), Chart 210	French *de cendres* (< Latin *cineres*), Chart 210		
+666	French *faim* (< Latin *fame*), Chart 212	French *faim* (< Latin *fame*), Chart 212		
+667	French *du pain* (< Latin *pane*), Chart 215	French *du pain* (< Latin *pane*), Chart 215		
+668	French *cru* (< Latin *crudu*), Chart 218	French *cru* (< Latin *crudu*), Chart 218		
+669	French *(de la) viande* (< Latin *carne*), Chart 219	French *(de la) viande* (< Latin *carne*), Chart 219		
+670	French *(du) fromage* (< Latin *formaticu*), Chart 221	French *(du) fromage* (< Latin *formaticu*), Chart 221		
+671	French *les deux moitiés* (< Latin *duas medietates*), Chart 227	French *les deux moitiés* (< Latin *duas medietates*), Chart 227		
+672	French *l’eau* (< Latin *aqua*), Chart 236	French *l’eau* (< Latin *aqua*), Chart 236		
+673	French *la cuiller* (< Latin *cochleare*), Chart 241	French *la cuiller* (< Latin *cochleare*), Chart 241		
+674	French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244	French *(une) cuillerée, (des) cuillerées* (< Latin *cochlearata, -atas*), Chart 244		
+675	French *mûr* (< Latin *maturu*), Chart 249	French *mûr* (< Latin *maturu*), Chart 249		
+676	French *notre* (< Latin *nostru*), Chart 254	French *notre* (< Latin *nostru*), Chart 254		
+677	French *croître* (< Latin *crescere*), Chart 260	French *croître* (< Latin *crescere*), Chart 260		
+678	French *le saule* (< Latin *salice*), Chart 265	French *le saule* (< Latin *salice*), Chart 265		
+679	French *de nœuds* (< Latin *nodos*), Chart 267	French *de nœuds* (< Latin *nodos*), Chart 267		
+680	French *sans* (< Latin *sine*), Chart 271	French *sans* (< Latin *sine*), Chart 271		
+681	French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274	French *m’appeler* (< Latin *appellare (quiritare)*), Chart 274		
+682	French *une perte* (< Latin *perdita*), Chart 287	French *une perte* (< Latin *perdita*), Chart 287		
+683	French *ils peuvent* (< Latin *potunt*), Chart 295	French *ils peuvent* (< Latin *potunt*), Chart 295		
+684	French *de ma sœur* (< Latin *soror*), Chart 298	French *de ma sœur* (< Latin *soror*), Chart 298		
+685	French *mieux qu‘elle* (< Latin *melius, illæi*), Chart 302	French *mieux qu‘elle* (< Latin *melius, illæi*), Chart 302		
+686	French *ne savent pas* (< Latin *sapunt*), Chart 314	French *ne savent pas* (< Latin *sapunt*), Chart 314		
+687	French *doucement* (< Latin *-mente*), Chart 341	French *doucement* (< Latin *-mente*), Chart 341		
+688	French *(je) sais* (< Latin *sa(p)io*), Chart 343	French *(je) sais* (< Latin *sa(p)io*), Chart 343		
+689	French *lire* (< Latin *legere*), Chart 345	French *lire* (< Latin *legere*), Chart 345		
+690	French *as-tu* (< Latin *ha(be)s tu*), Chart 368	French *as-tu* (< Latin *ha(be)s tu*), Chart 368		
+691	French *pauvreté* (< Latin *paupertate*), Chart 378	French *pauvreté* (< Latin *paupertate*), Chart 378		
+692	French *la fièvre* (< Latin *febre*), Chart 387	French *la fièvre* (< Latin *febre*), Chart 387		
+693	French *le médecin* (< Latin *medicu*), Chart 388	French *le médecin* (< Latin *medicu*), Chart 388		
+694	French *aujourd‘hui* (< Latin *hodie*), Chart 3	French *aujourd‘hui* (< Latin *hodie*), Chart 3		
+695	French *c’est* (< Latin *est*), Chart 4	French *c’est* (< Latin *est*), Chart 4		
+696	French *(cela m’a) aidé* (< Latin *adjutatu*), Chart 400	French *(cela m’a) aidé* (< Latin *adjutatu*), Chart 400		
+697	French *(au) genou* (< Latin *genuclu*), Chart 408	French *(au) genou* (< Latin *genuclu*), Chart 408		
+698	French *(au) pouce* (< Latin *pollice*), Chart 411	French *(au) pouce* (< Latin *pollice*), Chart 411		
+699	French *(au) cœur* (< Latin *cor*), Chart 415	French *(au) cœur* (< Latin *cor*), Chart 415		
+700	French *(à la) cuisse* (< Latin *coxa*), Chart 416	French *(à la) cuisse* (< Latin *coxa*), Chart 416		
+701	French *il fait* (< Latin *facit*), Chart 42	French *il fait* (< Latin *facit*), Chart 42		
+702	French *la main* (< Latin *manu*), Chart 431	French *la main* (< Latin *manu*), Chart 431		
+703	French *est maigre* (< Latin *macru*), Chart 434	French *est maigre* (< Latin *macru*), Chart 434		
+704	French *une fourmi* (< Latin *formicu, -a*), Chart 443	French *une fourmi* (< Latin *formicu, -a*), Chart 443		
+705	French *le chasseur* (< Latin *captiatore*), Chart 447	French *le chasseur* (< Latin *captiatore*), Chart 447		
+706	French *un lièvre* (< Latin *lepore*), Chart 449	French *un lièvre* (< Latin *lepore*), Chart 449		
+707	French *oiseau vert* (< Latin *aucellu viride*), Chart 454	French *oiseau vert* (< Latin *aucellu viride*), Chart 454		
+708	French *l‘oiseau* (< Latin *aucellu*), Chart 455	French *l‘oiseau* (< Latin *aucellu*), Chart 455		
+709	French *quatre* (< Latin *quatt(u)or*), Chart 470	French *quatre* (< Latin *quatt(u)or*), Chart 470		
+710	French *six* (< Latin *sex*), Chart 472	French *six* (< Latin *sex*), Chart 472		
+711	French *descendre* (< Latin *descendere*), Chart 48	French *descendre* (< Latin *descendere*), Chart 48		
+712	French *il faut* (< Latin *fallit*), Chart 50	French *il faut* (< Latin *fallit*), Chart 50		
+713	French *suivre* (< Latin *sequere*), Chart 51	French *suivre* (< Latin *sequere*), Chart 51		
+714	French *le sentier* (< Latin *semitariu*), Chart 52	French *le sentier* (< Latin *semitariu*), Chart 52		
+715	French *le „chable“* (< Latin *catabolu*), Chart 61	French *le „chable“* (< Latin *catabolu*), Chart 61		
+716	French *le grenier* (< Latin *granariu*), Chart 67	French *le grenier* (< Latin *granariu*), Chart 67		
+717	French *contre* (< Latin *contra*), Chart 91	French *contre* (< Latin *contra*), Chart 91		
+718	French *il ferme* (< Latin *claudit*), Chart 94	French *il ferme* (< Latin *claudit*), Chart 94		
+719	French *la fenêtre* (< Latin *fenestra*), Chart 95	French *la fenêtre* (< Latin *fenestra*), Chart 95		
