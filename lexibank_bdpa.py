@@ -9,7 +9,7 @@ import lingpy
 from clldutils.misc import slug
 
 from collections import defaultdict
-from pysen.glosses import to_concepticon
+#from pysen.glosses import to_concepticon
 
 
 @attr.s
@@ -49,25 +49,59 @@ class Dataset(BaseDataset):
                     Concepticon_Gloss=concept['CONCEPTICON_GLOSS'],
                     Number=concept['NUMBER'],
                     MSA=concept['MSA_NAME'])
+        converter = {
+                '˗': '-',
+                'ı': 'ɨ',
+                '_': '+',
+                'ɴ̣': 'ɴ̩',
+                'ŋ̣̩': 'ŋ̍',
+                'ɸ͡x': 'ɸ͡x/ɸ',
+                "ouɚ": "ouɚ/oɚ",
+                "ouə":"ouə",
+                "ʌiə":"ʌiə/ʌə",
+                "aːəiə":"aːəiə/aːə",
+                "œːiə":"œːiə/œːə",
+                "æiə":"æiə/æə",
+                "ɛeə":"ɛeə/ɛə",
+                "ɛiɪ":"ɛiɪ/ɛɪ",
+                "ɛɪə":"ɛɪə/ɛə",
+                "ʊuʌ":"ʊuʌ/ʊʌ",
+                "euə":"euə/eə",
+                "aʊə":"aʊə/aə",
+                "æɪə":"æɪə/æə",
+                "ɛiə":"ɛiə/ɛə",
+                "ɒʊe":"ɒʊe/ɒe",
+                "ɪiə":"ɪiə/ɪə",
+                "iɪə":"iɪə/iə",
+                "æɛo":"æɛo/æo",
+                "æɪɛ":"æɪɛ/æɛ",
+                "əɪɜ":"əɪɜ/əɜ",
+                "ɐuɐ":"ɐuɐ/ɐɐ",
+                "ɔuɐ":"ɔuɐ/ɔɐ",
+                "aɪɐ":"aɪɐ/aɐ",
+                "ɔʊə":"ɔʊə/ɔə",
+                }
         
         for f in progressbar(self.raw_dir.joinpath('msa').glob('*.msa')):
             msa = lingpy.align.sca.MSA(f.as_posix())
             cogid = msa.infile.split('_')[-1][:-4]
-            for language, seq, alignment in zip(msa.taxa, msa.seqs,
+            for language, alignment in zip(msa.taxa,
                     msa.alignment):
+                alm = [converter.get(x, x) for x in alignment]
+                seq = [x for x in alm if x != '-']
                 lexeme = args.writer.add_form_with_segments(
                     Language_ID=languages[language],
                     Parameter_ID=concepts[msa.seq_id.replace('"', '')],
-                    Value=''.join(seq.split()),
-                    Form=''.join(seq.split()),
-                    Segments=seq.split(),
+                    Value=''.join(seq),
+                    Form=''.join(seq),
+                    Segments=seq,
                     Cognacy=cogid,
                     Source=sources[language]
                     )
                 args.writer.add_cognate(
                         lexeme=lexeme,
                         Cognateset_ID=cogid,
-                        Alignment=alignment,
+                        Alignment=alm,
                         Source=['List2014e'])
         #languages = defaultdict(list)
         #visited = set()

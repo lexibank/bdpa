@@ -9,7 +9,14 @@
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from List and Proki\u0107's \"Benchmark Database of Phonetic Alignments\" from 2014",
+    "dcat:accessURL": "https://github.com/lexibank/bdpa",
     "prov:wasDerivedFrom": [
+        {
+            "rdf:type": "prov:Entity",
+            "dc:title": "Repository",
+            "rdf:about": "https://github.com/lexibank/bdpa",
+            "dc:created": "747047e"
+        },
         {
             "rdf:type": "prov:Entity",
             "dc:title": "Glottolog",
