@@ -1,539 +1,539 @@
-ID	Name	Dataset	Glottocode	Source
-Chimborazo	Chimborazo	Andean		
-Tena	Tena	Andean		
-Inkawasi	Inkawasi	Andean		
-Cajamarca	Cajamarca	Andean		
-Corongo	Corongo	Andean		
-Caraz	Caraz	Andean		
-Chavin	Chavín	Andean		
-Huancayo	Huancayo	Andean		
-Huancavelica	Huancavelica	Andean		
-Cuzco	Cuzco	Andean		
-Puno	Puno	Andean		
-Taquile	Taquile	Andean		
-Apolobamba	Apolobamba	Andean		
-Cochabamba	Cochabamba	Andean		
-Sucre	Sucre	Andean		
-Kawki	Kawki	Andean		
-Jaqaru	Jaqaru	Andean		
-Huancane	Huancané	Andean		
-Tiwanaku	Tiwanaku	Andean		
-Oruro	Oruro	Andean		
-Dashi	Dàshí	Bai		
-Ega	Égà	Bai		
-Enqi	Ēnqī	Bai		
-Eryuan	Ěryuán	Bai		
-Gongxing	Gōngxìng	Bai		
-Heqing	Hèqìng	Bai		
-Jianchuan	Jiànchuàn	Bai		
-Jinman	Jīnmǎn	Bai		
-Jinxing	Jīnxīng	Bai		
-Luobenzhuo	Luòběnzhuō	Bai		
-Lanping	Lánpíng	Bai		
-Mazhelong	Mǎzhělóng	Bai		
-Qiliqiao	Qīlǐqiáo	Bai		
-Tuoluo	Tuōluò	Bai		
-Xiangyun	Xiángyún	Bai		
-Yunlong	Yúnlóng	Bai		
-Zhoucheng	Zhōuchéng	Bai		
-Aldomirovcislivnica	Aldomirovci (slivnica)	Bulgarian	bulg1262	
-Asparuhovolom	Asparuhovo (lom)	Bulgarian	bulg1262	
-Asparuhovoprov	Asparuhovo (prov)	Bulgarian	bulg1262	
-Babjakrazl	Babjak (razl)	Bulgarian	bulg1262	
-Bachkovoasgr	Bachkovo (asgr)	Bulgarian	bulg1262	
-Bagrencikjust	Bagrenci (kjust)	Bulgarian	bulg1262	
-Balgaricarev	Balgari (carev)	Bulgarian	bulg1262	
-Banishtebrezn	Banishte (brezn)	Bulgarian	bulg1262	
-Banskorazl	Bansko (razl)	Bulgarian	bulg1262	
-Beglezhluk	Beglezh (luk)	Bulgarian	bulg1262	
-Belenesvisht	Belene (svisht)	Bulgarian	bulg1262	
-Belicarazl	Belica (razl)	Bulgarian	bulg1262	
-Bistricablgr	Bistrica (blgr)	Bulgarian	bulg1262	
-Bogdanovdolpern	Bogdanov dol (pern)	Bulgarian	bulg1262	
-Borisovoelh	Borisovo (elh)	Bulgarian	bulg1262	
-Bovsvog	Bov (svog)	Bulgarian	bulg1262	
-Brashljanmtarn	Brashljan (mtarn)	Bulgarian	bulg1262	
-Buchinprohodgod	Buchin prohod (god)	Bulgarian	bulg1262	
-Caparevosand	Caparevo (sand)	Bulgarian	bulg1262	
-Cerovicakjust	Cerovica (kjust)	Bulgarian	bulg1262	
-Chepelareasgr	Chepelare (asgr)	Bulgarian	bulg1262	
-Chernogorovopaz	Chernogorovo (paz)	Bulgarian	bulg1262	
-Chernomorecbs	Chernomorec (bs)	Bulgarian	bulg1262	
-Chukovecradom	Chukovec (radom)	Bulgarian	bulg1262	
-Dermanciluk	Dermanci (luk)	Bulgarian	bulg1262	
-Devenciluk	Devenci (luk)	Bulgarian	bulg1262	
-Devesilicakrgr	Devesilica (krgr)	Bulgarian	bulg1262	
-Dichinvtarn	Dichin (vtarn)	Bulgarian	bulg1262	
-Dinevohask	Dinevo (hask)	Bulgarian	bulg1262	
-Divaslatinamont	Diva slatina (mont)	Bulgarian	bulg1262	
-Divdjadovoshum	Divdjadovo (shum)	Bulgarian	bulg1262	
-Dobarskorazl	Dobarsko (razl)	Bulgarian	bulg1262	
-Dobroselectopgr	Dobroselec (topgr)	Bulgarian	bulg1262	
-Dobroslavcisof	Dobroslavci (sof)	Bulgarian	bulg1262	
-Dobrotinogd	Dobrotino (gd)	Bulgarian	bulg1262	
-Dolnabeshovicavrach	Dolna beshovica (vrach)	Bulgarian	bulg1262	
-Dolnadikanjaradom	Dolna dikanja (radom)	Bulgarian	bulg1262	
-Dolnamelnatran	Dolna melna (tran)	Bulgarian	bulg1262	
-Dolnariksamont	Dolna riksa (mont)	Bulgarian	bulg1262	
-Dolnasrudenabel	Dolna srudena (bel)	Bulgarian	bulg1262	
-Dolnibogrovsof	Dolni bogrov (sof)	Bulgarian	bulg1262	
-Dolnolevskipan	Dolno levski (pan)	Bulgarian	bulg1262	
-Dorkovovelgr	Dorkovo (velgr)	Bulgarian	bulg1262	
-Drabishnaivgr	Drabishna (ivgr)	Bulgarian	bulg1262	
-Dragizhevovtarn	Dragizhevo (vtarn)	Bulgarian	bulg1262	
-Dragodanovosliv	Dragodanovo (sliv)	Bulgarian	bulg1262	
-Dragoevopresl	Dragoevo (presl)	Bulgarian	bulg1262	
-Dragojchincikjust	Dragojchinci (kjust)	Bulgarian	bulg1262	
-Elovdolpk	Elov dol (pk)	Bulgarian	bulg1262	
-Eninakaz	Enina (kaz)	Bulgarian	bulg1262	
-Ezerovoparvom	Ezerovo (parvom)	Bulgarian	bulg1262	
-Furenvrach	Furen (vrach)	Bulgarian	bulg1262	
-Gabarebslat	Gabare (bslat)	Bulgarian	bulg1262	
-Gabraelpel	Gabra (elpel)	Bulgarian	bulg1262	
-Galatatetev	Galata (tetev)	Bulgarian	bulg1262	
-Ganchovecdrjan	Ganchovec (drjan)	Bulgarian	bulg1262	
-Garmengd	Garmen (gd)	Bulgarian	bulg1262	
-Garvansil	Garvan (sil)	Bulgarian	bulg1262	
-Gegapetr	Gega (petr)	Bulgarian	bulg1262	
-Glozheneorjah	Glozhene (orjah)	Bulgarian	bulg1262	
-Golemarakovicaelpel	Golema rakovica (elpel)	Bulgarian	bulg1262	
-Golemomalovosliven	Golemo malovo (sliven)	Bulgarian	bulg1262	
-Golicavarn	Golica (varn)	Bulgarian	bulg1262	
-Goljamazheljaznatetev	Goljama zheljazna (tetev)	Bulgarian	bulg1262	
-Goljamoshivachevosliv	Goljamo shivachevo (sliv)	Bulgarian	bulg1262	
-Gornarosicasevl	Gorna rosica (sevl)	Bulgarian	bulg1262	
-Gornivarpishtadrjan	Gorni varpishta (drjan)	Bulgarian	bulg1262	
-Govedarcisam	Govedarci (sam)	Bulgarian	bulg1262	
-Gradecvd	Gradec (vd)	Bulgarian	bulg1262	
-Huhlaivgr	Huhla (ivgr)	Bulgarian	bulg1262	
-Hvojnaasgr	Hvojna (asgr)	Bulgarian	bulg1262	
-Indzhevojvodamtarn	Indzhe vojvoda (mtarn)	Bulgarian	bulg1262	
-Ivanskishum	Ivanski (shum)	Bulgarian	bulg1262	
-Izvorovoharm	Izvorovo (harm)	Bulgarian	bulg1262	
-Javorovoasgr	Javorovo (asgr)	Bulgarian	bulg1262	
-Kalipetrovosil	Kalipetrovo (sil)	Bulgarian	bulg1262	
-Kalojanovoplov	Kalojanovo (plov)	Bulgarian	bulg1262	
-Karaisenpavl	Karaisen (pavl)	Bulgarian	bulg1262	
-Karanovoajt	Karanovo (ajt)	Bulgarian	bulg1262	
-Kaspichannp	Kaspichan (np)	Bulgarian	bulg1262	
-Koljumarinovochirp	Kolju marinovo (chirp)	Bulgarian	bulg1262	
-Konskabrezn	Konska (brezn)	Bulgarian	bulg1262	
-Kopilovcimont	Kopilovci (mont)	Bulgarian	bulg1262	
-Koprivshticapird	Koprivshtica (pird)	Bulgarian	bulg1262	
-Kortennzag	Korten (nzag)	Bulgarian	bulg1262	
-Kosteneciht	Kostenec (iht)	Bulgarian	bulg1262	
-Kovachevcisam	Kovachevci (sam)	Bulgarian	bulg1262	
-Kozichinopom	Kozichino (pom)	Bulgarian	bulg1262	
-Kramolinsevl	Kramolin (sevl)	Bulgarian	bulg1262	
-Kraveniksevl	Kravenik (sevl)	Bulgarian	bulg1262	
-Kretavrach	Kreta (vrach)	Bulgarian	bulg1262	
-Krivnjarazgr	Krivnja (razgr)	Bulgarian	bulg1262	
-Levunovosand	Levunovo (sand)	Bulgarian	bulg1262	
-Liljachevr	Liljache (vr)	Bulgarian	bulg1262	
-Lipnicabotgr	Lipnica (botgr)	Bulgarian	bulg1262	
-Ljubenovamahalanzag	Ljubenova mahala (nzag)	Bulgarian	bulg1262	
-Loboshrad	Lobosh (rad)	Bulgarian	bulg1262	
-Lozensof	Lozen (sof)	Bulgarian	bulg1262	
-Malomirovoelh	Malomirovo (elh)	Bulgarian	bulg1262	
-Marchaevosof	Marchaevo (sof)	Bulgarian	bulg1262	
-Marikostinovopetr	Marikostinovo (petr)	Bulgarian	bulg1262	
-Markovoshum	Markovo (shum)	Bulgarian	bulg1262	
-Merdanjavtarn	Merdanja (vtarn)	Bulgarian	bulg1262	
-Merichlerichirp	Merichleri (chirp)	Bulgarian	bulg1262	
-Mihalcipavl	Mihalci (pavl)	Bulgarian	bulg1262	
-Milchinalakakul	Milchina laka (kul)	Bulgarian	bulg1262	
-Momchilovcismol	Momchilovci (smol)	Bulgarian	bulg1262	
-Mominabanjapl	Momina banja (pl)	Bulgarian	bulg1262	
-Mominaklisurapz	Momina klisura (pz)	Bulgarian	bulg1262	
-Momkovosvgr	Momkovo (svgr)	Bulgarian	bulg1262	
-Mugladev	Mugla (dev)	Bulgarian	bulg1262	
-Nikolovolipnikrus	Nikolovo(lipnik) (rus)	Bulgarian	bulg1262	
-Nikolovohask	Nikolovo (hask)	Bulgarian	bulg1262	
-Noevcibrezn	Noevci (brezn)	Bulgarian	bulg1262	
-Novalovchagd	Nova lovcha (gd)	Bulgarian	bulg1262	
-Novanadezhdahs	Nova nadezhda (hs)	Bulgarian	bulg1262	
-Novoselotrojan	Novo selo (trojan)	Bulgarian	bulg1262	
-Ognenkarn	Ognen (karn)	Bulgarian	bulg1262	
-Omarchevonzag	Omarchevo (nzag)	Bulgarian	bulg1262	
-Opanstzag	Opan (stzag)	Bulgarian	bulg1262	
-Osenecrazgr	Osenec (razgr)	Bulgarian	bulg1262	
-Panagjurishtegd	Panagjurishte (gd)	Bulgarian	bulg1262	
-Paskalevecpavl	Paskalevec (pavl)	Bulgarian	bulg1262	
-Pavelskoasgr	Pavelsko (asgr)	Bulgarian	bulg1262	
-Pelatikovokjust	Pelatikovo (kjust)	Bulgarian	bulg1262	
-Petarnicaplev	Petarnica (plev)	Bulgarian	bulg1262	
-Pevectarg	Pevec (targ)	Bulgarian	bulg1262	
-Plakovovt	Plakovo (vt)	Bulgarian	bulg1262	
-Podviskarn	Podvis (karn)	Bulgarian	bulg1262	
-Pozharevotutr	Pozharevo (tutr)	Bulgarian	bulg1262	
-Rabishabelgr	Rabisha (belgr)	Bulgarian	bulg1262	
-Radovenevr	Radovene (vr)	Bulgarian	bulg1262	
-Rakevovr	Rakevo (vr)	Bulgarian	bulg1262	
-Rakovicakul	Rakovica (kul)	Bulgarian	bulg1262	
-Ranilugtryn	Rani lug (tryn)	Bulgarian	bulg1262	
-Razboishtegod	Razboishte (god)	Bulgarian	bulg1262	
-Ruzhincibelgr	Ruzhinci (belgr)	Bulgarian	bulg1262	
-Sadinapop	Sadina (pop)	Bulgarian	bulg1262	
-Saparevodup	Saparevo (dup)	Bulgarian	bulg1262	
-Sekirovoplov	Sekirovo (plov)	Bulgarian	bulg1262	
-Senokosblgr	Senokos (blgr)	Bulgarian	bulg1262	
-Sestrinopetr	Sestrino (petr)	Bulgarian	bulg1262	
-Shipkakaz	Shipka (kaz)	Bulgarian	bulg1262	
-Shirokalakadev	Shiroka laka (dev)	Bulgarian	bulg1262	
-Shirokidolsam	Shiroki dol (sam)	Bulgarian	bulg1262	
-Shtipskoprov	Shtipsko (prov)	Bulgarian	bulg1262	
-Skobelevosliv	Skobelevo (sliv)	Bulgarian	bulg1262	
-Slaveinosmol	Slaveino (smol)	Bulgarian	bulg1262	
-Slavjanovoplev	Slavjanovo (plev)	Bulgarian	bulg1262	
-Smochevodupn	Smochevo (dupn)	Bulgarian	bulg1262	
-Smolskopird	Smolsko (pird)	Bulgarian	bulg1262	
-Solishtadev	Solishta (dev)	Bulgarian	bulg1262	
-Sredeczlgr	Sredec (zlgr)	Bulgarian	bulg1262	
-Stakevciblgr	Stakevci (blgr)	Bulgarian	bulg1262	
-Stambolovohask	Stambolovo (hask)	Bulgarian	bulg1262	
-Starmenbel	Starmen (bel)	Bulgarian	bulg1262	
-Stoilovomt	Stoilovo (mt)	Bulgarian	bulg1262	
-Straldzhajamb	Straldzha (jamb)	Bulgarian	bulg1262	
-Stroevoplov	Stroevo (plov)	Bulgarian	bulg1262	
-Suhindolvtarn	Suhindol (vtarn)	Bulgarian	bulg1262	
-Sushicablgr	Sushica (blgr)	Bulgarian	bulg1262	
-Svetlinatopgr	Svetlina (topgr)	Bulgarian	bulg1262	
-Svirkovoharm	Svirkovo (harm)	Bulgarian	bulg1262	
-Tihomirkrgr	Tihomir (krgr)	Bulgarian	bulg1262	
-Tihomirovostzag	Tihomirovo (stzag)	Bulgarian	bulg1262	
-Topolchanesliv	Topolchane (sliv)	Bulgarian	bulg1262	
-Trancovicanik	Trancovica (nik)	Bulgarian	bulg1262	
-Trastenikplev	Trastenik (plev)	Bulgarian	bulg1262	
-Ustovosm	Ustovo (sm)	Bulgarian	bulg1262	
-Vabelnik	Vabel (nik)	Bulgarian	bulg1262	
-Vaklinovogd	Vaklinovo (gd)	Bulgarian	bulg1262	
-Valchepolesvgr	Valche pole (svgr)	Bulgarian	bulg1262	
-Varbicapresl	Varbica (presl)	Bulgarian	bulg1262	
-Varbovoblgr	Varbovo (blgr)	Bulgarian	bulg1262	
-Varduntarg	Vardun (targ)	Bulgarian	bulg1262	
-Varvarapaz	Varvara (paz)	Bulgarian	bulg1262	
-Vasiljovotetev	Vasiljovo (tetev)	Bulgarian	bulg1262	
-Velkovcipk	Velkovci (pk)	Bulgarian	bulg1262	
-Vinarovovid	Vinarovo (vid)	Bulgarian	bulg1262	
-Vinishtemont	Vinishte (mont)	Bulgarian	bulg1262	
-Vladinjalov	Vladinja (lov)	Bulgarian	bulg1262	
-Vodenelh	Voden (elh)	Bulgarian	bulg1262	
-Vojnjagovokarl	Vojnjagovo (karl)	Bulgarian	bulg1262	
-Vracheshbotgr	Vrachesh (botgr)	Bulgarian	bulg1262	
-Vranilovcigabr	Vranilovci (gabr)	Bulgarian	bulg1262	
-Vresovoajt	Vresovo (ajt)	Bulgarian	bulg1262	
-Zabardoasgr	Zabardo (asgr)	Bulgarian	bulg1262	
-Zabernovomt	Zabernovo (mt)	Bulgarian	bulg1262	
-Zamfirovoberk	Zamfirovo (berk)	Bulgarian	bulg1262	
-Zanozheneberk	Zanozhene (berk)	Bulgarian	bulg1262	
-Zdravkovecgabr	Zdravkovec (gabr)	Bulgarian	bulg1262	
-Zelenigradtran	Zelenigrad (tran)	Bulgarian	bulg1262	
-Zhaltushaard	Zhaltusha (ard)	Bulgarian	bulg1262	
-Zheglicavid	Zheglica (vid)	Bulgarian	bulg1262	
-Zhelensvog	Zhelen (svog)	Bulgarian	bulg1262	
-Zheljazkovosred	Zheljazkovo (sred)	Bulgarian	bulg1262	
-Zheravnakot	Zheravna (kot)	Bulgarian	bulg1262	
-MidslandFr	Midsland (Fr)	Dutch	dutc1256	
-LiesFr	Lies (Fr)	Dutch	dutc1256	
-WestTerschellingFr	West-Terschelling (Fr)	Dutch	dutc1256	
-DenHoornNH	Den Hoorn (NH)	Dutch	dutc1256	
-BurenFr	Buren (Fr)	Dutch	dutc1256	
-OosterendFr	Oosterend (Fr)	Dutch	dutc1256	
-HolwerdFr	Holwerd (Fr)	Dutch	dutc1256	
-WierumFr	Wierum (Fr)	Dutch	dutc1256	
-KantensGn	Kantens (Gn)	Dutch	dutc1256	
-LeermensGn	Leermens (Gn)	Dutch	dutc1256	
-AduardGn	Aduard (Gn)	Dutch	dutc1256	
-SintAnnenGn	Sint-Annen (Gn)	Dutch	dutc1256	
-ScheveningenZH	Scheveningen (ZH)	Dutch	dutc1256	
-WateringenZH	Wateringen (ZH)	Dutch	dutc1256	
-CallantsoogNH	Callantsoog (NH)	Dutch	dutc1256	
-SchagenNH	Schagen (NH)	Dutch	dutc1256	
-KoedijkNH	Koedijk (NH)	Dutch	dutc1256	
-AbbekerkNH	Abbekerk (NH)	Dutch	dutc1256	
-WorkumFr	Workum (Fr)	Dutch	dutc1256	
-OudeschootFr	Oudeschoot (Fr)	Dutch	dutc1256	
-SlotenFr	Sloten (Fr)	Dutch	dutc1256	
-NijeholtpadeFr	Nijeholtpade (Fr)	Dutch	dutc1256	
-SmildeDr	Smilde (Dr)	Dutch	dutc1256	
-MusselGn	Mussel (Gn)	Dutch	dutc1256	
-ValthermondDr	Valthermond (Dr)	Dutch	dutc1256	
-TerApelGn	Ter Apel (Gn)	Dutch	dutc1256	
-KnokkeBeWv	Knokke (BeWv)	Dutch	dutc1256	
-OostendeBeWv	Oostende (BeWv)	Dutch	dutc1256	
-KoekelareBeWv	Koekelare (BeWv)	Dutch	dutc1256	
-ZuydcooteFrVl	Zuydcoote (FrVl)	Dutch	dutc1256	
-BrielleZH	Brielle (ZH)	Dutch	dutc1256	
-PiershilZH	Piershil (ZH)	Dutch	dutc1256	
-HaamstedeZe	Haamstede (Ze)	Dutch	dutc1256	
-BrouwershavenZe	Brouwershaven (Ze)	Dutch	dutc1256	
-GouderakZH	Gouderak (ZH)	Dutch	dutc1256	
-AmeideZH	Ameide (ZH)	Dutch	dutc1256	
-BuurmalsenGl	Buurmalsen (Gl)	Dutch	dutc1256	
-AlmkerkNB	Almkerk (NB)	Dutch	dutc1256	
-IngenGl	Ingen (Gl)	Dutch	dutc1256	
-RenkumGl	Renkum (Gl)	Dutch	dutc1256	
-ZevenaarGl	Zevenaar (Gl)	Dutch	dutc1256	
-NijmegenGl	Nijmegen (Gl)	Dutch	dutc1256	
-VarsseveldGl	Varsseveld (Gl)	Dutch	dutc1256	
-SilvoldeGl	Silvolde (Gl)	Dutch	dutc1256	
-UlftGl	Ulft (Gl)	Dutch	dutc1256	
-PoperingeBeWv	Poperinge (BeWv)	Dutch	dutc1256	
-MoorsledeBeWv	Moorslede (BeWv)	Dutch	dutc1256	
-KortrijkBeWv	Kortrijk (BeWv)	Dutch	dutc1256	
-MouscronBe	Mouscron (Be)	Dutch	dutc1256	
-NazarethBeOv	Nazareth (BeOv)	Dutch	dutc1256	
-WaregemBeWv	Waregem (BeWv)	Dutch	dutc1256	
-OoikeBeOv	Ooike (BeOv)	Dutch	dutc1256	
-HumbeekBeBr	Humbeek (BeBr)	Dutch	dutc1256	
-MeerbeekBeBr	Meerbeek (BeBr)	Dutch	dutc1256	
-WalshoutemBeBr	Walshoutem (BeBr)	Dutch	dutc1256	
-ZutendaalBeLb	Zutendaal (BeLb)	Dutch	dutc1256	
-SchinnenLb	Schinnen (Lb)	Dutch	dutc1256	
-BilzenBeLb	Bilzen (BeLb)	Dutch	dutc1256	
-KerkradeLb	Kerkrade (Lb)	Dutch	dutc1256	
-BrouckerqueFrVl	Brouckerque (FrVl)	Dutch	dutc1256	
-BollezeeleFrVl	Bollezeele (FrVl)	Dutch	dutc1256	
-NieurletFrVl	Nieurlet (FrVl)	Dutch	dutc1256	
-AmericanEnglish	American English	Germanic		
-CanadianEnglish	Canadian English	Germanic		
-CentralGermanCologne	Central German (Cologne)	Germanic		
-CentralGermanHonigberg	Central German (Honigberg)	Germanic		
-CentralGermanLuxembourg	Central German (Luxembourg)	Germanic		
-CentralGermanMurrhardt	Central German (Murrhardt)	Germanic		
-Danish	Danish	Germanic		
-DutchAntwerp	Dutch (Antwerp)	Germanic		
-BelgianDutch	Belgian Dutch	Germanic		
-DutchLimburg	Dutch (Limburg)	Germanic		
-DutchOstend	Dutch (Ostend)	Germanic		
-Dutch	Dutch	Germanic		
-NewZealandEnglishAuckland	New Zealand English (Auckland)	Germanic		
-EnglishBuckie	English (Buckie)	Germanic		
-IndianEnglishDelhi	Indian English (Delhi)	Germanic		
-NigerianEnglishIgbo	Nigerian English (Igbo)	Germanic		
-SouthAfricanEnglishJohannisburg	South African English (Johannisburg)	Germanic		
-EnglishLindisfarne	English (Lindisfarne)	Germanic		
-EnglishLiverpool	English (Liverpool	Germanic		
-EnglishLondon	English (London	Germanic		
-EnglishNorthCarolina	English (North Carolina)	Germanic		
-AustralianEnglishPerth	Australian English (Perth)	Germanic		
-EnglishSingapore	English (Singapore)	Germanic		
-English	English	Germanic		
-EnglishTyrone	English (Tyrone)	Germanic		
-Faroese	Faroese	Germanic		
-German	German	Germanic		
-HighGermanNorthAlsace	High German (North Alsace)	Germanic		
-HighGermanBiel	High German (Biel)	Germanic		
-HighGermanBodensee	High German (Bodensee)	Germanic		
-HighGermanGraubuenden	High German (Graubuenden)	Germanic		
-HighGermanHerrlisheim	High German (Herrlisheim)	Germanic		
-HighGermanOrtisei	High German (Ortisei)	Germanic		
-HighGermanTuebingen	High German (Tuebingen)	Germanic		
-HighGermanWalser	High German (Walser)	Germanic		
-Icelandic	Icelandic	Germanic		
-LowGermanAchterhoek	Low German (Achterhoek)	Germanic		
-LowGermanBargstedt	Low German (Bargstedt)	Germanic		
-NorwegianStavanger	Norwegian (Stavanger)	Germanic		
-Scottish	Scottish	Germanic		
-SwedishSkane	Swedish (Skane)	Germanic		
-SwedishStockholm	Swedish (Stockholm)	Germanic		
-WestFrisianGrou	West Frisian (Grou)	Germanic		
-YiddishNewYork	Yiddish (New York)	Germanic		
-ProtoGermanic	Proto-Germanic	Germanic		
-Miyako	Miyako	Japanese	nucl1643	
-Tokyo	Tokyo	Japanese	nucl1643	
-Amami	Amami	Japanese	nucl1643	
-Kyoto	Kyoto	Japanese	nucl1643	
-Hachijo	Hachijō	Japanese	nucl1643	
-Shuri	Shuri	Japanese	nucl1643	
-Kochi	Kōchi	Japanese	nucl1643	
-Sado	Sado	Japanese	nucl1643	
-Oki	Oki	Japanese	nucl1643	
-Kagoshima	Kagoshima	Japanese	nucl1643	
-Assery	Asserøy	Norwegian	norw1258	
-Bjrnevatn	Bjørnevatn	Norwegian	norw1258	
-Borre	Borre	Norwegian	norw1258	
-Brekke	Brekke	Norwegian	norw1258	
-Bryne	Bryne	Norwegian	norw1258	
-Brnnysund	Brønnøysund	Norwegian	norw1258	
-Bygstad	Bygstad	Norwegian	norw1258	
-B	Bø	Norwegian	norw1258	
-Dokka	Dokka	Norwegian	norw1258	
-Dovre	Dovre	Norwegian	norw1258	
-Eggesbneset	Eggesbøneset	Norwegian	norw1258	
-Elnesvagen	Elnesvågen	Norwegian	norw1258	
-Fagerhaug	Fagerhaug	Norwegian	norw1258	
-Flate	Flåte	Norwegian	norw1258	
-FoldvikBrunlanes	Foldvik, Brunlanes	Norwegian	norw1258	
-Fyllingsdalen	Fyllingsdalen	Norwegian	norw1258	
-Fyresdal	Fyresdal	Norwegian	norw1258	
-Gjra	Gjøra	Norwegian	norw1258	
-Hafrsfjord	Hafrsfjord	Norwegian	norw1258	
-Halden	Halden	Norwegian	norw1258	
-Hisy	Hisøy	Norwegian	norw1258	
-Hundvag	Hundvåg	Norwegian	norw1258	
-Kaldfarnes	Kaldfarnes	Norwegian	norw1258	
-Kristiansand	Kristiansand	Norwegian	norw1258	
-KrogtoftBorge	Krogtoft, Borge	Norwegian	norw1258	
-Russland	Russland	Norwegian	norw1258	
-Lillehammer	Lillehammer	Norwegian	norw1258	
-Lomnes	Lomnes	Norwegian	norw1258	
-Mandal	Mandal	Norwegian	norw1258	
-Molde	Molde	Norwegian	norw1258	
-Mrkved	Mørkved	Norwegian	norw1258	
-NaasEide	Naas, Eide	Norwegian	norw1258	
-Nordstrand	Nordstrand	Norwegian	norw1258	
-Orkanger	Orkanger	Norwegian	norw1258	
-RaundalenFagnastl	Raundalen, Fagnastøl	norw1258Norwegian		
-Sandnessjen	Sandnessjøen	Norwegian	norw1258	
-Selfors	Selfors	Norwegian	norw1258	
-Sortland	Sortland	Norwegian	norw1258	
-Stange	Stange	Norwegian	norw1258	
-Stanghelle	Stanghelle	Norwegian	norw1258	
-Stjrdal	Stjørdal	Norwegian	norw1258	
-Stjrdalshalsen	Stjørdalshalsen	Norwegian	norw1258	
-Sta	Støa	Norwegian	norw1258	
-Stre	Sætre	Norwegian	norw1258	
-Srkjosen	Sørkjosen	Norwegian	norw1258	
-Tjtta	Tjøtta	Norwegian	norw1258	
-Troms	Tromsø	Norwegian	norw1258	
-Trondheim	Trondheim	Norwegian	norw1258	
-Tynsetsentrum	Tynset sentrum	Norwegian	norw1258	
-Undheim	Undheim	Norwegian	norw1258	
-ra	Øra	Norwegian	norw1258	
-NorthMansi	North Mansi	Ob-Ugrian		
-MiddleLozvaMansi	Middle Lozva Mansi	Ob-Ugrian		
-LowerLozvaMansi	Lower Lozva Mansi	Ob-Ugrian		
-KondaMansi	Konda Mansi	Ob-Ugrian		
-TavdaMansi	Tavda Mansi	Ob-Ugrian		
-UpperDemjankaKhanti	Upper Demjanka Khanti	Ob-Ugrian		
-KondaKhanti	Konda Khanti	Ob-Ugrian		
-NizjamKhanti	Nizjam Khanti	Ob-Ugrian		
-SherkaliKhanti	Sherkali Khanti	Ob-Ugrian		
-VakhKhanti	Vakh Khanti	Ob-Ugrian		
-VerkhneKalimskKhanti	Verkhne Kalimsk Khanti	Ob-Ugrian		
-VasjuganKhanti	Vasjugan Khanti	Ob-Ugrian		
-VartovskojeKhanti	Vartovskoje Khanti	Ob-Ugrian		
-LikrisovskojeKhanti	Likrisovskoje Khanti	Ob-Ugrian		
-MalyjJuganKhanti	Malyj Jugan Khanti	Ob-Ugrian		
-TremjuganKhanti	Tremjugan Khanti	Ob-Ugrian		
-JuganKhanti	Jugan Khanti	Ob-Ugrian		
-KazimKhanti	Kazim Khanti	Ob-Ugrian		
-SinjaKhanti	Sinja Khanti	Ob-Ugrian		
-ObdorskKhanti	Obdorsk Khanti	Ob-Ugrian		
-PelimkaMansi	Pelimka Mansi	Ob-Ugrian		
-Italian	Italian	Romance		
-French	French	Romance		
-Occitan	Occitan	Romance		
-Ligurian	Ligurian	Romance		
-LombardWest	Lombard (West)	Romance		
-LombardEast	Lombard (East)	Romance		
-Ladino	Ladino	Romance		
-Venetian	Venetian	Romance		
-Zhengzhou	Zhèngzhōu	Sinitic		
-Pingyao	Pingyao	Sinitic		
-Lanzhou	Lánzhōu	Sinitic		
-Shantou	Shāntóu	Sinitic		
-Guangzhou	Guǎngzhōu	Sinitic		
-Xining	Xīníng	Sinitic		
-Yinchuan	Yīnchuàn	Sinitic		
-Qingdao	Qingdao	Sinitic		
-Shexian	Shèxiàn	Sinitic		
-Xiamen	Xiàmén	Sinitic		
-Nanning	Nánníng	Sinitic		
-Haikou	Hǎikǒu	Sinitic		
-Fuzhou	Fùzhōu	Sinitic		
-Xian	Xi'an	Sinitic		
-Suzhou	Sùzhōu	Sinitic		
-Tunxi	Tūnxī	Sinitic		
-Meixian	Měixiàn	Sinitic		
-Xianggang	Xiānggǎng	Sinitic		
-Jianou	Jian'ou	Sinitic		
-Nanchang	Nánchàng	Sinitic		
-Shanghai	Shànghǎi	Sinitic		
-Taibei	Táiběi	Sinitic		
-Harbin	Hǎrbīn	Sinitic		
-Hefei	Héfēi	Sinitic		
-Wuhan	Wǔhàn	Sinitic		
-Kunming	Kùnmíng	Sinitic		
-Wenzhou	Wénzhōu	Sinitic		
-Hohhot	Hohhot	Sinitic		
-Changsha	Chángshà	Sinitic		
-Taoyuan	Táoyuán	Sinitic		
-Xiangtan	Xiāngtàn	Sinitic		
-Beijing	Běijīng	Sinitic		
-Jinan	Jìnán	Sinitic		
-Chengdu	Chéngdū	Sinitic		
-Guiyang	Guìyáng	Sinitic		
-Nanjing	Nánjīng	Sinitic		
-Taiyuan	Tàiyuán	Sinitic		
-Urumqi	Ürümqi	Sinitic		
-Tianjin	Tiānjìn	Sinitic		
-Hangzhou	Hángzhōu	Sinitic		
-Bulgarian	Bulgarian	Slavic	bulg1262	
-Czech	Czech	Slavic		
-Russian	Russian	Slavic		
-Polish	Polish	Slavic		
-Serbian	Serbian	Slavic		
-Chevroux	Chevroux	French	stan1290	
-Vaugondry	Vaugondry	French	stan1290	
-LAuberson	L'Auberson	French	stan1290	
-Vallorbe	Vallorbe	French	stan1290	
-LeSentier	Le Sentier	French	stan1290	
-Longirod	Longirod	French	stan1290	
-Commugny	Commugny	French	stan1290	
-Vullierens	Vullierens	French	stan1290	
-Arnex	Arnex	French	stan1290	
-VillarsleTerroir	Villars-le-Terroir	French	stan1290	
-Prahins	Prahins	French	stan1290	
-Montpreveyres	Montpreveyres	French	stan1290	
-Charnex	Charnex	French	stan1290	
-Roche	Roche	French	stan1290	
-OrmontDessus	Ormont-Dessus	French	stan1290	
-ChateaudOex	Château-d'Oex	French	stan1290	
-StGingolph	St-Gingolph	French	stan1290	
-Collombey	Collombey	French	stan1290	
-Champery	Champéry	French	stan1290	
-Martigny	Martigny	French	stan1290	
-Orsieres	Orsières	French	stan1290	
-Lourtier	Lourtier	French	stan1290	
-Fully	Fully	French	stan1290	
-Conthey	Conthey	French	stan1290	
-Nendaz	Nendaz	French	stan1290	
-Saviese	Savièse	French	stan1290	
-Ayent	Ayent	French	stan1290	
-Miege	Miège	French	stan1290	
-Grone	Grône	French	stan1290	
-Evolene	Évolène	French	stan1290	
-Grimentz	Grimentz	French	stan1290	
-Collex	Collex	French	stan1290	
-Vernier	Vernier	French	stan1290	
-Laconnex	Laconnex	French	stan1290	
-Veyrier	Veyrier	French	stan1290	
-Hermance	Hermance	French	stan1290	
-Semsalves	Semsalves	French	stan1290	
-Montbovon	Montbovon	French	stan1290	
-Arconciel	Arconciel	French	stan1290	
-AvrysurMatran	Avry-sur-Matran	French	stan1290	
-Courtepin	Courtepin	French	stan1290	
-Dompierre	Dompierre	French	stan1290	
-Murist	Murist	French	stan1290	
-Sugiez	Sugiez	French	stan1290	
-Montalchez	Montalchez	French	stan1290	
-Boudry	Boudry	French	stan1290	
-Corcelles	Corcelles	French	stan1290	
-Landeron	Landeron	French	stan1290	
-Savagnier	Savagnier	French	stan1290	
-CoteauxFees	Côte-aux-Fées	French	stan1290	
-Noiraigue	Noiraigue	French	stan1290	
-ChauxduMilieu	Chaux-du-Milieu	French	stan1290	
-CerneuxPequignot	Cerneux-Péquignot	French	stan1290	
-Lamboing	Lamboing	French	stan1290	
-Orvin	Orvin	French	stan1290	
-Plagne	Plagne	French	stan1290	
-Sombeval	Sombeval	French	stan1290	
-Court	Court	French	stan1290	
-Vermes	Vermes	French	stan1290	
-Develier	Develier	French	stan1290	
-Cerlatez	Cerlatez	French	stan1290	
-Courtedoux	Courtedoux	French	stan1290	
+ID	Name	Dataset	Glottocode	Source	Latitude	Longitude	
+Chimborazo	Chimborazo	Andean		Heggarty2007			
+Tena	Tena	Andean		Heggarty2007			
+Inkawasi	Inkawasi	Andean		Heggarty2007			
+Cajamarca	Cajamarca	Andean		Heggarty2007			
+Corongo	Corongo	Andean		Heggarty2007			
+Caraz	Caraz	Andean		Heggarty2007			
+Chavin	Chavín	Andean		Heggarty2007			
+Huancayo	Huancayo	Andean		Heggarty2007			
+Huancavelica	Huancavelica	Andean		Heggarty2007			
+Cuzco	Cuzco	Andean		Heggarty2007			
+Puno	Puno	Andean		Heggarty2007			
+Taquile	Taquile	Andean		Heggarty2007			
+Apolobamba	Apolobamba	Andean		Heggarty2007			
+Cochabamba	Cochabamba	Andean		Heggarty2007			
+Sucre	Sucre	Andean		Heggarty2007			
+Kawki	Kawki	Andean		Heggarty2007			
+Jaqaru	Jaqaru	Andean		Heggarty2007			
+Huancane	Huancané	Andean		Heggarty2007			
+Tiwanaku	Tiwanaku	Andean		Heggarty2007			
+Oruro	Oruro	Andean		Heggarty2007			
+Eryuan	Ěryuán	Bai	eryu1239	Allen2007		26.538056	99.910000
+Heqing	Hèqìng	Bai	heqi1238	Allen2007		26.0991374	99.9416161
+Jianchuan	Jiànchuàn	Bai	jian1239	Allen2007		26.5536208	100.1396921
+Lanping	Lánpíng	Bai	lanp1241	Allen2007		26.5158555	99.2581092
+Luobenzhuo	Luòběnzhuō	Bai	nuji1238	Allen2007		26.4240223	98.8862088
+Qiliqiao	Qīlǐqiáo	Bai	qili1234	Allen2007		25.6553283	100.1709288
+Xiangyun	Xiángyún	Bai	xian1250	Allen2007		25.5313657	100.4478932
+Yunlong	Yúnlóng	Bai	yunl1238	Allen2007		25.9223745	99.0352884
+Zhoucheng	Zhōuchéng	Bai	zhou1234	Allen2007		25.8958633	100.0987848
+Dashi	Dàshí	Bai		Wang2006		26.3530106	100.1930442
+Ega	Égà	Bai	egab1234	Wang2006		26.4858945	98.8528962
+Enqi	Ēnqī	Bai	enqi1234	Wang2006		26.4738155	99.1189832
+Gongxing	Gōngxìng	Bai		Wang2006		27.0852794	99.1652452
+Jinman	Jīnmǎn	Bai	nuji1238	Wang2006		26.4154856	99.1285952
+Jinxing	Jīnxīng	Bai		Wang2006		24.9259218	103.1237482
+Mazhelong	Mǎzhělóng	Bai		Wang2006		24.1677209	104.1950232
+Tuoluo	Tuōluò	Bai	tuol1234	Wang2006		23.3833337	102.1839821
+Aldomirovcislivnica	Aldomirovci (slivnica)	Bulgarian	zhou1234	Prokic2009		25.8958826	100.0988062
+Asparuhovolom	Asparuhovo (lom)	Bulgarian	bulg1262	Prokic2009			
+Asparuhovoprov	Asparuhovo (prov)	Bulgarian	bulg1262	Prokic2009			
+Babjakrazl	Babjak (razl)	Bulgarian	bulg1262	Prokic2009			
+Bachkovoasgr	Bachkovo (asgr)	Bulgarian	bulg1262	Prokic2009			
+Bagrencikjust	Bagrenci (kjust)	Bulgarian	bulg1262	Prokic2009			
+Balgaricarev	Balgari (carev)	Bulgarian	bulg1262	Prokic2009			
+Banishtebrezn	Banishte (brezn)	Bulgarian	bulg1262	Prokic2009			
+Banskorazl	Bansko (razl)	Bulgarian	bulg1262	Prokic2009			
+Beglezhluk	Beglezh (luk)	Bulgarian	bulg1262	Prokic2009			
+Belenesvisht	Belene (svisht)	Bulgarian	bulg1262	Prokic2009			
+Belicarazl	Belica (razl)	Bulgarian	bulg1262	Prokic2009			
+Bistricablgr	Bistrica (blgr)	Bulgarian	bulg1262	Prokic2009			
+Bogdanovdolpern	Bogdanov dol (pern)	Bulgarian	bulg1262	Prokic2009			
+Borisovoelh	Borisovo (elh)	Bulgarian	bulg1262	Prokic2009			
+Bovsvog	Bov (svog)	Bulgarian	bulg1262	Prokic2009			
+Brashljanmtarn	Brashljan (mtarn)	Bulgarian	bulg1262	Prokic2009			
+Buchinprohodgod	Buchin prohod (god)	Bulgarian	bulg1262	Prokic2009			
+Caparevosand	Caparevo (sand)	Bulgarian	bulg1262	Prokic2009			
+Cerovicakjust	Cerovica (kjust)	Bulgarian	bulg1262	Prokic2009			
+Chepelareasgr	Chepelare (asgr)	Bulgarian	bulg1262	Prokic2009			
+Chernogorovopaz	Chernogorovo (paz)	Bulgarian	bulg1262	Prokic2009			
+Chernomorecbs	Chernomorec (bs)	Bulgarian	bulg1262	Prokic2009			
+Chukovecradom	Chukovec (radom)	Bulgarian	bulg1262	Prokic2009			
+Dermanciluk	Dermanci (luk)	Bulgarian	bulg1262	Prokic2009			
+Devenciluk	Devenci (luk)	Bulgarian	bulg1262	Prokic2009			
+Devesilicakrgr	Devesilica (krgr)	Bulgarian	bulg1262	Prokic2009			
+Dichinvtarn	Dichin (vtarn)	Bulgarian	bulg1262	Prokic2009			
+Dinevohask	Dinevo (hask)	Bulgarian	bulg1262	Prokic2009			
+Divaslatinamont	Diva slatina (mont)	Bulgarian	bulg1262	Prokic2009			
+Divdjadovoshum	Divdjadovo (shum)	Bulgarian	bulg1262	Prokic2009			
+Dobarskorazl	Dobarsko (razl)	Bulgarian	bulg1262	Prokic2009			
+Dobroselectopgr	Dobroselec (topgr)	Bulgarian	bulg1262	Prokic2009			
+Dobroslavcisof	Dobroslavci (sof)	Bulgarian	bulg1262	Prokic2009			
+Dobrotinogd	Dobrotino (gd)	Bulgarian	bulg1262	Prokic2009			
+Dolnabeshovicavrach	Dolna beshovica (vrach)	Bulgarian	bulg1262	Prokic2009			
+Dolnadikanjaradom	Dolna dikanja (radom)	Bulgarian	bulg1262	Prokic2009			
+Dolnamelnatran	Dolna melna (tran)	Bulgarian	bulg1262	Prokic2009			
+Dolnariksamont	Dolna riksa (mont)	Bulgarian	bulg1262	Prokic2009			
+Dolnasrudenabel	Dolna srudena (bel)	Bulgarian	bulg1262	Prokic2009			
+Dolnibogrovsof	Dolni bogrov (sof)	Bulgarian	bulg1262	Prokic2009			
+Dolnolevskipan	Dolno levski (pan)	Bulgarian	bulg1262	Prokic2009			
+Dorkovovelgr	Dorkovo (velgr)	Bulgarian	bulg1262	Prokic2009			
+Drabishnaivgr	Drabishna (ivgr)	Bulgarian	bulg1262	Prokic2009			
+Dragizhevovtarn	Dragizhevo (vtarn)	Bulgarian	bulg1262	Prokic2009			
+Dragodanovosliv	Dragodanovo (sliv)	Bulgarian	bulg1262	Prokic2009			
+Dragoevopresl	Dragoevo (presl)	Bulgarian	bulg1262	Prokic2009			
+Dragojchincikjust	Dragojchinci (kjust)	Bulgarian	bulg1262	Prokic2009			
+Elovdolpk	Elov dol (pk)	Bulgarian	bulg1262	Prokic2009			
+Eninakaz	Enina (kaz)	Bulgarian	bulg1262	Prokic2009			
+Ezerovoparvom	Ezerovo (parvom)	Bulgarian	bulg1262	Prokic2009			
+Furenvrach	Furen (vrach)	Bulgarian	bulg1262	Prokic2009			
+Gabarebslat	Gabare (bslat)	Bulgarian	bulg1262	Prokic2009			
+Gabraelpel	Gabra (elpel)	Bulgarian	bulg1262	Prokic2009			
+Galatatetev	Galata (tetev)	Bulgarian	bulg1262	Prokic2009			
+Ganchovecdrjan	Ganchovec (drjan)	Bulgarian	bulg1262	Prokic2009			
+Garmengd	Garmen (gd)	Bulgarian	bulg1262	Prokic2009			
+Garvansil	Garvan (sil)	Bulgarian	bulg1262	Prokic2009			
+Gegapetr	Gega (petr)	Bulgarian	bulg1262	Prokic2009			
+Glozheneorjah	Glozhene (orjah)	Bulgarian	bulg1262	Prokic2009			
+Golemarakovicaelpel	Golema rakovica (elpel)	Bulgarian	bulg1262	Prokic2009			
+Golemomalovosliven	Golemo malovo (sliven)	Bulgarian	bulg1262	Prokic2009			
+Golicavarn	Golica (varn)	Bulgarian	bulg1262	Prokic2009			
+Goljamazheljaznatetev	Goljama zheljazna (tetev)	Bulgarian	bulg1262	Prokic2009			
+Goljamoshivachevosliv	Goljamo shivachevo (sliv)	Bulgarian	bulg1262	Prokic2009			
+Gornarosicasevl	Gorna rosica (sevl)	Bulgarian	bulg1262	Prokic2009			
+Gornivarpishtadrjan	Gorni varpishta (drjan)	Bulgarian	bulg1262	Prokic2009			
+Govedarcisam	Govedarci (sam)	Bulgarian	bulg1262	Prokic2009			
+Gradecvd	Gradec (vd)	Bulgarian	bulg1262	Prokic2009			
+Huhlaivgr	Huhla (ivgr)	Bulgarian	bulg1262	Prokic2009			
+Hvojnaasgr	Hvojna (asgr)	Bulgarian	bulg1262	Prokic2009			
+Indzhevojvodamtarn	Indzhe vojvoda (mtarn)	Bulgarian	bulg1262	Prokic2009			
+Ivanskishum	Ivanski (shum)	Bulgarian	bulg1262	Prokic2009			
+Izvorovoharm	Izvorovo (harm)	Bulgarian	bulg1262	Prokic2009			
+Javorovoasgr	Javorovo (asgr)	Bulgarian	bulg1262	Prokic2009			
+Kalipetrovosil	Kalipetrovo (sil)	Bulgarian	bulg1262	Prokic2009			
+Kalojanovoplov	Kalojanovo (plov)	Bulgarian	bulg1262	Prokic2009			
+Karaisenpavl	Karaisen (pavl)	Bulgarian	bulg1262	Prokic2009			
+Karanovoajt	Karanovo (ajt)	Bulgarian	bulg1262	Prokic2009			
+Kaspichannp	Kaspichan (np)	Bulgarian	bulg1262	Prokic2009			
+Koljumarinovochirp	Kolju marinovo (chirp)	Bulgarian	bulg1262	Prokic2009			
+Konskabrezn	Konska (brezn)	Bulgarian	bulg1262	Prokic2009			
+Kopilovcimont	Kopilovci (mont)	Bulgarian	bulg1262	Prokic2009			
+Koprivshticapird	Koprivshtica (pird)	Bulgarian	bulg1262	Prokic2009			
+Kortennzag	Korten (nzag)	Bulgarian	bulg1262	Prokic2009			
+Kosteneciht	Kostenec (iht)	Bulgarian	bulg1262	Prokic2009			
+Kovachevcisam	Kovachevci (sam)	Bulgarian	bulg1262	Prokic2009			
+Kozichinopom	Kozichino (pom)	Bulgarian	bulg1262	Prokic2009			
+Kramolinsevl	Kramolin (sevl)	Bulgarian	bulg1262	Prokic2009			
+Kraveniksevl	Kravenik (sevl)	Bulgarian	bulg1262	Prokic2009			
+Kretavrach	Kreta (vrach)	Bulgarian	bulg1262	Prokic2009			
+Krivnjarazgr	Krivnja (razgr)	Bulgarian	bulg1262	Prokic2009			
+Levunovosand	Levunovo (sand)	Bulgarian	bulg1262	Prokic2009			
+Liljachevr	Liljache (vr)	Bulgarian	bulg1262	Prokic2009			
+Lipnicabotgr	Lipnica (botgr)	Bulgarian	bulg1262	Prokic2009			
+Ljubenovamahalanzag	Ljubenova mahala (nzag)	Bulgarian	bulg1262	Prokic2009			
+Loboshrad	Lobosh (rad)	Bulgarian	bulg1262	Prokic2009			
+Lozensof	Lozen (sof)	Bulgarian	bulg1262	Prokic2009			
+Malomirovoelh	Malomirovo (elh)	Bulgarian	bulg1262	Prokic2009			
+Marchaevosof	Marchaevo (sof)	Bulgarian	bulg1262	Prokic2009			
+Marikostinovopetr	Marikostinovo (petr)	Bulgarian	bulg1262	Prokic2009			
+Markovoshum	Markovo (shum)	Bulgarian	bulg1262	Prokic2009			
+Merdanjavtarn	Merdanja (vtarn)	Bulgarian	bulg1262	Prokic2009			
+Merichlerichirp	Merichleri (chirp)	Bulgarian	bulg1262	Prokic2009			
+Mihalcipavl	Mihalci (pavl)	Bulgarian	bulg1262	Prokic2009			
+Milchinalakakul	Milchina laka (kul)	Bulgarian	bulg1262	Prokic2009			
+Momchilovcismol	Momchilovci (smol)	Bulgarian	bulg1262	Prokic2009			
+Mominabanjapl	Momina banja (pl)	Bulgarian	bulg1262	Prokic2009			
+Mominaklisurapz	Momina klisura (pz)	Bulgarian	bulg1262	Prokic2009			
+Momkovosvgr	Momkovo (svgr)	Bulgarian	bulg1262	Prokic2009			
+Mugladev	Mugla (dev)	Bulgarian	bulg1262	Prokic2009			
+Nikolovolipnikrus	Nikolovo(lipnik) (rus)	Bulgarian	bulg1262	Prokic2009			
+Nikolovohask	Nikolovo (hask)	Bulgarian	bulg1262	Prokic2009			
+Noevcibrezn	Noevci (brezn)	Bulgarian	bulg1262	Prokic2009			
+Novalovchagd	Nova lovcha (gd)	Bulgarian	bulg1262	Prokic2009			
+Novanadezhdahs	Nova nadezhda (hs)	Bulgarian	bulg1262	Prokic2009			
+Novoselotrojan	Novo selo (trojan)	Bulgarian	bulg1262	Prokic2009			
+Ognenkarn	Ognen (karn)	Bulgarian	bulg1262	Prokic2009			
+Omarchevonzag	Omarchevo (nzag)	Bulgarian	bulg1262	Prokic2009			
+Opanstzag	Opan (stzag)	Bulgarian	bulg1262	Prokic2009			
+Osenecrazgr	Osenec (razgr)	Bulgarian	bulg1262	Prokic2009			
+Panagjurishtegd	Panagjurishte (gd)	Bulgarian	bulg1262	Prokic2009			
+Paskalevecpavl	Paskalevec (pavl)	Bulgarian	bulg1262	Prokic2009			
+Pavelskoasgr	Pavelsko (asgr)	Bulgarian	bulg1262	Prokic2009			
+Pelatikovokjust	Pelatikovo (kjust)	Bulgarian	bulg1262	Prokic2009			
+Petarnicaplev	Petarnica (plev)	Bulgarian	bulg1262	Prokic2009			
+Pevectarg	Pevec (targ)	Bulgarian	bulg1262	Prokic2009			
+Plakovovt	Plakovo (vt)	Bulgarian	bulg1262	Prokic2009			
+Podviskarn	Podvis (karn)	Bulgarian	bulg1262	Prokic2009			
+Pozharevotutr	Pozharevo (tutr)	Bulgarian	bulg1262	Prokic2009			
+Rabishabelgr	Rabisha (belgr)	Bulgarian	bulg1262	Prokic2009			
+Radovenevr	Radovene (vr)	Bulgarian	bulg1262	Prokic2009			
+Rakevovr	Rakevo (vr)	Bulgarian	bulg1262	Prokic2009			
+Rakovicakul	Rakovica (kul)	Bulgarian	bulg1262	Prokic2009			
+Ranilugtryn	Rani lug (tryn)	Bulgarian	bulg1262	Prokic2009			
+Razboishtegod	Razboishte (god)	Bulgarian	bulg1262	Prokic2009			
+Ruzhincibelgr	Ruzhinci (belgr)	Bulgarian	bulg1262	Prokic2009			
+Sadinapop	Sadina (pop)	Bulgarian	bulg1262	Prokic2009			
+Saparevodup	Saparevo (dup)	Bulgarian	bulg1262	Prokic2009			
+Sekirovoplov	Sekirovo (plov)	Bulgarian	bulg1262	Prokic2009			
+Senokosblgr	Senokos (blgr)	Bulgarian	bulg1262	Prokic2009			
+Sestrinopetr	Sestrino (petr)	Bulgarian	bulg1262	Prokic2009			
+Shipkakaz	Shipka (kaz)	Bulgarian	bulg1262	Prokic2009			
+Shirokalakadev	Shiroka laka (dev)	Bulgarian	bulg1262	Prokic2009			
+Shirokidolsam	Shiroki dol (sam)	Bulgarian	bulg1262	Prokic2009			
+Shtipskoprov	Shtipsko (prov)	Bulgarian	bulg1262	Prokic2009			
+Skobelevosliv	Skobelevo (sliv)	Bulgarian	bulg1262	Prokic2009			
+Slaveinosmol	Slaveino (smol)	Bulgarian	bulg1262	Prokic2009			
+Slavjanovoplev	Slavjanovo (plev)	Bulgarian	bulg1262	Prokic2009			
+Smochevodupn	Smochevo (dupn)	Bulgarian	bulg1262	Prokic2009			
+Smolskopird	Smolsko (pird)	Bulgarian	bulg1262	Prokic2009			
+Solishtadev	Solishta (dev)	Bulgarian	bulg1262	Prokic2009			
+Sredeczlgr	Sredec (zlgr)	Bulgarian	bulg1262	Prokic2009			
+Stakevciblgr	Stakevci (blgr)	Bulgarian	bulg1262	Prokic2009			
+Stambolovohask	Stambolovo (hask)	Bulgarian	bulg1262	Prokic2009			
+Starmenbel	Starmen (bel)	Bulgarian	bulg1262	Prokic2009			
+Stoilovomt	Stoilovo (mt)	Bulgarian	bulg1262	Prokic2009			
+Straldzhajamb	Straldzha (jamb)	Bulgarian	bulg1262	Prokic2009			
+Stroevoplov	Stroevo (plov)	Bulgarian	bulg1262	Prokic2009			
+Suhindolvtarn	Suhindol (vtarn)	Bulgarian	bulg1262	Prokic2009			
+Sushicablgr	Sushica (blgr)	Bulgarian	bulg1262	Prokic2009			
+Svetlinatopgr	Svetlina (topgr)	Bulgarian	bulg1262	Prokic2009			
+Svirkovoharm	Svirkovo (harm)	Bulgarian	bulg1262	Prokic2009			
+Tihomirkrgr	Tihomir (krgr)	Bulgarian	bulg1262	Prokic2009			
+Tihomirovostzag	Tihomirovo (stzag)	Bulgarian	bulg1262	Prokic2009			
+Topolchanesliv	Topolchane (sliv)	Bulgarian	bulg1262	Prokic2009			
+Trancovicanik	Trancovica (nik)	Bulgarian	bulg1262	Prokic2009			
+Trastenikplev	Trastenik (plev)	Bulgarian	bulg1262	Prokic2009			
+Ustovosm	Ustovo (sm)	Bulgarian	bulg1262	Prokic2009			
+Vabelnik	Vabel (nik)	Bulgarian	bulg1262	Prokic2009			
+Vaklinovogd	Vaklinovo (gd)	Bulgarian	bulg1262	Prokic2009			
+Valchepolesvgr	Valche pole (svgr)	Bulgarian	bulg1262	Prokic2009			
+Varbicapresl	Varbica (presl)	Bulgarian	bulg1262	Prokic2009			
+Varbovoblgr	Varbovo (blgr)	Bulgarian	bulg1262	Prokic2009			
+Varduntarg	Vardun (targ)	Bulgarian	bulg1262	Prokic2009			
+Varvarapaz	Varvara (paz)	Bulgarian	bulg1262	Prokic2009			
+Vasiljovotetev	Vasiljovo (tetev)	Bulgarian	bulg1262	Prokic2009			
+Velkovcipk	Velkovci (pk)	Bulgarian	bulg1262	Prokic2009			
+Vinarovovid	Vinarovo (vid)	Bulgarian	bulg1262	Prokic2009			
+Vinishtemont	Vinishte (mont)	Bulgarian	bulg1262	Prokic2009			
+Vladinjalov	Vladinja (lov)	Bulgarian	bulg1262	Prokic2009			
+Vodenelh	Voden (elh)	Bulgarian	bulg1262	Prokic2009			
+Vojnjagovokarl	Vojnjagovo (karl)	Bulgarian	bulg1262	Prokic2009			
+Vracheshbotgr	Vrachesh (botgr)	Bulgarian	bulg1262	Prokic2009			
+Vranilovcigabr	Vranilovci (gabr)	Bulgarian	bulg1262	Prokic2009			
+Vresovoajt	Vresovo (ajt)	Bulgarian	bulg1262	Prokic2009			
+Zabardoasgr	Zabardo (asgr)	Bulgarian	bulg1262	Prokic2009			
+Zabernovomt	Zabernovo (mt)	Bulgarian	bulg1262	Prokic2009			
+Zamfirovoberk	Zamfirovo (berk)	Bulgarian	bulg1262	Prokic2009			
+Zanozheneberk	Zanozhene (berk)	Bulgarian	bulg1262	Prokic2009			
+Zdravkovecgabr	Zdravkovec (gabr)	Bulgarian	bulg1262	Prokic2009			
+Zelenigradtran	Zelenigrad (tran)	Bulgarian	bulg1262	Prokic2009			
+Zhaltushaard	Zhaltusha (ard)	Bulgarian	bulg1262	Prokic2009			
+Zheglicavid	Zheglica (vid)	Bulgarian	bulg1262	Prokic2009			
+Zhelensvog	Zhelen (svog)	Bulgarian	bulg1262	Prokic2009			
+Zheljazkovosred	Zheljazkovo (sred)	Bulgarian	bulg1262	Prokic2009			
+Zheravnakot	Zheravna (kot)	Bulgarian	bulg1262	Prokic2009			
+MidslandFr	Midsland (Fr)	Dutch	dutc1256	MAND			
+LiesFr	Lies (Fr)	Dutch	dutc1256	MAND			
+WestTerschellingFr	West-Terschelling (Fr)	Dutch	dutc1256	MAND			
+DenHoornNH	Den Hoorn (NH)	Dutch	dutc1256	MAND			
+BurenFr	Buren (Fr)	Dutch	dutc1256	MAND			
+OosterendFr	Oosterend (Fr)	Dutch	dutc1256	MAND			
+HolwerdFr	Holwerd (Fr)	Dutch	dutc1256	MAND			
+WierumFr	Wierum (Fr)	Dutch	dutc1256	MAND			
+KantensGn	Kantens (Gn)	Dutch	dutc1256	MAND			
+LeermensGn	Leermens (Gn)	Dutch	dutc1256	MAND			
+AduardGn	Aduard (Gn)	Dutch	dutc1256	MAND			
+SintAnnenGn	Sint-Annen (Gn)	Dutch	dutc1256	MAND			
+ScheveningenZH	Scheveningen (ZH)	Dutch	dutc1256	MAND			
+WateringenZH	Wateringen (ZH)	Dutch	dutc1256	MAND			
+CallantsoogNH	Callantsoog (NH)	Dutch	dutc1256	MAND			
+SchagenNH	Schagen (NH)	Dutch	dutc1256	MAND			
+KoedijkNH	Koedijk (NH)	Dutch	dutc1256	MAND			
+AbbekerkNH	Abbekerk (NH)	Dutch	dutc1256	MAND			
+WorkumFr	Workum (Fr)	Dutch	dutc1256	MAND			
+OudeschootFr	Oudeschoot (Fr)	Dutch	dutc1256	MAND			
+SlotenFr	Sloten (Fr)	Dutch	dutc1256	MAND			
+NijeholtpadeFr	Nijeholtpade (Fr)	Dutch	dutc1256	MAND			
+SmildeDr	Smilde (Dr)	Dutch	dutc1256	MAND			
+MusselGn	Mussel (Gn)	Dutch	dutc1256	MAND			
+ValthermondDr	Valthermond (Dr)	Dutch	dutc1256	MAND			
+TerApelGn	Ter Apel (Gn)	Dutch	dutc1256	MAND			
+KnokkeBeWv	Knokke (BeWv)	Dutch	dutc1256	MAND			
+OostendeBeWv	Oostende (BeWv)	Dutch	dutc1256	MAND			
+KoekelareBeWv	Koekelare (BeWv)	Dutch	dutc1256	MAND			
+ZuydcooteFrVl	Zuydcoote (FrVl)	Dutch	dutc1256	MAND			
+BrielleZH	Brielle (ZH)	Dutch	dutc1256	MAND			
+PiershilZH	Piershil (ZH)	Dutch	dutc1256	MAND			
+HaamstedeZe	Haamstede (Ze)	Dutch	dutc1256	MAND			
+BrouwershavenZe	Brouwershaven (Ze)	Dutch	dutc1256	MAND			
+GouderakZH	Gouderak (ZH)	Dutch	dutc1256	MAND			
+AmeideZH	Ameide (ZH)	Dutch	dutc1256	MAND			
+BuurmalsenGl	Buurmalsen (Gl)	Dutch	dutc1256	MAND			
+AlmkerkNB	Almkerk (NB)	Dutch	dutc1256	MAND			
+IngenGl	Ingen (Gl)	Dutch	dutc1256	MAND			
+RenkumGl	Renkum (Gl)	Dutch	dutc1256	MAND			
+ZevenaarGl	Zevenaar (Gl)	Dutch	dutc1256	MAND			
+NijmegenGl	Nijmegen (Gl)	Dutch	dutc1256	MAND			
+VarsseveldGl	Varsseveld (Gl)	Dutch	dutc1256	MAND			
+SilvoldeGl	Silvolde (Gl)	Dutch	dutc1256	MAND			
+UlftGl	Ulft (Gl)	Dutch	dutc1256	MAND			
+PoperingeBeWv	Poperinge (BeWv)	Dutch	dutc1256	MAND			
+MoorsledeBeWv	Moorslede (BeWv)	Dutch	dutc1256	MAND			
+KortrijkBeWv	Kortrijk (BeWv)	Dutch	dutc1256	MAND			
+MouscronBe	Mouscron (Be)	Dutch	dutc1256	MAND			
+NazarethBeOv	Nazareth (BeOv)	Dutch	dutc1256	MAND			
+WaregemBeWv	Waregem (BeWv)	Dutch	dutc1256	MAND			
+OoikeBeOv	Ooike (BeOv)	Dutch	dutc1256	MAND			
+HumbeekBeBr	Humbeek (BeBr)	Dutch	dutc1256	MAND			
+MeerbeekBeBr	Meerbeek (BeBr)	Dutch	dutc1256	MAND			
+WalshoutemBeBr	Walshoutem (BeBr)	Dutch	dutc1256	MAND			
+ZutendaalBeLb	Zutendaal (BeLb)	Dutch	dutc1256	MAND			
+SchinnenLb	Schinnen (Lb)	Dutch	dutc1256	MAND			
+BilzenBeLb	Bilzen (BeLb)	Dutch	dutc1256	MAND			
+KerkradeLb	Kerkrade (Lb)	Dutch	dutc1256	MAND			
+BrouckerqueFrVl	Brouckerque (FrVl)	Dutch	dutc1256	MAND			
+BollezeeleFrVl	Bollezeele (FrVl)	Dutch	dutc1256	MAND			
+NieurletFrVl	Nieurlet (FrVl)	Dutch	dutc1256	MAND			
+AmericanEnglish	American English	Germanic		Heggarty2007			
+CanadianEnglish	Canadian English	Germanic		Heggarty2007			
+CentralGermanCologne	Central German (Cologne)	Germanic		Heggarty2007			
+CentralGermanHonigberg	Central German (Honigberg)	Germanic		Heggarty2007			
+CentralGermanLuxembourg	Central German (Luxembourg)	Germanic		Heggarty2007			
+CentralGermanMurrhardt	Central German (Murrhardt)	Germanic		Heggarty2007			
+Danish	Danish	Germanic		Heggarty2007			
+DutchAntwerp	Dutch (Antwerp)	Germanic		Heggarty2007			
+BelgianDutch	Belgian Dutch	Germanic		Heggarty2007			
+DutchLimburg	Dutch (Limburg)	Germanic		Heggarty2007			
+DutchOstend	Dutch (Ostend)	Germanic		Heggarty2007			
+Dutch	Dutch	Germanic		Heggarty2007			
+NewZealandEnglishAuckland	New Zealand English (Auckland)	Germanic		Heggarty2007			
+EnglishBuckie	English (Buckie)	Germanic		Heggarty2007			
+IndianEnglishDelhi	Indian English (Delhi)	Germanic		Heggarty2007			
+NigerianEnglishIgbo	Nigerian English (Igbo)	Germanic		Heggarty2007			
+SouthAfricanEnglishJohannisburg	South African English (Johannisburg)	Germanic		Heggarty2007			
+EnglishLindisfarne	English (Lindisfarne)	Germanic		Heggarty2007			
+EnglishLiverpool	English (Liverpool	Germanic		Heggarty2007			
+EnglishLondon	English (London	Germanic		Heggarty2007			
+EnglishNorthCarolina	English (North Carolina)	Germanic		Heggarty2007			
+AustralianEnglishPerth	Australian English (Perth)	Germanic		Heggarty2007			
+EnglishSingapore	English (Singapore)	Germanic		Heggarty2007			
+English	English	Germanic		Heggarty2007			
+EnglishTyrone	English (Tyrone)	Germanic		Heggarty2007			
+Faroese	Faroese	Germanic		Heggarty2007			
+German	German	Germanic		Heggarty2007			
+HighGermanNorthAlsace	High German (North Alsace)	Germanic		Heggarty2007			
+HighGermanBiel	High German (Biel)	Germanic		Heggarty2007			
+HighGermanBodensee	High German (Bodensee)	Germanic		Heggarty2007			
+HighGermanGraubuenden	High German (Graubuenden)	Germanic		Heggarty2007			
+HighGermanHerrlisheim	High German (Herrlisheim)	Germanic		Heggarty2007			
+HighGermanOrtisei	High German (Ortisei)	Germanic		Heggarty2007			
+HighGermanTuebingen	High German (Tuebingen)	Germanic		Heggarty2007			
+HighGermanWalser	High German (Walser)	Germanic		Heggarty2007			
+Icelandic	Icelandic	Germanic		Heggarty2007			
+LowGermanAchterhoek	Low German (Achterhoek)	Germanic		Heggarty2007			
+LowGermanBargstedt	Low German (Bargstedt)	Germanic		Heggarty2007			
+NorwegianStavanger	Norwegian (Stavanger)	Germanic		Heggarty2007			
+Scottish	Scottish	Germanic		Heggarty2007			
+SwedishSkane	Swedish (Skane)	Germanic		Heggarty2007			
+SwedishStockholm	Swedish (Stockholm)	Germanic		Heggarty2007			
+WestFrisianGrou	West Frisian (Grou)	Germanic		Heggarty2007			
+YiddishNewYork	Yiddish (New York)	Germanic		Heggarty2007			
+ProtoGermanic	Proto-Germanic	Germanic		Heggarty2007			
+Miyako	Miyako	Japanese	nucl1643	Hattori1973			
+Tokyo	Tokyo	Japanese	nucl1643	Hattori1973			
+Amami	Amami	Japanese	nucl1643	Hattori1973			
+Kyoto	Kyoto	Japanese	nucl1643	Hattori1973			
+Hachijo	Hachijō	Japanese	nucl1643	Hattori1973			
+Shuri	Shuri	Japanese	nucl1643	Hattori1973			
+Kochi	Kōchi	Japanese	nucl1643	Hattori1973			
+Sado	Sado	Japanese	nucl1643	Hattori1973			
+Oki	Oki	Japanese	nucl1643	Hattori1973			
+Kagoshima	Kagoshima	Japanese	nucl1643	Hattori1973			
+Assery	Asserøy	Norwegian	norw1258	Almberg2011			
+Bjrnevatn	Bjørnevatn	Norwegian	norw1258	Almberg2011			
+Borre	Borre	Norwegian	norw1258	Almberg2011			
+Brekke	Brekke	Norwegian	norw1258	Almberg2011			
+Bryne	Bryne	Norwegian	norw1258	Almberg2011			
+Brnnysund	Brønnøysund	Norwegian	norw1258	Almberg2011			
+Bygstad	Bygstad	Norwegian	norw1258	Almberg2011			
+B	Bø	Norwegian	norw1258	Almberg2011			
+Dokka	Dokka	Norwegian	norw1258	Almberg2011			
+Dovre	Dovre	Norwegian	norw1258	Almberg2011			
+Eggesbneset	Eggesbøneset	Norwegian	norw1258	Almberg2011			
+Elnesvagen	Elnesvågen	Norwegian	norw1258	Almberg2011			
+Fagerhaug	Fagerhaug	Norwegian	norw1258	Almberg2011			
+Flate	Flåte	Norwegian	norw1258	Almberg2011			
+FoldvikBrunlanes	Foldvik, Brunlanes	Norwegian	norw1258	Almberg2011			
+Fyllingsdalen	Fyllingsdalen	Norwegian	norw1258	Almberg2011			
+Fyresdal	Fyresdal	Norwegian	norw1258	Almberg2011			
+Gjra	Gjøra	Norwegian	norw1258	Almberg2011			
+Hafrsfjord	Hafrsfjord	Norwegian	norw1258	Almberg2011			
+Halden	Halden	Norwegian	norw1258	Almberg2011			
+Hisy	Hisøy	Norwegian	norw1258	Almberg2011			
+Hundvag	Hundvåg	Norwegian	norw1258	Almberg2011			
+Kaldfarnes	Kaldfarnes	Norwegian	norw1258	Almberg2011			
+Kristiansand	Kristiansand	Norwegian	norw1258	Almberg2011			
+KrogtoftBorge	Krogtoft, Borge	Norwegian	norw1258	Almberg2011			
+Russland	Russland	Norwegian	norw1258	Almberg2011			
+Lillehammer	Lillehammer	Norwegian	norw1258	Almberg2011			
+Lomnes	Lomnes	Norwegian	norw1258	Almberg2011			
+Mandal	Mandal	Norwegian	norw1258	Almberg2011			
+Molde	Molde	Norwegian	norw1258	Almberg2011			
+Mrkved	Mørkved	Norwegian	norw1258	Almberg2011			
+NaasEide	Naas, Eide	Norwegian	norw1258	Almberg2011			
+Nordstrand	Nordstrand	Norwegian	norw1258	Almberg2011			
+Orkanger	Orkanger	Norwegian	norw1258	Almberg2011			
+RaundalenFagnastl	Raundalen, Fagnastøl	Norwegian	norw1258	Almberg2011			
+Sandnessjen	Sandnessjøen	Norwegian	norw1258	Almberg2011			
+Selfors	Selfors	Norwegian	norw1258	Almberg2011			
+Sortland	Sortland	Norwegian	norw1258	Almberg2011			
+Stange	Stange	Norwegian	norw1258	Almberg2011			
+Stanghelle	Stanghelle	Norwegian	norw1258	Almberg2011			
+Stjrdal	Stjørdal	Norwegian	norw1258	Almberg2011			
+Stjrdalshalsen	Stjørdalshalsen	Norwegian	norw1258	Almberg2011			
+Sta	Støa	Norwegian	norw1258	Almberg2011			
+Stre	Sætre	Norwegian	norw1258	Almberg2011			
+Srkjosen	Sørkjosen	Norwegian	norw1258	Almberg2011			
+Tjtta	Tjøtta	Norwegian	norw1258	Almberg2011			
+Troms	Tromsø	Norwegian	norw1258	Almberg2011			
+Trondheim	Trondheim	Norwegian	norw1258	Almberg2011			
+Tynsetsentrum	Tynset sentrum	Norwegian	norw1258	Almberg2011			
+Undheim	Undheim	Norwegian	norw1258	Almberg2011			
+ra	Øra	Norwegian	norw1258	Almberg2011			
+NorthMansi	North Mansi	Ob-Ugrian		Zhivlov2011			
+MiddleLozvaMansi	Middle Lozva Mansi	Ob-Ugrian		Zhivlov2011			
+LowerLozvaMansi	Lower Lozva Mansi	Ob-Ugrian		Zhivlov2011			
+KondaMansi	Konda Mansi	Ob-Ugrian		Zhivlov2011			
+TavdaMansi	Tavda Mansi	Ob-Ugrian		Zhivlov2011			
+UpperDemjankaKhanti	Upper Demjanka Khanti	Ob-Ugrian		Zhivlov2011			
+KondaKhanti	Konda Khanti	Ob-Ugrian		Zhivlov2011			
+NizjamKhanti	Nizjam Khanti	Ob-Ugrian		Zhivlov2011			
+SherkaliKhanti	Sherkali Khanti	Ob-Ugrian		Zhivlov2011			
+VakhKhanti	Vakh Khanti	Ob-Ugrian		Zhivlov2011			
+VerkhneKalimskKhanti	Verkhne Kalimsk Khanti	Ob-Ugrian		Zhivlov2011			
+VasjuganKhanti	Vasjugan Khanti	Ob-Ugrian		Zhivlov2011			
+VartovskojeKhanti	Vartovskoje Khanti	Ob-Ugrian		Zhivlov2011			
+LikrisovskojeKhanti	Likrisovskoje Khanti	Ob-Ugrian		Zhivlov2011			
+MalyjJuganKhanti	Malyj Jugan Khanti	Ob-Ugrian		Zhivlov2011			
+TremjuganKhanti	Tremjugan Khanti	Ob-Ugrian		Zhivlov2011			
+JuganKhanti	Jugan Khanti	Ob-Ugrian		Zhivlov2011			
+KazimKhanti	Kazim Khanti	Ob-Ugrian		Zhivlov2011			
+SinjaKhanti	Sinja Khanti	Ob-Ugrian		Zhivlov2011			
+ObdorskKhanti	Obdorsk Khanti	Ob-Ugrian		Zhivlov2011			
+PelimkaMansi	Pelimka Mansi	Ob-Ugrian		Zhivlov2011			
+Italian	Italian	Romance		Heggarty2007			
+French	French	Romance		Heggarty2007			
+Occitan	Occitan	Romance		Heggarty2007			
+Ligurian	Ligurian	Romance		Heggarty2007			
+LombardWest	Lombard (West)	Romance		Heggarty2007			
+LombardEast	Lombard (East)	Romance		Heggarty2007			
+Ladino	Ladino	Romance		Heggarty2007			
+Venetian	Venetian	Romance		Heggarty2007			
+Beijing	Běijīng	Sinitic	beij1234	Hou2004		39.9385466	116.1172766
+Changsha	Chángshà	Sinitic	chan1326	Hou2004		28.85032	112.943344
+Chengdu	Chéngdū	Sinitic	chen1267	Hou2004		30.605768	103.970947
+Fuzhou	Fùzhōu	Sinitic	fuzh1239	Hou2004		26.08904	119.294243
+Guangzhou	Guǎngzhōu	Sinitic	guan1279	Hou2004		23.1253503	112.9476548
+Guiyang	Guìyáng	Sinitic	guiy1235	Hou2004		26.71691	106.638336
+Haikou	Hǎikǒu	Sinitic	haer1234	Hou2004		45.846595	126.551056
+Hangzhou	Hángzhōu	Sinitic	hain1237	Hou2004		20.043869	110.329399
+Harbin	Hǎrbīn	Sinitic	hang1257	Hou2004		30.261316	120.0318057
+Hefei	Héfēi	Sinitic	hefe1234	Hou2004		31.873593	117.223663
+Hohhot	Hohhot	Sinitic	huhe1234	Hou2004		40.855526	111.743889
+Jianou	Jian'ou	Sinitic	jian1240	Hou2004		27.04237	118.307419
+Jinan	Jìnán	Sinitic	jina1245	Hou2004		36.690777	116.997299
+Kunming	Kùnmíng	Sinitic	kunm1234	Hou2004		25.049711	102.72274
+Lanzhou	Lánzhōu	Sinitic	lanz1234	Hou2004		36.080515	103.838425
+Meixian	Měixiàn	Sinitic	yuet1238	Hou2004		24.3522958	115.8903375
+Nanchang	Nánchàng	Sinitic	nanc1254	Hou2004		28.706609	115.857468
+Nanjing	Nánjīng	Sinitic	nanj1234	Hou2004		32.0989607	118.4575646
+Nanning	Nánníng	Sinitic	nann1239	Hou2004		22.848716	108.366165
+Pingyao	Pingyao	Sinitic	ping1247	Hou2004		37.1390706	111.9656111
+Qingdao	Qingdao	Sinitic	qing1240	Hou2004		36.089393	120.379715
+Shanghai	Shànghǎi	Sinitic	shan1293	Hou2004		31.222902	121.475372
+Shantou	Shāntóu	Sinitic	shan1244	Hou2004		23.3372419	116.6068173
+Shexian	Shèxiàn	Sinitic	shex1234	Hou2004		30.589829	118.428268
+Suzhou	Sùzhōu	Sinitic	suzh1234	Hou2004		31.3280439	120.364116
+Taibei	Táiběi	Sinitic	taib1242	Hou2004		25.0853403	121.4231642
+Taiyuan	Tàiyuán	Sinitic	taiy1243	Hou2004		37.8632119	112.4024883
+Taoyuan	Táoyuán	Sinitic	taoy1234	Hou2004		24.854549	120.9520006
+Tianjin	Tiānjìn	Sinitic	tian1238	Hou2004		39.186072	117.215424
+Tunxi	Tūnxī	Sinitic	tunx1234	Hou2004		29.7201616	118.2294365
+Urumqi	Ürümqi	Sinitic	ouji1238	Hou2004		28.005496	120.701179
+Wenzhou	Wénzhōu	Sinitic	wuha1234	Hou2004		30.624086	114.305649
+Wuhan	Wǔhàn	Sinitic	wulu1243	Hou2004		43.8216271	87.4226688
+Xiamen	Xiàmén	Sinitic	xian1253	Hou2004		34.228154	108.960571
+Xian	Xi'an	Sinitic	xiam1236	Hou2004		24.49421	118.08918
+Xianggang	Xiānggǎng	Sinitic	xian1255	Hou2004		22.422645	114.098396
+Xiangtan	Xiāngtàn	Sinitic	xian1254	Hou2004		27.8482649	112.7688127
+Xining	Xīníng	Sinitic	xini1234	Hou2004		36.671283	101.776886
+Yinchuan	Yīnchuàn	Sinitic	yinc1239	Hou2004		38.546662	106.240082
+Zhengzhou	Zhèngzhōu	Sinitic	zhen1241	Hou2004		34.807715	113.639374
+Bulgarian	Bulgarian	Slavic	bulg1262	Derksen2008			
+Czech	Czech	Slavic	czec1258	Derksen2008			
+Russian	Russian	Slavic	russ1263	Derksen2008			
+Polish	Polish	Slavic	poli1260	Derksen2008			
+Serbian	Serbian	Slavic	sout1528	Derksen2008			
+Arconciel	Arconciel	French	stan1290	Gauchat1925			
+Arnex	Arnex	French	stan1290	Gauchat1925			
+AvrysurMatran	Avry-sur-Matran	French	stan1290	Gauchat1925			
+Ayent	Ayent	French	stan1290	Gauchat1925			
+Boudry	Boudry	French	stan1290	Gauchat1925			
+Cerlatez	Cerlatez	French	stan1290	Gauchat1925			
+CerneuxPequignot	Cerneux-Péquignot	French	stan1290	Gauchat1925			
+Champery	Champéry	French	stan1290	Gauchat1925			
+Charnex	Charnex	French	stan1290	Gauchat1925			
+ChateaudOex	Château-d'Oex	French	stan1290	Gauchat1925			
+ChauxduMilieu	Chaux-du-Milieu	French	stan1290	Gauchat1925			
+Chevroux	Chevroux	French	stan1290	Gauchat1925			
+Collex	Collex	French	stan1290	Gauchat1925			
+Collombey	Collombey	French	stan1290	Gauchat1925			
+Commugny	Commugny	French	stan1290	Gauchat1925			
+Conthey	Conthey	French	stan1290	Gauchat1925			
+Corcelles	Corcelles	French	stan1290	Gauchat1925			
+CoteauxFees	Côte-aux-Fées	French	stan1290	Gauchat1925			
+Court	Court	French	stan1290	Gauchat1925			
+Courtedoux	Courtedoux	French	stan1290	Gauchat1925			
+Courtepin	Courtepin	French	stan1290	Gauchat1925			
+Develier	Develier	French	stan1290	Gauchat1925			
+Dompierre	Dompierre	French	stan1290	Gauchat1925			
+Evolene	Évolène	French	stan1290	Gauchat1925			
+Fully	Fully	French	stan1290	Gauchat1925			
+Grimentz	Grimentz	French	stan1290	Gauchat1925			
+Grone	Grône	French	stan1290	Gauchat1925			
+Hermance	Hermance	French	stan1290	Gauchat1925			
+Laconnex	Laconnex	French	stan1290	Gauchat1925			
+Lamboing	Lamboing	French	stan1290	Gauchat1925			
+Landeron	Landeron	French	stan1290	Gauchat1925			
+LAuberson	L'Auberson	French	stan1290	Gauchat1925			
+LeSentier	Le Sentier	French	stan1290	Gauchat1925			
+Longirod	Longirod	French	stan1290	Gauchat1925			
+Lourtier	Lourtier	French	stan1290	Gauchat1925			
+Martigny	Martigny	French	stan1290	Gauchat1925			
+Miege	Miège	French	stan1290	Gauchat1925			
+Montalchez	Montalchez	French	stan1290	Gauchat1925			
+Montbovon	Montbovon	French	stan1290	Gauchat1925			
+Montpreveyres	Montpreveyres	French	stan1290	Gauchat1925			
+Murist	Murist	French	stan1290	Gauchat1925			
+Nendaz	Nendaz	French	stan1290	Gauchat1925			
+Noiraigue	Noiraigue	French	stan1290	Gauchat1925			
+OrmontDessus	Ormont-Dessus	French	stan1290	Gauchat1925			
+Orsieres	Orsières	French	stan1290	Gauchat1925			
+Orvin	Orvin	French	stan1290	Gauchat1925			
+Plagne	Plagne	French	stan1290	Gauchat1925			
+Prahins	Prahins	French	stan1290	Gauchat1925			
+Roche	Roche	French	stan1290	Gauchat1925			
+Savagnier	Savagnier	French	stan1290	Gauchat1925			
+Saviese	Savièse	French	stan1290	Gauchat1925			
+Semsalves	Semsalves	French	stan1290	Gauchat1925			
+Sombeval	Sombeval	French	stan1290	Gauchat1925			
+StGingolph	St-Gingolph	French	stan1290	Gauchat1925			
+Sugiez	Sugiez	French	stan1290	Gauchat1925			
+Vallorbe	Vallorbe	French	stan1290	Gauchat1925			
+Vaugondry	Vaugondry	French	stan1290	Gauchat1925			
+Vermes	Vermes	French	stan1290	Gauchat1925			
+Vernier	Vernier	French	stan1290	Gauchat1925			
+Veyrier	Veyrier	French	stan1290	Gauchat1925			
+VillarsleTerroir	Villars-le-Terroir	French	stan1290	Gauchat1925			
+Vullierens	Vullierens	French	stan1290	Gauchat1925			
