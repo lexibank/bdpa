@@ -20,6 +20,8 @@ class CustomConcept(Concept):
 
 @attr.s 
 class CustomLanguage(Language):
+    Latitude = attr.ib(default=None)
+    Longitude = attr.ib(default=None)
     Name = attr.ib(default=None)
     Dataset = attr.ib(default=None)
     Source = attr.ib(default=None)
@@ -80,6 +82,42 @@ class Dataset(BaseDataset):
                 "ɔuɐ":"ɔuɐ/ɔɐ",
                 "aɪɐ":"aɪɐ/aɐ",
                 "ɔʊə":"ɔʊə/ɔə",
+                "iuə": "iuə/yə",
+                "œʊɑ": "œʊɑ/œɑ",
+                "ɑʊɔ": "ɑʊɔ/ɑɔ",
+                "ɔɪɛ": "ɔɪɛ/ɔɛ",
+                "oʊɤ": "oʊɤ/oɤ",
+                "ouə": "ouə/oə",
+                "oʊə": "oʊə/oə",
+                "ʊɛʊ": "ʊɛʊ/ɛʊ",
+                "uˡ": "uˡ/u",
+                "ɜıi": "ɜıi  ",
+                "ɾ̆": "ɾ̆/r",
+                "ıiı": "ıiı/ɨi",
+                "ɛɪʊ": "ɛɪʊ/ɛʊ",
+                "ʌɪɤ": "ʌɪɤ/ʌɤ",
+                "ɛɪɤ": "ɛɪɤ/ɛɤ",
+                "eiə": "eiə/eə",
+                "eɪə": "eɪə/eə",
+                "øʊə": "øʊə/øə",
+                "æeo": "æeo/æo",
+                "ɛɪɐ": "ɛɪɐ/ɛɐ",
+                "aɪə": "aɪə/aə",
+                "uɛi": "uɛi/ɛi",
+                "m̆": "m̆/m",
+                "ɜıi": "ɜıi/ɜi",
+                "ɒʊə": "ɒʊə/ɒə",
+                "ʧ": "tʃ",
+                "ʦ": "ts",
+                "ʨ": "tɕ",
+                "ʣ": "dz",
+                "ʤ": "dʒ",
+                "ʥ": "dʑ",
+                "ʧʰ": "tʃʰ",
+                "ʦ": "tsʰ",
+                "ʨ": "tɕʰ",
+                "aei": "aei/ai"
+
                 }
         
         for f in progressbar(self.raw_dir.joinpath('msa').glob('*.msa')):
