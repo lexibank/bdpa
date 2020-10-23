@@ -11,35 +11,29 @@ Available online at https://zenodo.org/record/11880/files/germanic.zip
 ## Statistics
 
 
-![Glottolog: 83%](https://img.shields.io/badge/Glottolog-83%25-yellowgreen.svg "Glottolog: 83%")
+![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
 ![Concepticon: 76%](https://img.shields.io/badge/Concepticon-76%25-yellow.svg "Concepticon: 76%")
-![Source: 0%](https://img.shields.io/badge/Source-0%25-red.svg "Source: 0%")
-![BIPA: 92%](https://img.shields.io/badge/BIPA-92%25-green.svg "BIPA: 92%")
-![CLTS SoundClass: 92%](https://img.shields.io/badge/CLTS%20SoundClass-92%25-green.svg "CLTS SoundClass: 92%")
+![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
+![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
+![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 538
 - **Concepts:** 590
 - **Lexemes:** 50,095
-- **Sources:** 0
+- **Sources:** 11
 - **Synonymy:** 1.06
 - **Cognacy:** 50,095 cognates in 750 cognate sets (0 singletons)
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
-- **Tokens:** 216,503
-- **Segments:** 765 (62 BIPA errors, 62 CTLS sound class errors, 704 CLTS modified)
-- **Inventory size (avg):** 51.72
-
-## Possible Improvements:
-
-
-
-- Entries missing sources: 50095/50095 (100.00%)
+- **Tokens:** 216,493
+- **Segments:** 754 (0 BIPA errors, 0 CTLS sound class errors, 755 CLTS modified)
+- **Inventory size (avg):** 51.73
 
 # Contributors
 
 Name | GitHub user | Description | Role
---- | --- | ---
+--- | --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer | Author
-Bryan Allen | | data collector | DataCollector
+Jelena Prokić | | DataCollector | DataCollector
 
 
