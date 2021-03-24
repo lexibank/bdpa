@@ -486,7 +486,7 @@
 | iɛː | 2 | ✓ | ✓ |
 | iᴀ | 2 | ✓ | ✓ |
 | jː | 2 | ✓ | ✓ |
-| k͡χ | 2 | ✓ | ✓ |
+| k͡χ | 2 | ? | ? |
 | lˠ | 2 | ✓ | ✓ |
 | lˠː | 2 | ✓ | ✓ |
 | nʲː | 2 | ✓ | ✓ |
@@ -767,7 +767,7 @@
 ## Unsegmentable lexemes (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM |
-||
+|------|------------|-----------|--------|
 
 (0 rows)
 
@@ -776,8 +776,10 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-||
+|:----------------------------|:---------------|:-----------|:--------|:---------------------|
+| HighGermanBiel-494_quick-1 | HighGermanBiel | 494_quick | kxɛk͡χ | kx ɛ <s> k͡χ </s> |
+| HighGermanBiel-86_todrink-1 | HighGermanBiel | 86_todrink | drɪŋk͡χ | d r ɪ ŋ <s> k͡χ </s> |
 
-(0 rows)
+(2 rows)
 
 
