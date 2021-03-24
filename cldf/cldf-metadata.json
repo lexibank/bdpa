@@ -5,7 +5,7 @@
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://zenodo.org/record/11880/files/germanic.zip",
     "dc:isVersionOf": null,
-    "dc:license": "CCBY-NC",
+    "dc:license": "https://creativecommons.org/licenses/by/4.0/",
     "dc:related": null,
     "dc:source": "sources.bib",
     "dc:title": "CLDF dataset derived from List and Proki\u0107's \"Benchmark Database of Phonetic Alignments\" from 2014",
@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bdpa",
-            "dc:created": "946e6ee"
+            "dc:created": "d512093"
         },
         {
             "rdf:type": "prov:Entity",

@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > List, Johann-Mattis and Jelena Prokić. (2014). A benchmark database of phonetic alignments in historical linguistics and dialectology. In: Proceedings of the International Conference on Language Resources and Evaluation (LREC), 26 — 31 May 2014, Reykjavik. 288-294.
 
-This dataset is licensed under a CCBY-NC license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at https://zenodo.org/record/11880/files/germanic.zip
 
