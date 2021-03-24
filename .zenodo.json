@@ -8,14 +8,12 @@
     "creators": [
         {
             "name": "Johann-Mattis List"
-        }
-    ],
-    "contributors": [
+        },
         {
-            "name": "Jelena Proki\u0107",
-            "type": "DataCollector"
+            "name": "Jelena Proki\u0107"
         }
     ],
+    "contributors": [],
     "communities": [
         {
             "identifier": "calc"

@@ -15,7 +15,7 @@
             "rdf:type": "prov:Entity",
             "dc:title": "Repository",
             "rdf:about": "https://github.com/lexibank/bdpa",
-            "dc:created": "d512093"
+            "dc:created": "ba423f2"
         },
         {
             "rdf:type": "prov:Entity",

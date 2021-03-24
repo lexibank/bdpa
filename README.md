@@ -34,6 +34,6 @@ Available online at https://zenodo.org/record/11880/files/germanic.zip
 Name | GitHub user | Description | Role
 --- | --- | --- | ---
 Johann-Mattis List | @LinguList | maintainer | Author
-Jelena Prokić | | DataCollector | DataCollector
+Jelena Prokić | | DataCollector | Author
 
 
