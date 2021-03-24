@@ -116,6 +116,7 @@ class Dataset(BaseDataset):
                 "ʧʰ": "tʃʰ",
                 "ʦ": "tsʰ",
                 "ʨ": "tɕʰ",
+                "k͡χ": "kx",
                 "aei": "aei/ai"
 
                 }

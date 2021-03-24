@@ -26,7 +26,7 @@ Available online at https://zenodo.org/record/11880/files/germanic.zip
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 216,493
-- **Segments:** 754 (1 BIPA errors, 1 CTLS sound class errors, 754 CLTS modified)
+- **Segments:** 753 (0 BIPA errors, 0 CTLS sound class errors, 754 CLTS modified)
 - **Inventory size (avg):** 51.73
 
 # Contributors
