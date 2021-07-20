@@ -1,8 +1,14 @@
 # CLDF dataset derived from List and Prokić's "Benchmark Database of Phonetic Alignments" from 2014
 
-Cite the source dataset as
+## How to cite
 
-> List, Johann-Mattis and Jelena Prokić. (2014). A benchmark database of phonetic alignments in historical linguistics and dialectology. In: Proceedings of the International Conference on Language Resources and Evaluation (LREC), 26 — 31 May 2014, Reykjavik. 288-294.
+If you use these data please cite
+- the original source
+  > List, Johann-Mattis and Jelena Prokić. (2014). A benchmark database of phonetic alignments in historical linguistics and dialectology. In: Proceedings of the International Conference on Language Resources and Evaluation (LREC), 26 — 31 May 2014, Reykjavik. 288-294.
+- the derived dataset using the DOI of the [particular released version](../../releases/) you were using
+
+## Description
+
 
 This dataset is licensed under a CC-BY-4.0 license
 
@@ -37,3 +43,10 @@ Johann-Mattis List | @LinguList | maintainer | Author
 Jelena Prokić | | DataCollector | Author
 
 
+
+
+## CLDF Datasets
+
+The following CLDF datasets are available in [cldf](cldf):
+
+- CLDF [Wordlist](https://github.com/cldf/cldf/tree/master/modules/Wordlist) at [cldf/cldf-metadata.json](cldf/cldf-metadata.json)
