@@ -8,9 +8,6 @@ from pylexibank.util import progressbar
 import lingpy
 from clldutils.misc import slug
 
-from collections import defaultdict
-#from pysen.glosses import to_concepticon
-
 
 @attr.s
 class CustomConcept(Concept):
@@ -18,7 +15,7 @@ class CustomConcept(Concept):
     MSA = attr.ib(default=None)
 
 
-@attr.s 
+@attr.s
 class CustomLanguage(Language):
     Latitude = attr.ib(default=None)
     Longitude = attr.ib(default=None)
@@ -26,12 +23,13 @@ class CustomLanguage(Language):
     Dataset = attr.ib(default=None)
     Source = attr.ib(default=None)
 
-    
+
 class Dataset(BaseDataset):
     dir = Path(__file__).parent
     id = "bdpa"
     concept_class = CustomConcept
     language_class = CustomLanguage
+    writer_options = dict(keep_languages=False, keep_parameters=False)
 
     def cmd_makecldf(self, args):
         args.writer.add_sources()
@@ -59,29 +57,28 @@ class Dataset(BaseDataset):
                 'ŋ̣̩': 'ŋ̍',
                 'ɸ͡x': 'ɸ͡x/ɸ',
                 "ouɚ": "ouɚ/oɚ",
-                "ouə":"ouə",
-                "ʌiə":"ʌiə/ʌə",
-                "aːəiə":"aːəiə/aːə",
-                "œːiə":"œːiə/œːə",
-                "æiə":"æiə/æə",
-                "ɛeə":"ɛeə/ɛə",
-                "ɛiɪ":"ɛiɪ/ɛɪ",
-                "ɛɪə":"ɛɪə/ɛə",
-                "ʊuʌ":"ʊuʌ/ʊʌ",
-                "euə":"euə/eə",
-                "aʊə":"aʊə/aə",
-                "æɪə":"æɪə/æə",
-                "ɛiə":"ɛiə/ɛə",
-                "ɒʊe":"ɒʊe/ɒe",
-                "ɪiə":"ɪiə/ɪə",
-                "iɪə":"iɪə/iə",
-                "æɛo":"æɛo/æo",
-                "æɪɛ":"æɪɛ/æɛ",
-                "əɪɜ":"əɪɜ/əɜ",
-                "ɐuɐ":"ɐuɐ/ɐɐ",
-                "ɔuɐ":"ɔuɐ/ɔɐ",
-                "aɪɐ":"aɪɐ/aɐ",
-                "ɔʊə":"ɔʊə/ɔə",
+                "ʌiə": "ʌiə/ʌə",
+                "aːəiə": "aːəiə/aːə",
+                "œːiə": "œːiə/œːə",
+                "æiə": "æiə/æə",
+                "ɛeə": "ɛeə/ɛə",
+                "ɛiɪ": "ɛiɪ/ɛɪ",
+                "ɛɪə": "ɛɪə/ɛə",
+                "ʊuʌ": "ʊuʌ/ʊʌ",
+                "euə": "euə/eə",
+                "aʊə": "aʊə/aə",
+                "æɪə": "æɪə/æə",
+                "ɛiə": "ɛiə/ɛə",
+                "ɒʊe": "ɒʊe/ɒe",
+                "ɪiə": "ɪiə/ɪə",
+                "iɪə": "iɪə/iə",
+                "æɛo": "æɛo/æo",
+                "æɪɛ": "æɪɛ/æɛ",
+                "əɪɜ": "əɪɜ/əɜ",
+                "ɐuɐ": "ɐuɐ/ɐɐ",
+                "ɔuɐ": "ɔuɐ/ɔɐ",
+                "aɪɐ": "aɪɐ/aɐ",
+                "ɔʊə": "ɔʊə/ɔə",
                 "iuə": "iuə/yə",
                 "œʊɑ": "œʊɑ/œɑ",
                 "ɑʊɔ": "ɑʊɔ/ɑɔ",
@@ -91,7 +88,6 @@ class Dataset(BaseDataset):
                 "oʊə": "oʊə/oə",
                 "ʊɛʊ": "ʊɛʊ/ɛʊ",
                 "uˡ": "uˡ/u",
-                "ɜıi": "ɜıi  ",
                 "ɾ̆": "ɾ̆/r",
                 "ıiı": "ıiı/ɨi",
                 "ɛɪʊ": "ɛɪʊ/ɛʊ",
@@ -114,18 +110,14 @@ class Dataset(BaseDataset):
                 "ʤ": "dʒ",
                 "ʥ": "dʑ",
                 "ʧʰ": "tʃʰ",
-                "ʦ": "tsʰ",
-                "ʨ": "tɕʰ",
                 "k͡χ": "kx",
                 "aei": "aei/ai"
-
                 }
-        
+
         for f in progressbar(self.raw_dir.joinpath('msa').glob('*.msa')):
             msa = lingpy.align.sca.MSA(f.as_posix())
             cogid = msa.infile.split('_')[-1][:-4]
-            for language, alignment in zip(msa.taxa,
-                    msa.alignment):
+            for language, alignment in zip(msa.taxa, msa.alignment):
                 alm = [converter.get(x, x) for x in alignment]
                 seq = [x for x in alm if x != '-']
                 lexeme = args.writer.add_form_with_segments(

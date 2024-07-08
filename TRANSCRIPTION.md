@@ -75,7 +75,7 @@
 | tʰ | 549 | ✓ | ✓ |
 | ˈl | 514 | ✓ | ✓ |
 | ɐ | 505 | ✓ | ✓ |
-| tsʰ | 484 | ✓ | ✓ |
+| ts | 484 | ✓ | ✓ |
 | ʁ | 471 | ✓ | ✓ |
 | ˈlʲ | 469 | ✓ | ✓ |
 | r̩ | 463 | ✓ | ✓ |
@@ -84,7 +84,7 @@
 | kʰ | 438 | ✓ | ✓ |
 | æ | 434 | ✓ | ✓ |
 | ɳ | 427 | ✓ | ✓ |
-| tɕʰ | 398 | ✓ | ✓ |
+| tɕ | 398 | ✓ | ✓ |
 | χ | 393 | ✓ | ✓ |
 | oː | 384 | ✓ | ✓ |
 | ˈʃ | 360 | ✓ | ✓ |
@@ -342,7 +342,7 @@
 | kːʰ | 7 | ✓ | ✓ |
 | n̥ | 7 | ✓ | ✓ |
 | t͡θʰ | 7 | ✓ | ✓ |
-| ł | 7 | ✓ | ✓ |
+| ł | 7 | ? | ? |
 | ɒɪ | 7 | ✓ | ✓ |
 | əʉ | 7 | ✓ | ✓ |
 | ɪiə/ɪə | 7 | ✓ | ✓ |
@@ -536,7 +536,7 @@
 | ɤu | 2 | ✓ | ✓ |
 | ɪɐ | 2 | ✓ | ✓ |
 | ɪɤ | 2 | ✓ | ✓ |
-| ɪɪə | 2 | ✓ | ✓ |
+| ɪɪə | 2 | ? | ? |
 | ɪʊ | 2 | ✓ | ✓ |
 | ɬː | 2 | ✓ | ✓ |
 | ɭː | 2 | ✓ | ✓ |
@@ -775,8 +775,17 @@
 ## Words with invalid segments (up to 100 only)
 
 | ID | LANGUAGE | CONCEPT | FORM | SEGMENTS |
-|------|------------|-----------|--------|------------|
+|:-------------------------------------------------------------------------------|:---------------------|:----------------------------------------------------------------|:--------|:----------------------|
+| EnglishNorthCarolina-523_tosit-1 | EnglishNorthCarolina | 523_tosit | sɪɪət | s <s> ɪɪə </s> t |
+| EnglishNorthCarolina-526_wind-1 | EnglishNorthCarolina | 526_wind | wɪɪənd | w <s> ɪɪə </s> n d |
+| Grimentz-650_frenchlacleflatinclavechart103-1 | Grimentz | 650_frenchlacleflatinclavechart103 | kła | k <s> ł </s> a |
+| Grimentz-651_frenchunfleaulatinflagelluchart115-1 | Grimentz | 651_frenchunfleaulatinflagelluchart115 | hłɛje | h <s> ł </s> ɛ j e |
+| Grimentz-656_frenchlecerclelatincirculuchart154-1 | Grimentz | 656_frenchlecerclelatincirculuchart154 | ʃɛrkłɔ | ʃ ɛ r k <s> ł </s> ɔ |
+| Grimentz-674_frenchunecuillereedescuillereeslatincochlearataataschart244-1 | Grimentz | 674_frenchunecuillereedescuillereeslatincochlearataataschart244 | kʊłɛraː | k ʊ <s> ł </s> ɛ r aː |
+| Grimentz-697_frenchaugenoulatingenucluchart408-1 | Grimentz | 697_frenchaugenoulatingenucluchart408 | zɔnɔł | z ɔ n ɔ <s> ł </s> |
+| OrmontDessus-674_frenchunecuillereedescuillereeslatincochlearataataschart244-1 | OrmontDessus | 674_frenchunecuillereedescuillereeslatincochlearataataschart244 | kułɛraː | k u <s> ł </s> ɛ r aː |
+| OrmontDessus-685_frenchmieuxquellelatinmeliusillichart302-1 | OrmontDessus | 685_frenchmieuxquellelatinmeliusillichart302 | tʲɛłi | tʲ ɛ <s> ł </s> i |
 
-(0 rows)
+(9 rows)
 
 
