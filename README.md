@@ -1,5 +1,7 @@
 # CLDF dataset derived from List and Prokić's "Benchmark Database of Phonetic Alignments" from 2014
 
+[![CLDF validation](https://github.com/lexibank/bdpa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bdpa/actions?query=workflow%3ACLDF-validation)
+
 ## How to cite
 
 If you use these data please cite
@@ -17,14 +19,15 @@ Available online at https://zenodo.org/record/11880/files/germanic.zip
 ## Statistics
 
 
+[![CLDF validation](https://github.com/lexibank/bdpa/workflows/CLDF-validation/badge.svg)](https://github.com/lexibank/bdpa/actions?query=workflow%3ACLDF-validation)
 ![Glottolog: 86%](https://img.shields.io/badge/Glottolog-86%25-yellowgreen.svg "Glottolog: 86%")
 ![Concepticon: 76%](https://img.shields.io/badge/Concepticon-76%25-yellow.svg "Concepticon: 76%")
 ![Source: 100%](https://img.shields.io/badge/Source-100%25-brightgreen.svg "Source: 100%")
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 538
-- **Concepts:** 590
+- **Varieties:** 538 (linked to 61 different Glottocodes)
+- **Concepts:** 590 (linked to 297 different Concepticon concept sets)
 - **Lexemes:** 50,095
 - **Sources:** 11
 - **Synonymy:** 1.06
@@ -32,7 +35,7 @@ Available online at https://zenodo.org/record/11880/files/germanic.zip
 - **Cognate Diversity:** 0.00
 - **Invalid lexemes:** 0
 - **Tokens:** 216,493
-- **Segments:** 753 (0 BIPA errors, 0 CTLS sound class errors, 754 CLTS modified)
+- **Segments:** 753 (2 BIPA errors, 2 CLTS sound class errors, 752 CLTS modified)
 - **Inventory size (avg):** 51.73
 
 # Contributors
